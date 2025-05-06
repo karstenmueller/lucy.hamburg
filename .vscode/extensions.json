@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "hashicorp.terraform",
+        "budparr.language-hugo-vscode",
+        "foxundermoon.shell-format",
+        "timonwong.shellcheck"
+    ]
+}
