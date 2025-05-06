@@ -11,4 +11,5 @@ variable "cloudflare_site_name" {
 }
 
 variable "cloudflare_api_token" {
+  sensitive = true
 }
