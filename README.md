@@ -8,6 +8,7 @@ Create site template:
 ~~~shell
 hugo new site site
 git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git site/themes/ananke
+git submodule add https://github.com/statichunt/iwriter-hugo site/themes/iwriter
 ~~~
 
 Create first post:
