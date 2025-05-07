@@ -13,15 +13,8 @@ git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git site/
 Create first post:
 ~~~shell
 cd site
-hugo new content content/posts/my-first-post.md
-cat > content/posts/my-first-post.md
-++
-title = 'My First Post'
-date = 2024-01-14T07:07:07+01:00
-draft = true
-+++
-## Introduction
-^D
+mkdir -p content/en
+hugo new content/en/about.md 
 ~~~
 
 

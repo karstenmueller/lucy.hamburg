@@ -1,4 +1,48 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lucy.hamburg'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Sailing Lucy'
 theme = 'ananke'
+
+SectionPagesMenu = "main"
+pagination.pagerSize = 3    # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+# Set default content directory for multilingual
+contentDir = 'content'
+# Set fallback if international version is not available
+defaultContentLanguage = 'en'
+# Set the default language as the root rather than in folder i.e. don't use /en/
+defaultContentLanguageInSubdir = false
+
+[languages.en]
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[params]
+author = ""
+favicon = true
+site_logo = "images/logo.png"
+description = "Sailing voyages and other follies"
+# choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+background_color_class = "bg-moon-gray"
+text_color = "near-black"
+recent_posts_number = 3
+body_classes = "avenir bg-near-white"
+date_format = "2. January 2006"
+
+[ananke.social.share]
+icons = true
+sharetext = true
+networks = [
+  "email",
+  "instagram"
+]
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/sailing.lucy/"
+label = 'instagram'

@@ -2,3 +2,13 @@
 **/.envrc
 **/*local*
 **/*.lock*
+
+# Hugo
+**/.hugo_build.lock
+**/resources/_gen/
+**/public/
+
+.DS_Store
+node_modules
+dist
+tmp
