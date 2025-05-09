@@ -11,6 +11,8 @@ theme = 'ananke'
 enableRobotsTXT = true
 enableGitInfo = true
 
+sectionPagesMenu = 'main'
+
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
@@ -47,3 +49,5 @@ username = "sailing.lucy"
 # service = 'GitHub'
 # urlPatternEdit = 'https://github.com/%s/%s/edit/%s/%s'
 # urlPatternView = 'https://github.com/%s/%s/blob/%s/%s'
+
+# https://lucy.hamburg/posts/
