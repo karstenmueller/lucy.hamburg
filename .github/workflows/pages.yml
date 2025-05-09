@@ -30,7 +30,7 @@ jobs:
       #   run: npm install
 
       - name: Build for test
-        run: hugo --source site --baseUrl '/' --cleanDestinationDir --enableGitInfo --gc
+        run: hugo --source site --baseURL '/' --cleanDestinationDir --enableGitInfo --gc
         # if: ${{ false }}
 
       - name: Run htmltest
