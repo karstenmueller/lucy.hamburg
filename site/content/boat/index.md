@@ -18,7 +18,7 @@ Die **Contessa 32** ist ein beliebter klassischer Cruiser-Racer, der für sein r
 
 Die **Contessa 32** wurde in den 1960er Jahren von dem britischen Designer **David Sadler** entworfen und von **Jeremy Rogers Ltd** gebaut Sie zeichnete sich durch ihre robuste Bauweise und ihre exzellenten Segeleigenschaften aus, was sie sowohl für Regatten als auch für lange, entspannte Törns auf dem offenen Meer prädestinierte. Mit einer Länge von 9,75 Metern und einer Breite von 2,50 Metern gehört sie zu den beliebten Mittelklassen-Yachten, die durch ihre stabile Rumpfform und die hohe Lebensdauer überzeugen.
 
-Weitere Informationen über die **Contessa 32** und ihre Geschichte findest du auf [Contessa Yachts](https://www.contessayachts.co.uk/), der offiziellen Webseite des Herstellers.
+Weitere Informationen über die **Contessa 32** und ihre Geschichte findest du unter [Contessa 32 New Build](https://www.jeremyrogers.co.uk/contessa-32-new-build/), der offiziellen Webseite von Jeremy Rogers Limited.
 
 Die Contessa 32 ist ein echtes Meisterwerk der Ingenieurskunst und bietet auf See sowohl Sicherheit als auch Geschwindigkeit. Ihr starker Rumpf macht sie ideal für rauere Gewässer und stellt sicher, dass sie auch unter schwierigen Bedingungen zuverlässig performt.
 
