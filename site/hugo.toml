@@ -5,15 +5,17 @@ theme = 'ananke'
 
 SectionPagesMenu = "main"
 pagination.pagerSize = 3    # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+# googleAnalytics = ""
 enableRobotsTXT = true
 
-# Set default content directory for multilingual
-contentDir = 'content'
-# Set fallback if international version is not available
-defaultContentLanguage = 'en'
-# Set the default language as the root rather than in folder i.e. don't use /en/
-defaultContentLanguageInSubdir = false
+# # Set default content directory for multilingual
+# contentDir = 'content'
+# # Set fallback if international version is not available
+# defaultContentLanguage = 'en'
+# # Set the default language as the root rather than in folder i.e. don't use /en/
+# defaultContentLanguageInSubdir = false
+
+
 
 [languages.en]
 
@@ -24,7 +26,6 @@ filename = "sitemap.xml"
 
 [params]
 author = ""
-favicon = true
 site_logo = "images/logo.png"
 description = "Sailing voyages and other follies"
 # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
@@ -33,16 +34,21 @@ text_color = "near-black"
 recent_posts_number = 3
 body_classes = "avenir bg-near-white"
 date_format = "2. January 2006"
+editonEnable = true
 
-[ananke.social.share]
-icons = true
-sharetext = true
+[params.ananke.social.follow]
+new_window_icon = true
 networks = [
-  "email",
   "instagram"
 ]
 
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/sailing.lucy/"
-label = 'instagram'
+[params.ananke.social.instagram]
+username = "sailing.lucy"
+
+[params.repository]
+branch = 'main'
+owner = 'karstenmueller'
+repo = 'lucy.hamburg'
+service = 'GitHub'
+urlPatternEdit = 'https://github.com/%s/%s/edit/%s/%s'
+urlPatternView = 'https://github.com/%s/%s/blob/%s/%s'

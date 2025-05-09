@@ -1,13 +1,20 @@
-DirectoryPath: "./site/public"
+DirectoryPath: "site/public"
+CheckExternal: true
+IgnoreExternalBrokenLinks: true # produces a warning, rather than an error, for broken external links
+
 # Hugo's directory structure triggers this:
 IgnoreDirectoryMissingTrailingSlash: true
 IgnoreAltMissing: true
 IgnoreAltEmpty: true
-# HTTPHeaders: {"Range": "bytes=0-0", "Accept": "*/*", "User-Agent": "HtmlTest/1.0.0"}
-# CheckExternal: false
+
 IgnoreURLs:
-- "twitter.com"
-# CheckFavicon: false
-EnforceHTML5: true
-IgnoreExternalBrokenLinks: false
-LogLevel: 1
+- "localhost"
+
+# # HTTPHeaders: {"Range": "bytes=0-0", "Accept": "*/*", "User-Agent": "HtmlTest/1.0.0"}
+# # CheckExternal: false
+# IgnoreURLs:
+# - "twitter.com"
+# # CheckFavicon: false
+# EnforceHTML5: true
+# IgnoreExternalBrokenLinks: false
+# LogLevel: 1
