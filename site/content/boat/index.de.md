@@ -1,7 +1,7 @@
 ---
-title: Boat
+title: Boot
 date: 2025-05-07
-menus: main
+slug: "boot"
 ---
 
 ## Die Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition

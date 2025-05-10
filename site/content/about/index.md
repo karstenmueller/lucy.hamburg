@@ -1,7 +1,7 @@
 +++
 date = '2025-05-07T19:23:01+02:00'
-menus = 'main'
 title = 'About'
+slug = "about"
 +++
 
 ![Karsten](/images/karsten_small.png)

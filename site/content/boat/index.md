@@ -1,7 +1,7 @@
 ---
 title: Boat
 date: 2025-05-07
-menus: main
+slug: "boat"
 ---
 
 ## Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition

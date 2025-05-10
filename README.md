@@ -46,4 +46,6 @@ To remove a submodule you need to:
 - Delete the now untracked submodule files rm -rf path_to_submodule
 
 ## References
+
+- https://github.com/lookscanned/lookscanned-blog/tree/main
 - https://kpwn.de/2021/09/how-to-set-up-this-blog/
