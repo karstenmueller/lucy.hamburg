@@ -1,0 +1,12 @@
+baseURL: https://lucy.hamburg
+copyright: ""
+theme: PaperMod
+enableRobotsTXT: true
+enableGitInfo: true
+
+DefaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+
+# analytics:
+#   google:
+#   SiteVerificationTag: "XYZabc"
