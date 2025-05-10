@@ -1,17 +1,16 @@
-+++
-title = "Boat"
-date = '2025-05-07'
-menus = 'main'
-+++
+---
+title: Boat
+date: 2025-05-07
+menus: main
+---
 
-# The Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition
+## Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition
 
 The **Contessa 32** is a popular classic cruiser-racer, known for its robust design and seaworthiness. With its elegant design and exceptional sailing qualities, it has earned a firm place in the hearts of sailors worldwide.
 
 **If it looks right, it possibly is right**
 
-![Lucy on the Water](sunny.jpeg)
-*'Lucy' on the water*
+{{< figure align=center src="sunny.jpeg" alt="Lucy on the water" caption="Lucy on the water (Doublre Rundt Regatta 2024)">}}
 
 ## The Contessa 32 – A Legendary Design
 
@@ -32,12 +31,12 @@ Lucy boasts an exceptionally well-kept interior. Her deck and rigging are in pri
 
 ## The Equipment of the Contessa 32 'Lucy'
 
-The **Lucy** is not only a sight to behold on the water but also a real gem inside. Sailors will find a combination of traditional style and practical features:
+The Contessa 32 **Lucy** is not only a sight to behold on the water but also a real gem inside. Sailors will find a combination of traditional style and practical features:
 
 - **Classic teak interior**: Lucy’s cabin is lined with fine teak wood, creating a warm and inviting atmosphere.
 - **Fully equipped galley**: A well-appointed galley with stove, sink, and fridge ensures that longer trips are comfortable and enjoyable.
-- **Comfortable cabins**: Two sleeping cabins accommodate four people, making extended voyages a relaxed experience.
-- **Modern navigation systems**: Despite her classic character, Lucy is fitted with a modern GPS and navigation system providing precise and reliable information at sea.
+- **Comfortable cabins**: Two sleeping bunks ands a forepeak accommodate four people, making extended voyages a relaxed experience.
+- **Modern navigation systems**: Despite her classic character, Lucy is fitted with a modern navigation system providing precise and reliable information at sea.
 - **Sails and rigging**: The sails are in good condition, and the rigging is regularly maintained to guarantee maximum safety and performance.
 
 ![Breakfast on board](morning.jpeg)

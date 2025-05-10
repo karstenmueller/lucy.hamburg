@@ -1,0 +1,57 @@
+baseURL: https://lucy.hamburg
+DefaultContentLanguage: en
+title: Sailing Lucy
+copyright: ""
+theme: PaperMod
+enableRobotsTXT: true
+enableGitInfo: true
+sectionPagesMenu: main
+
+sitemap:
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  author: Karsten
+  # site_logo: images/lucy_logo_150.png
+  description: Sailing Contessa 32 Lucy and other follies
+  keywords: [Sailing, Contessa 32, Co32, Lucy]
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  images: ["images/lucy_logo.png"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowBreadCrumbs: true
+  hideFooter: true
+  disableScrollToTop: true
+
+  fuseOpts: # search
+      ignoreLocation: true
+      keys: ["title", "permalink", "summary", "content"]
+
+  socialIcons:
+      - name: email
+        url: "mailto:sylucy.hamburg@gmail.com"
+      - name: instagram
+        url: "https://www.instagram.com/sailing.lucy/"
+
+  editPost:
+    URL: "https://github.com/karstenmueller/lucy.hamburg/edit/main/site/content"
+    Text: "Edit" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  minify:
+    disableXML: true
+    minifyOutput: true
+
+# analytics:
+#   google:
+#   SiteVerificationTag: "XYZabc"
+
