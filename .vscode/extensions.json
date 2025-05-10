@@ -3,6 +3,7 @@
         "hashicorp.terraform",
         "budparr.language-hugo-vscode",
         "foxundermoon.shell-format",
-        "timonwong.shellcheck"
+        "timonwong.shellcheck",
+        "mohd-akram.vscode-html-format"
     ]
 }

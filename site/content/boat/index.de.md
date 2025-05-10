@@ -1,10 +1,10 @@
-+++
-title = "Boat"
-date = '2025-05-07'
-menus = 'main'
-+++
+---
+title: Boat
+date: 2025-05-07
+menus: main
+---
 
-# Die Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition
+## Die Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition
 
 Die **Contessa 32** ist ein beliebter klassischer Cruiser-Racer, der für sein robustes Design und seine Seetüchtigkeit bekannt ist.Mit ihrem eleganten Design und außergewöhnlichen Segeleigenschaften hat sie sich einen festen Platz in den Herzen von Seglern auf der ganzen Welt erobert.
 
@@ -12,7 +12,6 @@ Die **Contessa 32** ist ein beliebter klassischer Cruiser-Racer, der für sein r
 
 ![Lucy auf dem Wasser](sunny.jpeg)
 *'Lucy' auf dem Wasser*
-
 
 ## Die Contessa 32 – Ein legendärer Entwurf
 
