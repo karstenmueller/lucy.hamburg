@@ -15,9 +15,6 @@ Lucy’s home port is Hamburg. Hamburg lies on the Elbe and sailing begins right
 
 The Elbe is a tidal area; the current does not always flow downstream as in all rivers but, thanks to the flood tide, sometimes flows upstream. To have fun and make progress, one generally follows the tide. It sets the rhythm and the timings for departure and arrival.
 
-![On the Elbe](container.jpeg)
-*Sailing on River Elbe*
-
 ![View of the Elbphilharmonie](elbe.jpeg)
 *View of the Elbphilharmonie*
 
