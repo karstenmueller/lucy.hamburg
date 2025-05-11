@@ -79,10 +79,10 @@ jobs:
           command: pages deploy public --project-name=${{ secrets.CLOUDFLARE_DOMAIN_NAME }} --branch=main
 
   deploy-to-github-pages:
-    name: Deploy to Cloudflare Pages
+    name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
     needs:
       - build
     steps:
