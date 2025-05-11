@@ -49,3 +49,4 @@ To remove a submodule you need to:
 
 - https://github.com/lookscanned/lookscanned-blog/tree/main
 - https://kpwn.de/2021/09/how-to-set-up-this-blog/
+- https://github.com/reorx/hugo-PaperModX

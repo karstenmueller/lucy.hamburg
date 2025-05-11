@@ -1,0 +1,79 @@
+name: Build and Deploy
+
+on:
+  schedule:
+    - cron: "0 5 * * 1" # at 05:00 on Monday
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.147.2'
+          extended: true
+
+      - name: Build for testing
+        run: hugo --source site --baseURL '/' --cleanDestinationDir --enableGitInfo --gc
+
+      - name: Run tests
+        uses: wjdp/htmltest-action@master
+        continue-on-error: true # continue or fail on broken links
+        with:
+          config: .htmltest.yml
+
+      - name: Archive htmltest results
+        uses: actions/upload-artifact@v4
+        with:
+          name: htmltest-report
+          path: tmp/.htmltest/htmltest.log
+          retention-days: 7 # Default is 90 days
+                 
+      - name: Build for publishing
+        run: hugo --source site --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: public
+          path: site/public
+
+  deploy-to-cloudflare-pages:
+    name: Deploy to Cloudflare Pages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    needs:
+      - build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    environment:
+      name: cloudflare-pages
+      url: ${{ steps.deployment.outputs.deployment-url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: site/public
+
+      - name: Deploy to Cloudflare Pages Release
+        uses: cloudflare/wrangler-action@v3
+        id: deployment
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site/public --project-name=${{ secrets.CLOUDFLARE_DOMAIN_NAME }} --branch=main

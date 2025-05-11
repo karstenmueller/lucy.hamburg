@@ -3,10 +3,15 @@
 **/*local*
 **/*.lock*
 
+tmp/
+
 # Hugo
 **/.hugo_build.lock
 **/resources/_gen/
 **/public/
+
+/.terraform/
+**/.envrc
 
 .DS_Store
 node_modules

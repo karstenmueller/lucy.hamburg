@@ -1,7 +1,9 @@
 
 en:
-  languagename: English
+  languageName: "🇬🇧"
   title: Sailing Lucy
+  languageNameShort: "en"
+  languageCode: "en_UK"
   weight: 0
   menu:
     main:
@@ -30,8 +32,10 @@ en:
           or <a target="_blank" href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY">Marinetraffic</a>
           {{< /rawhtml >}}
 de:
-  languagename: Deutsch
+  languagename: 🇩🇪
   title: Segeln mit Lucy
+  languageNameShort: "de"
+  languageCode: "de_DE"
   weight: 1
   menu:
     main:
