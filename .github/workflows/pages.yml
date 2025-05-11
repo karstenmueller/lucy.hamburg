@@ -71,7 +71,7 @@ jobs:
           path: site/public
 
       - name: Deploy to Cloudflare Pages Release
-        uses: cloudflare/wrangler-action@v4
+        uses: cloudflare/wrangler-action@v3
         id: deployment
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
