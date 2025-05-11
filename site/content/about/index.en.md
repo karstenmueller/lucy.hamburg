@@ -1,10 +1,13 @@
-+++
-date = '2025-05-07T19:23:01+02:00'
-title = 'About'
-slug = "about"
-+++
-
-![Karsten](/images/karsten_small.png)
+---
+date: "2025-05-07"
+title: "About"
+slug: "about"
+cover:
+  image: "/images/water.jpeg"
+  alt: ""
+  caption: ""
+  relative: false # Use relative path for cover image, particularly in Hugo page bundles
+---
 
 ## What I Love About Sailing
 

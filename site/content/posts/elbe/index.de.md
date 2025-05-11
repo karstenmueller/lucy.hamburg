@@ -1,8 +1,14 @@
-+++
-date = '2025-05-07T19:48:46+02:00'
-draft = false
-title = 'Segeln auf der Elbe'
-+++
+---
+date: '2025-05-07T19:48:46+02:00'
+draft: false
+title: 'Segeln auf der Elbe'
+cover:
+  image: "container.jpeg"
+  alt: ""
+  caption: ""
+  relative: true # Use relative path for cover image, particularly in Hugo page bundles
+---
+
 
 ![Auf der Elbe](container.jpeg)
 *Segeln auf der Elbe*

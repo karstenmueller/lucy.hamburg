@@ -50,3 +50,9 @@ To remove a submodule you need to:
 - https://github.com/lookscanned/lookscanned-blog/tree/main
 - https://kpwn.de/2021/09/how-to-set-up-this-blog/
 - https://github.com/reorx/hugo-PaperModX
+- https://deuts.org/p/hugo-callouts/
+
+## Google
+
+- [Search Console](https://search.google.com/search-console?resource_id=sc-domain%3Alucy.hamburg)
+- [Google Analytics](https://analytics.google.com/analytics/web/provision/?hl=de#/p488901006/reports/intelligenthome)

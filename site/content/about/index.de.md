@@ -3,9 +3,12 @@ date: "2025-05-07"
 menus: main"
 title: "Über"
 slug: "ueber"
+cover:
+  image: "/images/water.jpeg"
+  alt: ""
+  caption: ""
+  relative: false # Use relative path for cover image, particularly in Hugo page bundles
 ---
-
-![Karsten](/images/karsten_small.png)
 
 ## Was ich am Segeln liebe
 
