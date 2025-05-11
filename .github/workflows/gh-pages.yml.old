@@ -1,6 +1,8 @@
 name: Build and Deploy to gh-pages branch
 
 on:
+  schedule:
+    - cron: "0 5 * * 1" # at 05:00 on Monday
   push:
     branches:
       - main  # Set a branch to deploy
@@ -8,7 +10,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
