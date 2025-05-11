@@ -67,7 +67,7 @@ jobs:
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
-          name: site/public
+          name: public
           path: site/public
 
       - name: Deploy to Cloudflare Pages Release
@@ -76,4 +76,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy site/public --project-name=lucy.hamburg --branch=main
+          command: pages deploy site/public --project-name=${{ secrets.CLOUDFLARE_PROJECT_NAME }} --branch=main
