@@ -1,13 +1,15 @@
-name: Build and Deploy to gh-pages branch
+name: Build and Deploy
 
 on:
+  schedule:
+    - cron: "0 5 * * 1" # at 05:00 on Monday
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main
   pull_request:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
@@ -20,25 +22,15 @@ jobs:
         with:
           hugo-version: '0.136.0'
           extended: true
-      
-      # - name: Setup Node.js
-      #   uses: actions/setup-node@v3
-      #   with:
-      #     node-version: '20'
-      
-      # - name: NPM Install
-      #   run: npm install
 
-      - name: Build for test
+      - name: Build for testing
         run: hugo --source site --baseURL '/' --cleanDestinationDir --enableGitInfo --gc
-        # if: ${{ false }}
 
-      - name: Run htmltest
+      - name: Run tests
         uses: wjdp/htmltest-action@master
         continue-on-error: false # fail on broken links
         with:
           config: .htmltest.yml
-        # if: ${{ false }}
 
       - name: Archive htmltest results
         uses: actions/upload-artifact@v4
@@ -46,13 +38,42 @@ jobs:
           name: htmltest-report
           path: tmp/.htmltest/htmltest.log
           retention-days: 7 # Default is 90 days
-           
-      - name: Build
+                 
+      - name: Build for publishing
         run: hugo --source site --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site/public
+          name: site/public
+          path: site/public
+
+  deploy-to-cloudflare-pages:
+    name: Deploy to Cloudflare Pages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    needs:
+      - build
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    environment:
+      name: cloudflare-pages
+      url: ${{ steps.deployment.outputs.deployment-url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: site/public
+          path: site/public
+
+      - name: Deploy to Cloudflare Pages Release
+        uses: cloudflare/wrangler-action@v4
+        id: deployment
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy site/public --project-name=lucy.hamburg --branch=main
