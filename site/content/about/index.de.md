@@ -11,7 +11,7 @@ slug: "ueber"
 
 - **Eintauchen in die Natur:** Segeln ermöglicht es, Zeit im Freien zu verbringen, die Natur hautnah zu erleben und die frische Meeresbrise zu genießen.
 
-- **Raus sein und Entspannung:** Segeln bietet eine Auszeit vom Alltag, vom Stress und der Hektik. Es schafft Raum für Ruhe, Stille und das Gefühl, dem täglichen Trott zu entfliehen und den Kopf frei zu bekommen.
+- **Draussen sein und Entspannung:** Segeln bietet eine Auszeit vom Alltag, vom Stress und der Hektik. Es schafft Raum für Ruhe, Stille und das Gefühl, dem täglichen Trott zu entfliehen und den Kopf frei zu bekommen.
 
 - **Gemeinschaft und Zusammenhalt:** Alle an Bord arbeiten zusammen, was das Gemeinschaftsgefühl stärkt. Zeit mit Familie und Freunden auf einem Boot zu verbringen ist besonders wertvoll, da man ein gemeinsames Ziel verfolgt und bedeutungsvolle Gespräche führt.
 
