@@ -6,7 +6,3 @@ enableGitInfo: true
 
 DefaultContentLanguage: en
 defaultContentLanguageInSubdir: false
-
-# analytics:
-#   google:
-#   SiteVerificationTag: "XYZabc"
