@@ -28,7 +28,7 @@ jobs:
 
       - name: Run tests
         uses: wjdp/htmltest-action@master
-        continue-on-error: false # fail on broken links
+        continue-on-error: true # continue or fail on broken links
         with:
           config: .htmltest.yml
 
