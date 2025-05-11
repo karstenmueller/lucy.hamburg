@@ -94,6 +94,8 @@ jobs:
         with:
           name: public
           path: public
+
+      - name: List public
         run: ls -l public/
 
       - name: Deploy on GitHub Pages
