@@ -10,3 +10,6 @@ find static/images -type "f" -exec mogrify -strip {} \;
 for lang in de en; do
     find site/content/ -type "f" -name "*.$lang.md" -exec aspell --mode=markdown --lang=$lang --extra-dicts="$(pwd)"/aspell.$lang.dict check {} \;
 done
+
+htmltest -c .htmltest.yml
+ 
