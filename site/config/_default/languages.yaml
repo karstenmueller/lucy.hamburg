@@ -23,10 +23,12 @@ en:
     homeInfoParams:
       Title: "👋 Ahoi"
       Content: >
-         - ⛵️ This is my blog about sailing Contessa 32 Lucy and other follies
-
-         - Find Lucy on [Noforeignland](https://www.noforeignland.com/boat/lucy) or [Marinetraffic](https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY) and come over
-
+        ![Karsten](/images/karsten_small.png)
+        ⛵️ This is my blog about sailing Contessa 32 Lucy and other follies.
+        
+        - {{< rawhtml >}} Find Lucy on <a target="_blank" href="https://www.noforeignland.com/boat/lucy">Noforeignland</a>
+          or <a target="_blank" href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY">Marinetraffic</a>
+          {{< /rawhtml >}}
 de:
   languagename: Deutsch
   title: Segeln mit Lucy
@@ -46,11 +48,13 @@ de:
         name: Beiträge
         weight: 5
   params:
-    description: "Dies ist mein Blog über segeln mit Contessa 32 Lucy und anderen Dummheiten"
+    description: "Dies ist mein Blog über das Segeln mit Contessa 32 Lucy und andere Torheiten"
     homeInfoParams:
       Title: "👋 Ahoi"
       Content: >
-         - ⛵️ Dies ist mein Blog über Segeln mit Contessa 32 Lucy und anderen Dummheiten
+        ![Karsten](/images/karsten_small.png)
+        ⛵️ Dies ist mein Blog über das Segeln mit Contessa 32 Lucy und andere Torheiten
 
-         - Finde Lucy auf [Noforeignland](https://www.noforeignland.com/boat/lucy) oder [Marinetraffic](https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY) und komm vorbei
-
+        - {{< rawhtml >}} Finde Lucy auf <a target="_blank" href="https://www.noforeignland.com/boat/lucy">Noforeignland</a>
+          oder <a target="_blank" href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY">Marinetraffic</a>
+          {{< /rawhtml >}}
