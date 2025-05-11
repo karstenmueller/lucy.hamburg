@@ -9,10 +9,6 @@ cover:
   relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
-
-![Auf der Elbe](container.jpeg)
-*Segeln auf der Elbe*
-
 Elbe, das heißt [Tide](https://en.wikipedia.org/wiki/Tide). Also Segeln im Strom, am besten mit dem Strom 😉
 
 Der Heimathafen von Lucy ist Hamburg. Hamburg liegt an der Elbe und das Segeln beginnt direkt vor der Hafeneinfahrt. In meinem Fall die Einfahrt des Hafens Rüschkanal auf Finkenwerder.
