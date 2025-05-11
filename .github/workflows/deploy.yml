@@ -49,36 +49,6 @@ jobs:
           name: public
           path: site/public
 
-  # deploy-to-cloudflare-pages:
-  #   name: Deploy to Cloudflare Pages
-  #   runs-on: ubuntu-latest
-  #   permissions:
-  #     contents: read
-  #   needs:
-  #     - build
-  #   if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-  #   environment:
-  #     name: cloudflare-pages
-  #     url: ${{ steps.deployment.outputs.deployment-url }}
-
-  #   steps:
-  #     # - name: Checkout
-  #     #   uses: actions/checkout@v4
-
-  #     - name: Download Artifact
-  #       uses: actions/download-artifact@v4
-  #       with:
-  #         name: public
-  #         path: ./public
-
-  #     - name: Deploy to Cloudflare Pages Release
-  #       uses: cloudflare/wrangler-action@v3
-  #       id: deployment
-  #       with:
-  #         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-  #         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-  #         command: pages deploy public --project-name=${{ secrets.CLOUDFLARE_DOMAIN_NAME }} --branch=main
-
   deploy-to-github-pages:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
@@ -87,9 +57,6 @@ jobs:
     needs:
       - build
     steps:
-      # - name: Checkout
-      #   uses: actions/checkout@v4
-
       - name: Download Artifact
         uses: actions/download-artifact@v4
         with:
@@ -105,3 +72,35 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+# Cloudflare is pulling from branch gh-pages
+#
+# deploy-to-cloudflare-pages:
+#   name: Deploy to Cloudflare Pages
+#   runs-on: ubuntu-latest
+#   permissions:
+#     contents: read
+#   needs:
+#     - build
+#   if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+#   environment:
+#     name: cloudflare-pages
+#     url: ${{ steps.deployment.outputs.deployment-url }}
+
+#   steps:
+#     # - name: Checkout
+#     #   uses: actions/checkout@v4
+
+#     - name: Download Artifact
+#       uses: actions/download-artifact@v4
+#       with:
+#         name: public
+#         path: ./public
+
+#     - name: Deploy to Cloudflare Pages Release
+#       uses: cloudflare/wrangler-action@v3
+#       id: deployment
+#       with:
+#         apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+#         accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+#         command: pages deploy public --project-name=${{ secrets.CLOUDFLARE_DOMAIN_NAME }} --branch=main
