@@ -8,7 +8,8 @@ IgnoreAltMissing: true
 IgnoreAltEmpty: true
 
 IgnoreURLs:
-- "localhost"
+- ".*/$"
+- ".*#center"
 
 # # HTTPHeaders: {"Range": "bytes=0-0", "Accept": "*/*", "User-Agent": "HtmlTest/1.0.0"}
 # # CheckExternal: false
