@@ -10,7 +10,7 @@ The **Contessa 32** is a popular classic cruiser-racer, known for its robust des
 
 **If it looks right, it possibly is right**
 
-{{< figure align=center src="sunny.jpeg" alt="Lucy on the water" caption="Lucy on the water (Doublre Rundt Regatta 2024)">}}
+{{< figure src="/boat/sunny.jpeg" align=center alt="Lucy on the water" caption="Lucy on the water (Double Rundt Regatta 2024)">}}
 
 ## The Contessa 32 – A Legendary Design
 
