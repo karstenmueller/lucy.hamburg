@@ -4,11 +4,11 @@
 # The resized image is placed in the /resized folder which will reside in the same directory as the image
 #
 
-initial_folder="site" # You can use "." to target the folder in which you are running the script for example
+initial_folder="${1:?use argument to set the initial folder}"
 resized_folder_name="resized"
-resized_size=700
+resized_size="700"
 
-all_images=$(find -E $initial_folder -iregex ".*\.(jpg|gif|png|jpeg)")
+all_images=$(find -E "$initial_folder" -iregex ".*\.(jpg|gif|png|jpeg)")
 
 while read -r image_full_path; do
     filename=$(basename "$image_full_path")
