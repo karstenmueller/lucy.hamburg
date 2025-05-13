@@ -9,10 +9,15 @@ tags: [boat]
 You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉
 
 George explained the essentials very well - what elements you need and how to connect them. See for yourself in the youtube video below.
-George introduces a simple wring scheme which I converted to a drawing. Here you go:
+George introduced a simple wiring scheme which I converted to a drawing.
+
+This is the original scheme:
+![Wiring](wiring_whiteboard.jpg)
+
+And this is the diagram style scheme:
 ![Wiring](wiring.png)
 
-If you like to modify the drawing just open the file in [draw.io](https://app.diagrams.net/?src=about#Uhttps%3A%2F%2Flucy.hamburg%2Fposts%2Fwiring%2Fwiring.drawio#%7B%22pageId%22%3A%22UcFnGM5fcW15tLSDESSC%22%7D) or downlaod it [here](wiring.drawio)
+If you like to modify the diagram just open the file in [draw.io](https://app.diagrams.net/?src=about#Uhttps%3A%2F%2Flucy.hamburg%2Fposts%2Fwiring%2Fwiring.drawio#%7B%22pageId%22%3A%22UcFnGM5fcW15tLSDESSC%22%7D) or downlaod it [here](wiring.drawio)
 
 Watch "Raceboat Refit - Battery Upgrade & Supporting Mods- Step-By-Step" below and subscribe [here](https://www.youtube.com/@RefitandSail) for the cracking RefitandSail Channel of George Isted
 
