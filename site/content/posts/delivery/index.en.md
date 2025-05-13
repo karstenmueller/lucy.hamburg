@@ -1,6 +1,8 @@
 ---
 date: '2018-04-20'
 title: 'Delivery from Hayling Island'
+tags:
+- cruise
 cover:
   image: "lucy_hayling.jpeg"
   alt: ""

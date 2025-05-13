@@ -2,6 +2,9 @@
 title: Boat
 date: 2025-05-07
 slug: "boat"
+tags:
+- boat
+- co32
 ---
 
 ## Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition

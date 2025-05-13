@@ -2,6 +2,9 @@
 title: Boot
 date: 2025-05-07
 slug: "boot"
+tags:
+- boat
+- co32
 ---
 
 ## Die Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition

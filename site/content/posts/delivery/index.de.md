@@ -1,6 +1,8 @@
 ---
 date: '2025-05-07'
 title: 'Überführung von Hayling Island'
+tags:
+- cruise
 cover:
   image: "lucy_hayling.jpeg"
   alt: ""
