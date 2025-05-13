@@ -6,7 +6,7 @@ tags: [boat]
 
 ## Battery wiring
 
-You want yout battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉
+You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉
 
 George explained the essentials very well - what elements you need and how to connect them. See for yourself in the youtube video below.
 George introduces a simple wring scheme which I converted to a drawing. Here you go:
