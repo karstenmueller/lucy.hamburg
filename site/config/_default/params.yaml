@@ -36,3 +36,14 @@ assets:
   favicon32x32: "/favicon-32x32.png"
   apple_touch_icon: "/apple-touch-icon.png"
   safari_pinned_tab: "/apple-touch-icon.png"
+
+ShowBuyMeACoffeeButton: true
+BuyMeACoffee:
+  Slug: "lucy.hamburg"
+  Text: "Buy me a coffee"
+  Font: "Lato"
+  Emoji: "☕️"
+  ButtonColor: "f06035"
+  FontColor: "000000"
+  CoffeeColor: "ffffff"
+  CupColor: "000000"

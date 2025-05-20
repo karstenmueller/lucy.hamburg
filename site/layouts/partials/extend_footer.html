@@ -1,4 +1,30 @@
 <div class align=right>
+
+<!-- Based on the shortcode - 
+https://github.com/isqua/hugo-shortcodes/blob/main/themes/hugo-shortcodes/layouts/shortcodes/bmc-button.html -->
+
+{{ if .Site.Params.ShowBuyMeACoffeeButton }}
+    <div class="bmc-button-container">
+        {{- $slug  := default .Site.Params.BuyMeACoffee.Slug  | default "" -}}
+        {{- $text  := default .Site.Params.BuyMeACoffee.Text  | default "Buy me a coffee" -}}
+        {{- $font  := default .Site.Params.BuyMeACoffee.Font  | default "Cookie" -}}
+        {{- $emoji := default .Site.Params.BuyMeACoffee.Emoji | default "" -}}
+        
+        {{- $button_colour  := default .Site.Params.BuyMeACoffee.ButtonColor  | default "ffdd00" -}}
+        {{- $font_colour    := default .Site.Params.BuyMeACoffee.FontColor    | default "000000" -}}
+        {{- $coffee_colour  := default .Site.Params.BuyMeACoffee.CoffeeColor  | default "ffffff" -}}
+        {{- $outline_colour := default .Site.Params.BuyMeACoffee.CupColor     | default "000000" -}}
+        
+        {{- $url := printf "https://www.buymeacoffee.com/%s" $slug }}
+        
+        {{- $params := slice "slug" $slug "text" $text "emoji" $emoji "font_family" $font "button_colour" $button_colour "font_colour" $font_colour "outline_colour" $outline_colour "coffee_colour" $coffee_colour -}}
+        {{- $image := printf "https://img.buymeacoffee.com/button-api/?%s" (querify $params) }}
+        <a class="hugo-shortcodes-bmc-button" href="{{ $url | safeURL }}">
+            <img src="{{ $image | safeURL }}" alt="{{ $text }}" />
+        </a>    
+    </div>
+{{ end }}
+
 <div class="social-icons" >
 <a href="mailto:sylucy.hamburg@gmail.com" target="_blank" rel="noopener noreferrer me" title="Email">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
@@ -17,4 +43,3 @@
 </a>
 </div>
 </div>
-
