@@ -4,8 +4,6 @@ title: 'Batterieverkabelung'
 tags: [boat]
 ---
 
-## Batterieverkabelung
-
 Du möchtest deine Batterieverkabelung so einfach und robust wie möglich gestalten. Für viele Menschen ist Batterieverkabelung wie schwarze Magie – aber George kam zur Rettung 😉
 
 George hat die Grundlagen sehr gut erklärt – welche Komponenten du brauchst und wie du sie anschließt. Sieh selbst im untenstehenden YouTube-Video.
