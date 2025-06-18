@@ -17,7 +17,7 @@ And this is the diagram style scheme:
 
 Wiring diameters: 35mm for the battery cables, 6mm for the charger and 10mm for the B2B.
 
-If you like to modify the diagram just open the file in [draw.io](https://app.diagrams.net/?src=about#Uhttps%3A%2F%2Flucy.hamburg%2Fposts%2Fwiring%2Fwiring.drawio#%7B%22pageId%22%3A%22UcFnGM5fcW15tLSDESSC%22%7D) or downlaod it [here](wiring.drawio)
+If you like to modify the diagram just open the file in [draw.io](https://app.diagrams.net/?src=about#Uhttps%3A%2F%2Flucy.hamburg%2Fposts%2Fwiring%2Fwiring.drawio#%7B%22pageId%22%3A%22UcFnGM5fcW15tLSDESSC%22%7D) or download it [here](wiring.drawio)
 
 Watch "Raceboat Refit - Battery Upgrade & Supporting Mods- Step-By-Step" below and subscribe [here](https://www.youtube.com/@RefitandSail) for the cracking RefitandSail Channel of George Isted
 
