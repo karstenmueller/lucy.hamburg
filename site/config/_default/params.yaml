@@ -9,6 +9,7 @@ defaultTheme: auto # dark, light
 ShowBreadCrumbs: true
 hideFooter: true
 disableScrollToTop: true
+ShowPostNavLinks: true
 
 fuseOpts: # search
     ignoreLocation: true
@@ -47,3 +48,4 @@ BuyMeACoffee:
   FontColor: "000000"
   CoffeeColor: "ffffff"
   CupColor: "000000"
+

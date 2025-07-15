@@ -7,6 +7,9 @@ tags:
 - co32
 ---
 
+
+[→ Lucy's position]({{< ref "/position" >}} "Link title")
+
 ## Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition
 
 The **Contessa 32** is a popular classic cruiser-racer, known for its robust design and seaworthiness. With its elegant design and exceptional sailing qualities, it has earned a firm place in the hearts of sailors worldwide.
