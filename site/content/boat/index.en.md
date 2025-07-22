@@ -12,7 +12,7 @@ tags:
 
 ## Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition
 
-The **Contessa 32** is a popular classic cruiser-racer, known for its robust design and seaworthiness. With its elegant design and exceptional sailing qualities, it has earned a firm place in the hearts of sailors worldwide.
+The **Contessa 32**, designed by David Sadler and built by Jeremy Rogers Ltd, strikes a balance between classic long keel boats and modern fin keel boats. Its semi-long keel with skeg design, inspired by the Contessa 26, offers efficient upwind performance and exceptional seaworthiness. The Contessa 32, renowned for its stability and practical interior layout, is a popular choice for sailors prioritizing comfort and performance at sea.
 
 **If it looks right, it possibly is right**
 
@@ -37,7 +37,9 @@ Lucy boasts an exceptionally well-kept interior. Her deck and rigging are in pri
 
 ## The Equipment of the Contessa 32 'Lucy'
 
-The Contessa 32 **Lucy** is not only a sight to behold on the water but also a real gem inside. Sailors will find a combination of traditional style and practical features:
+Upon descending below deck, she immediately evokes the ambiance of a classic marine interior. The galley, situated on the port side, is compact yet functional when heeled. The chart table on the starboard side is appropriately sized to accommodate a standard paper chart. Additionally, the saloon berths are generously spacious and comfortable, even for individuals of tall stature. While she lacks excessive beam, this does result in slightly reduced space under deck. However, ample storage is provided, and every nook and cranny is meticulously designed.
+
+She is not only a sight to behold on the water but also a real gem inside. Sailors will find a combination of traditional style and practical features:
 
 - **Classic teak interior**: Lucy’s cabin is lined with fine teak wood, creating a warm and inviting atmosphere.
 - **Fully equipped galley**: A well-appointed galley with stove, sink, and fridge ensures that longer trips are comfortable and enjoyable.
@@ -48,6 +50,21 @@ The Contessa 32 **Lucy** is not only a sight to behold on the water but also a r
 ![Breakfast on board](morning.jpeg)
 *Breakfast on Contessa 32 Lucy*
 
+## Contessa 32 Specifications
+
+- LOA:  9.75m (32’0'')
+- LWL:  7.32m (24’0'')
+- Beam:  2.90m (9’6'')
+- Draft:  1.68m (5’6'')
+- Displacement: 4309 kg (9500 lb)
+- Lead Ballast: 2042 kg (4500 lb)
+- Ballast Ratio: 47%
+- Sail Area: 52 m2
+- AVS (Angle of vanishing stability):  156°
+
+![Contessa Sail Plan](co32_sail_plan.jpeg)
+*Contessa Sail Plan*
+
 ## At Sea with the Contessa 32 'Lucy'
 
 Whether on a leisurely cruise along the coast or an exciting regatta, the **Lucy** offers both comfort and excellent performance on the water. Her stiff hull ensures a pleasant ride in all weather, while the precise steering and good manoeuvrability make her a pleasure for any sailor.
@@ -55,6 +72,17 @@ Whether on a leisurely cruise along the coast or an exciting regatta, the **Lucy
 The **Contessa 32** is renowned for handling well in strong winds and rough seas. Over the years, **Lucy** has mastered many such conditions, proving she can cope with every challenge the sea presents.
 
 {{< instagram C_DwasHtG6X >}}
+
+## AVS & Heel Angle
+
+From a design perspective, the AVS of the Contessa 32 is interesting. Yachting Monthly (April 2015) had an instructive article by Nigel Calder & Chris Beeson explaining AVS. They compared the Contessa 32 to the Bavaria 32.
+
+The article states, „The angle of vanishing stability (AVS) measures how far a boat can heel before rolling over and inverting, or resisting capsize.“
+
+Further down, the article notes, „Even with her mast 66 degrees below horizontal, the Contessa 32 still rights herself.“
+
+![Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson](co32_avs.jpeg)
+*Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson*
 
 ## Conclusion – A Classic That Still Inspires
 

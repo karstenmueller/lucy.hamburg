@@ -11,7 +11,7 @@ tags:
 
 ## Die Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition
 
-Die **Contessa 32** ist ein beliebter klassischer Cruiser-Racer, der für sein robustes Design und seine Seetüchtigkeit bekannt ist.Mit ihrem eleganten Design und außergewöhnlichen Segeleigenschaften hat sie sich einen festen Platz in den Herzen von Seglern auf der ganzen Welt erobert.
+Die **Contessa 32**, entworfen von David Sadler und gebaut von Jeremy Rogers Ltd., schafft eine Balance zwischen klassischen Langkielbooten und modernen Flossenkielbooten. Ihr Halblangkiel mit Skeg-Design, inspiriert von der Contessa 26, bietet effizientes Amwindverhalten und außergewöhnliche Seetüchtigkeit. Die Contessa 32, bekannt für ihre Stabilität und praktische Innenaufteilung, ist eine beliebte Wahl für Segler, die Wert auf Komfort und Leistung auf See legen.
 
 **If it looks right, it possibly is right**
 
@@ -36,7 +36,9 @@ Lucy zeichnet sich durch ein außergewöhnlich gut gepflegtes Interieur aus. Ihr
 
 ## Die Ausstattung der Contessa 32 'Lucy'
 
-Die **Lucy** ist nicht nur auf dem Wasser eine Augenweide, sondern auch im Innenraum ein echtes Schmuckstück. Hier finden Segler eine Kombination aus traditionellem Stil und funktionaler Ausstattung vor:
+Unter Deck vermittelt sie sofort das Ambiente eines klassischen Schiffsinterieurs. Die Kombüse an Backbord ist kompakt und dennoch funktional, auch bei Krängung. Der Kartentisch an Steuerbord bietet ausreichend Platz für eine Standard-Papierseekarte. Die Salonkojen sind großzügig geschnitten und bequem, auch für große Personen. Weil sie nicht übermäßig breit ist, reduziert sich der Platz unter Deck etwas. Dennoch gibt es reichlich Stauraum, und jeder Winkel ist sorgfältig durchdacht.
+
+Sie ist nicht nur auf dem Wasser eine Augenweide, sondern auch im Innenraum ein echtes Schmuckstück. Hier finden Segler eine Kombination aus traditionellem Stil und funktionaler Ausstattung vor:
 
 - **Klassisches Teakholz-Interieur**: Die Kajüte von Lucy ist mit edlem Teakholz ausgekleidet, was eine warme und einladende Atmosphäre schafft.
 - **Voll ausgestattete Pantry**: Eine gut ausgestattete Pantry mit Herd, Spüle und Kühlschrank sorgt dafür, dass auch längere Reisen komfortabel und angenehm sind.
@@ -47,6 +49,21 @@ Die **Lucy** ist nicht nur auf dem Wasser eine Augenweide, sondern auch im Innen
 ![Frühstück an Bord](morning.jpeg)
 *Frühstück auf Contessa 32 Lucy*
 
+## Spezifikationen Contessa 32
+
+- Länge über alles: 9,75 m (32 Fuß)
+- Länge Waserlinie: 7,32 m (24 Fuß)
+- Breite: 2,90 m (9 Fuß)
+- Tiefgang: 1,68 m (5 Fuß)
+- Verdrängung: 4309 kg (9500 lb)
+- Bleiballast: 2042 kg (4500 lb)
+- Ballastanteil: 47 %
+- Segelfläche: 52 m²
+- AVS (Winkel verschwindende Stabilität): 156°
+
+![Contessa Sail Plan](co32_sail_plan.jpeg)
+*Contessa Sail Plan*
+
 ## Auf See mit der Contessa 32 'Lucy'
 
 Ob bei einer gemütlichen Kreuzfahrt entlang der Küste oder einer spannenden Regatta – die **Lucy** bietet auf dem Wasser sowohl Komfort als auch hervorragende Performance. Ihr steifer Rumpf sorgt für eine angenehme Fahrt bei jedem Wetter, während das exakte Steuerverhalten und die gute Manövrierbarkeit sie zu einem Vergnügen für jeden Segler machen.
@@ -54,6 +71,17 @@ Ob bei einer gemütlichen Kreuzfahrt entlang der Küste oder einer spannenden Re
 Die **Contessa 32** ist bekannt dafür, dass sie sich auch bei starkem Wind und rauer See gut behauptet. Die **Lucy** hat im Laufe der Jahre viele dieser Bedingungen gemeistert und bewiesen, dass sie mit jeder Herausforderung umgehen kann, die das Meer ihr stellt.
 
 {{< instagram C_DwasHtG6X >}}
+
+## AVS und Krängungswinkel
+
+Aus Design Sicht ist der Winkel der schwindenden Stabilität (AVS) der Contessa 32 interessant. Yachting Monthly (April 2015) veröffentlichte einen aufschlussreichen Artikel von Nigel Calder & Chris Beeson, der die AVS erläutert. Sie verglichen die Contessa 32 mit der Bavaria 32.
+
+In dem Artikel heißt es: „Der Winkel der verschwindenden Stabilität (AVS) misst, wie weit sich ein Boot neigen kann, bevor es kentert und sich umkehrt oder einem Kentern widersteht.“
+
+Weiter unten im Artikel wird festgestellt: „Selbst wenn ihr Mast 66 Grad unter der Horizontalen liegt, richtet sich die Contessa 32 immer noch von selbst auf.“
+
+![Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson](co32_avs.jpeg)
+*Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson*
 
 ## Fazit – Ein Klassiker, der immer noch begeistert
 
