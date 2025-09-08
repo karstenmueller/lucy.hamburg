@@ -10,23 +10,20 @@ en:
       - url: /
         name: Home
         weight: 1
+      - url: /boat/
+        name: Lucy
+        weight: 2
       - url: /about/
         name: About
-        weight: 2
-      - url: /boat/
-        name: Boat
-        weight: 4
-      - url: /posts/
-        name: Posts
-        weight: 5
+        weight: 3
 
   params:
-    description: "This is my blog about sailing Contessa 32 Lucy and other follies"
+    description: "Ahoy! This is about sailing Contessa 32 Lucy and other follies"
     homeInfoParams:
       Title: "👋 Ahoi"
       Content: >
         ![Karsten](/images/karsten_small.png)
-        ⛵️ This is my blog about sailing Contessa 32 Lucy and other follies.
+        ⛵️ Ahoy! This is about sailing Contessa 32 Lucy and other follies.
         
         - {{< rawhtml >}} Find Lucy on <a target="_blank" href="https://www.noforeignland.com/boat/lucy">Noforeignland</a>
           or <a target="_blank" href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY">Marinetraffic</a>
