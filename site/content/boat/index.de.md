@@ -1,5 +1,5 @@
 ---
-title: Boot
+title: Lucy
 date: 2025-05-07
 slug: "boot"
 tags:
@@ -9,7 +9,7 @@ tags:
 
 [→ Lucy's Position]({{< ref "/position" >}} "Link title")
 
-## Die Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition
+## Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition
 
 Die **Contessa 32**, entworfen von David Sadler und gebaut von Jeremy Rogers Ltd., schafft eine Balance zwischen klassischen Langkielbooten und modernen Flossenkielbooten. Ihr Halblangkiel mit Skeg-Design, inspiriert von der Contessa 26, bietet effizientes Amwindverhalten und außergewöhnliche Seetüchtigkeit. Die Contessa 32, bekannt für ihre Stabilität und praktische Innenaufteilung, ist eine beliebte Wahl für Segler, die Wert auf Komfort und Leistung auf See legen.
 
