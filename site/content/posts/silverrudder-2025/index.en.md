@@ -1,7 +1,6 @@
 ---
 title: Silverrudder 2025
-date: 2025-07-15
-slug: "racing"
+date: 2025-09-09
 tags:
 - racing
 cover:
