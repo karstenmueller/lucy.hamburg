@@ -34,7 +34,7 @@ jobs:
           config: .htmltest.yml
 
       - name: Archive htmltest results
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: htmltest-report
           path: tmp/.htmltest/htmltest.log
@@ -44,7 +44,7 @@ jobs:
         run: hugo --source site --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: public
           path: site/public
