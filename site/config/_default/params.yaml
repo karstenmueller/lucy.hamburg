@@ -1,6 +1,6 @@
 author: Karsten
 # site_logo: images/lucy_logo_150.png
-description: Sailing Contessa 32 Lucy and other follies
+description: Sailing Contessa 32 Lucy
 keywords: [Sailing, Contessa 32, Co32, Lucy]
 env: production # to enable google analytics, opengraph, twitter-cards and schema.
 images: ["images/lucy_logo.png"]

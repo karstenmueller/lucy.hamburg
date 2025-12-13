@@ -18,16 +18,13 @@ en:
         weight: 3
 
   params:
-    description: "Ahoy! This is about sailing Contessa 32 Lucy and other follies"
+    description: "Ahoy! This is about sailing Contessa 32 Lucy"
     homeInfoParams:
       Title: "👋 Ahoi"
       Content: >
         ![Karsten](/images/karsten_small.png)
-        ⛵️ Ahoy! This is about sailing Contessa 32 Lucy and other follies.
-        
-        - {{< rawhtml >}} Find Lucy on <a target="_blank" href="https://www.noforeignland.com/boat/lucy">Noforeignland</a>
-          or <a target="_blank" href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY">Marinetraffic</a>
-          {{< /rawhtml >}}
+
+        - ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's position <a href="/position">here.</a>{{< /rawhtml >}}
 de:
   languagename: 🇩🇪
   title: Segeln mit Lucy
