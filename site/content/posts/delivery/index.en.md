@@ -26,5 +26,6 @@ Then the time came: Lucy was launched and moved towards Hamburg.
 *Lucy launched at Hayling Island, Red Diesel on board*
 
 The voyage from Hayling Island to Delfzijl, followed by a two-week pause, then onwards to Hamburg.
+See the [570 nm track](https://www.noforeignland.com/map/boat/lucy/journey?stories=false&start=2018-04-19&end=2018-05-26) from Hayling Island to Hamburg
 
 ![alt text](transfer_1.jpeg) ![alt text](transfer_2.jpeg) ![alt text](transfer_3.jpeg) ![alt text](transfer_4.jpeg)
