@@ -9,7 +9,7 @@ tags:
 {{< rawhtml >}}
 
 <p>Lucy's last position:
-<iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/on/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+<iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/off/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
 
 Follow <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Lucy on Noforeignland</a> or
 see all <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a>
