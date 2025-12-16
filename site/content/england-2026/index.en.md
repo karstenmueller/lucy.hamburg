@@ -11,7 +11,7 @@ cover:
 ---
 
 Aktuell steht der Anfang und das Ende meiner Segel Auszeit in 2026 fest: los geht es am Anfang Juni 2026 und Ende August möchte ich wieder zuhause in Hamburg sein.
-Ob dann auch Lucy wieder in Hamburg ist oder in England bleiben kann sthet noch nicht fest (siehe Varianten unten).
+Ob dann auch Lucy wieder in Hamburg ist oder in der [Deacons Marina](https://maps.app.goo.gl/KtCSximabYMnewjL8) bleiben kann steht noch nicht fest (siehe Varianten unten).
 
 Ich möchte gerne auf dem Hinweg längere Strecken segeln und ggf. auch auf dem Rückweg von Südengland nach Hamburg.
 Einige Regatten sollten auch dabei sein:
