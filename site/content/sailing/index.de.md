@@ -1,8 +1,8 @@
 ---
 date: "2025-05-07"
 menus: main"
-title: "Über"
-slug: "ueber"
+title: "Segeln"
+slug: "segeln"
 cover:
   image: "/images/water.jpeg"
   alt: ""

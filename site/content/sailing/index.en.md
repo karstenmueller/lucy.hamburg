@@ -1,7 +1,7 @@
 ---
 date: "2025-05-07"
-title: "About"
-slug: "about"
+title: "Sailing"
+slug: "sailing"
 cover:
   image: "/images/water.jpeg"
   alt: ""

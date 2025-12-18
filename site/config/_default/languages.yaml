@@ -10,12 +10,15 @@ en:
       - url: /
         name: Home
         weight: 1
-      - url: /boat/
-        name: Lucy
+      - url: /sailing/
+        name: Sailing
         weight: 2
-      - url: /about/
-        name: About
+      - url: /boat/
+        name: Boat
         weight: 3
+      - url: /posts/
+        name: Posts
+        weight: 4
 
   params:
     description: "Ahoy! This is about sailing Contessa 32 Lucy"
@@ -36,15 +39,15 @@ de:
       - url: /
         name: Start
         weight: 1
-      - url: /ueber/
-        name: Über
+      - url: /segeln/
+        name: Segeln
         weight: 2
       - url: /boot/
         name: Boot
-        weight: 4
+        weight: 3
       - url: /posts/
         name: Beiträge
-        weight: 5
+        weight: 4
   params:
     description: "Dies ist mein Blog über das Segeln mit Contessa 32 Lucy"
     homeInfoParams:
