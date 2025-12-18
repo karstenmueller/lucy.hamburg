@@ -8,17 +8,17 @@ tags:
 
 {{< rawhtml >}}
 
-<p>Lucy's letzte Position:
-<iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/on/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
-
+<p>Lucy's zuletzt aufgezeichnete Position:
+<p>
+<iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/off/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
+<p>
 Folge <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Lucy auf Noforeignland</a> oder
-sieh alle <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachten</a>
+schau Dir alle <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachten</a> an.
+Noforeignland bietet ein Netzwerk für Segler! Vielen Dank
+<a href='https://www.noforeignland.com/' target='nfl'>Steve & Helena</a> 🙏
 
-<p>Noforeignland bietet die Verfolgung von Booten mit eingebetteten Posts und Informationen an! Vielen Dank
-<a href='https://www.noforeignland.com/about' target='nfl'>Steve & Helena</a> 🙏
-
-<p>Die alternative Darstellung der <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS</a> Poistion auf Marinetraffic
-
+<p>Die alternative Darstellung der <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS</a> Poistion auf Marinetraffic:
+<p>
 <script type="text/javascript">
 width = '100%'; //the width of the embedded map in pixels or percentage
 height = 600; //the height of the embedded map in pixels or percentage

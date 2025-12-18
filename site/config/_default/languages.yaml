@@ -24,7 +24,7 @@ en:
       Content: >
         ![Karsten](/images/karsten_small.png)
 
-        - ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's position <a href="/position">here.</a>{{< /rawhtml >}}
+        - ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's current position <a href="/position">here.</a>{{< /rawhtml >}}
 de:
   languagename: 🇩🇪
   title: Segeln mit Lucy
@@ -46,13 +46,10 @@ de:
         name: Beiträge
         weight: 5
   params:
-    description: "Dies ist mein Blog über das Segeln mit Contessa 32 Lucy und andere Torheiten"
+    description: "Dies ist mein Blog über das Segeln mit Contessa 32 Lucy"
     homeInfoParams:
       Title: "👋 Ahoi"
       Content: >
         ![Karsten](/images/karsten_small.png)
-        ⛵️ Dies ist mein Blog über das Segeln mit Contessa 32 Lucy und andere Torheiten
 
-        - {{< rawhtml >}} Finde Lucy auf <a target="_blank" href="https://www.noforeignland.com/boat/lucy">Noforeignland</a>
-          oder <a target="_blank" href="https://www.marinetraffic.com/en/ais/details/ships/shipid:5536992/mmsi:211796970/imo:0/vessel:LUCY">Marinetraffic</a>
-          {{< /rawhtml >}}
+        - ⛵️ Ahoi! Hier geht es um Segeln mit Contessa 32 Lucy.{{< rawhtml >}} Finde Lucy's aktuelle Position <a href="/position">hier.</a>{{< /rawhtml >}}
