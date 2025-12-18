@@ -7,7 +7,7 @@ Hugo site template in directory "site".
 Create site template:
 ~~~shell
 hugo new site site
-git submodule add https://github.com/adityatelange/hugo-PaperMod site/themes/PaperMod
+git clone https://github.com/adityatelange/hugo-PaperMod site/themes/PaperMod --depth=1
 ~~~
 
 Create first post:
