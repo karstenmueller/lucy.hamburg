@@ -8,10 +8,11 @@ hugo new site site
 git clone https://github.com/adityatelange/hugo-PaperMod site/themes/PaperMod --depth=1
 ~~~
 
-Theme update:
+To avoid hassle with git submodule and enable CSS overrides:
 ~~~shell
-cd site/themes/PaperMod && git pull && cd -
+rm -rf site/themes/PaperMod/.git
 ~~~
+
 
 Create site/themes/PaperMod/assets/css/extended/override.css:
 ~~~css
