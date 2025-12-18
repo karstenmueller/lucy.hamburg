@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Sailing Lucy</title><link>https://lucy.hamburg/</link><description>Recent content on Sailing Lucy</description><image><title>Sailing Lucy</title><url>https://lucy.hamburg/images/lucy_logo.png</url><link>https://lucy.hamburg/images/lucy_logo.png</link></image><generator>Hugo -- 0.147.2</generator><language>en_UK</language><lastBuildDate>Thu, 18 Dec 2025 12:54:08 +0100</lastBuildDate><atom:link href="https://lucy.hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>England 2026</title><link>https://lucy.hamburg/england-2026/</link><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/england-2026/</guid><description>&lt;p>Aktuell steht noch nicht soo viel fest. Das kommt dann noch&amp;hellip;&lt;/p>
-&lt;p>Auf jeden Fall ist Anfang und das Ende meiner dreimonatigen Segel Auszeit in 2026 fest: los geht es Anfang Juni und Ende August möchte ich wieder zuhause in Hamburg sein.
-Ob dann auch Lucy wieder in Hamburg sein wird oder in England bleiben kann steht aber noch nicht fest (siehe Varianten unten).&lt;/p>
-&lt;p>Ich möchte gerne auf dem Hin- und Rückweg längere Strecken (&amp;gt;60 nm) segeln, dann würden wir auch Nachts unterwegs sein. Etappenhäfen werde ich noch planen.&lt;/p></description></item><item><title>Silverrudder 2025</title><link>https://lucy.hamburg/posts/silverrudder-2025/</link><pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/silverrudder-2025/</guid><description>&lt;h2 id="silverrudder-wtf">Silverrudder WTF😳&lt;/h2>
-&lt;p>I&amp;rsquo;ve often thought about what it would be like to participate in the &lt;a href="https://www.silverrudder.com">Silverrudder&lt;/a>?
-Just do the &amp;ldquo;Around Funen&amp;rdquo; all in one go? That alone is crazy enough, and then doing it alone&amp;hellip;&lt;/p>
-&lt;p>&lt;em>Silverrudder non-stop, around 134 nautical miles in 30 hours (if things go well)&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Sailing Lucy</title><link>https://lucy.hamburg/</link><description>Recent content on Sailing Lucy</description><image><title>Sailing Lucy</title><url>https://lucy.hamburg/images/lucy_logo.png</url><link>https://lucy.hamburg/images/lucy_logo.png</link></image><generator>Hugo -- 0.152.2</generator><language>en_UK</language><lastBuildDate>Thu, 18 Dec 2025 12:54:08 +0100</lastBuildDate><atom:link href="https://lucy.hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>England 2026</title><link>https://lucy.hamburg/england-2026/</link><pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/england-2026/</guid><description>&lt;p&gt;Aktuell steht noch nicht soo viel fest. Das kommt dann noch&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Auf jeden Fall ist Anfang und das Ende meiner dreimonatigen Segel Auszeit in 2026 fest: los geht es Anfang Juni und Ende August möchte ich wieder zuhause in Hamburg sein.
+Ob dann auch Lucy wieder in Hamburg sein wird oder in England bleiben kann steht aber noch nicht fest (siehe Varianten unten).&lt;/p&gt;
+&lt;p&gt;Ich möchte gerne auf dem Hin- und Rückweg längere Strecken (&amp;gt;60 nm) segeln, dann würden wir auch Nachts unterwegs sein. Etappenhäfen werde ich noch planen.&lt;/p&gt;</description></item><item><title>Silverrudder 2025</title><link>https://lucy.hamburg/posts/silverrudder-2025/</link><pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/silverrudder-2025/</guid><description>&lt;h2 id="silverrudder-wtf"&gt;Silverrudder WTF😳&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve often thought about what it would be like to participate in the &lt;a href="https://www.silverrudder.com"&gt;Silverrudder&lt;/a&gt;?
+Just do the &amp;ldquo;Around Funen&amp;rdquo; all in one go? That alone is crazy enough, and then doing it alone&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Silverrudder non-stop, around 134 nautical miles in 30 hours (if things go well)&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote
 class="instagram-media"
 data-instgrm-captioned
@@ -23,8 +23,8 @@ width: 99.375%;
 width: -webkit-calc(100% - 2px);
 width: calc(100% - 2px);
 "
->
-&lt;div style="padding: 16px">
+&gt;
+&lt;div style="padding: 16px"&gt;
 &lt;a
 href="https://www.instagram.com/p/DOR7j7MCFD0"
 style="
@@ -36,8 +36,8 @@ text-decoration: none;
 width: 100%;
 "
 target="_blank"
->
-&lt;div style="display: flex; flex-direction: row; align-items: center">
+&gt;
+&lt;div style="display: flex; flex-direction: row; align-items: center"&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -47,7 +47,7 @@ height: 40px;
 margin-right: 14px;
 width: 40px;
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 display: flex;
@@ -55,7 +55,7 @@ flex-direction: column;
 flex-grow: 1;
 justify-content: center;
 "
->
+&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -65,7 +65,7 @@ height: 14px;
 margin-bottom: 6px;
 width: 100px;
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -74,13 +74,13 @@ flex-grow: 0;
 height: 14px;
 width: 60px;
 "
->&lt;/div>
-&lt;/div>
-&lt;/div>
-&lt;div style="padding: 19% 0">&lt;/div>
+&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="padding: 19% 0"&gt;&lt;/div&gt;
 &lt;div
 style="display: block; height: 50px; margin: 0 auto 12px; width: 50px"
->
+&gt;
 &lt;svg
 width="50px"
 height="50px"
@@ -88,19 +88,19 @@ viewBox="0 0 60 60"
 version="1.1"
 xmlns="https://www.w3.org/2000/svg"
 xmlns:xlink="https://www.w3.org/1999/xlink"
->
-&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000">
-&lt;g>
+&gt;
+&lt;g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"&gt;
+&lt;g transform="translate(-511.000000, -20.000000)" fill="#000000"&gt;
+&lt;g&gt;
 &lt;path
 d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"
->&lt;/path>
-&lt;/g>
-&lt;/g>
-&lt;/g>
-&lt;/svg>
-&lt;/div>
-&lt;div style="padding-top: 8px">
+&gt;&lt;/path&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/g&gt;
+&lt;/svg&gt;
+&lt;/div&gt;
+&lt;div style="padding-top: 8px"&gt;
 &lt;div
 style="
 color: #3897f0;
@@ -110,11 +110,11 @@ font-style: normal;
 font-weight: 550;
 line-height: 18px;
 "
->
+&gt;
 View this post on Instagram
-&lt;/div>
-&lt;/div>
-&lt;div style="padding: 12.5% 0">&lt;/div>
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="padding: 12.5% 0"&gt;&lt;/div&gt;
 &lt;div
 style="
 display: flex;
@@ -122,8 +122,8 @@ flex-direction: row;
 margin-bottom: 14px;
 align-items: center;
 "
->
-&lt;div>
+&gt;
+&lt;div&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -132,7 +132,7 @@ height: 12.5px;
 width: 12.5px;
 transform: translateX(0px) translateY(7px);
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -143,7 +143,7 @@ flex-grow: 0;
 margin-right: 14px;
 margin-left: 2px;
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -152,9 +152,9 @@ height: 12.5px;
 width: 12.5px;
 transform: translateX(9px) translateY(-18px);
 "
->&lt;/div>
-&lt;/div>
-&lt;div style="margin-left: 8px">
+&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="margin-left: 8px"&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -163,7 +163,7 @@ flex-grow: 0;
 height: 20px;
 width: 20px;
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 width: 0;
@@ -173,9 +173,9 @@ border-left: 6px solid #f4f4f4;
 border-bottom: 2px solid transparent;
 transform: translateX(16px) translateY(-4px) rotate(30deg);
 "
->&lt;/div>
-&lt;/div>
-&lt;div style="margin-left: auto">
+&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="margin-left: auto"&gt;
 &lt;div
 style="
 width: 0px;
@@ -183,7 +183,7 @@ border-top: 8px solid #f4f4f4;
 border-right: 8px solid transparent;
 transform: translateY(16px);
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -192,7 +192,7 @@ height: 12px;
 width: 16px;
 transform: translateY(-4px);
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 width: 0;
@@ -201,9 +201,9 @@ border-top: 8px solid #f4f4f4;
 border-left: 8px solid transparent;
 transform: translateY(-4px) translateX(8px);
 "
->&lt;/div>
-&lt;/div>
-&lt;/div>
+&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;div
 style="
 display: flex;
@@ -212,7 +212,7 @@ flex-grow: 1;
 justify-content: center;
 margin-bottom: 24px;
 "
->
+&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -222,7 +222,7 @@ height: 14px;
 margin-bottom: 6px;
 width: 224px;
 "
->&lt;/div>
+&gt;&lt;/div&gt;
 &lt;div
 style="
 background-color: #f4f4f4;
@@ -231,18 +231,18 @@ flex-grow: 0;
 height: 14px;
 width: 144px;
 "
->&lt;/div>&lt;/div
->&lt;/a>
-&lt;/div>
-&lt;/blockquote>&lt;script async src="https://www.instagram.com/embed.js">&lt;/script>
-&lt;p>The Silverrudder is a solo regatta where participants sail around the Danish island of Funen. It starts and finishes in Svendborg. It&amp;rsquo;s considered the largest solo regatta in the world and sells out quickly every year. The regatta attracts a wide variety of boats, from small monohulls and multihulls to larger vessels.&lt;/p></description></item><item><title>Position</title><link>https://lucy.hamburg/position/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/position/</guid><description>&lt;p>Lucy's last position:
-&lt;iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/off/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0">&lt;/iframe>
-Follow &lt;a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Lucy on Noforeignland&lt;/a> or
-see all &lt;a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts&lt;/a>
-&lt;p>Noforeignland offers tracking of boats with stories and information embedded! Thanks a lot
-&lt;a href='https://www.noforeignland.com/about' target='nfl'>Steve &amp; Helena&lt;/a> 🙏
-&lt;p>The alternative representation of the &lt;a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS&lt;/a> position on Marinetraffic
-&lt;script type="text/javascript">
+&gt;&lt;/div&gt;&lt;/div
+&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/blockquote&gt;&lt;script async src="https://www.instagram.com/embed.js"&gt;&lt;/script&gt;
+&lt;p&gt;The Silverrudder is a solo regatta where participants sail around the Danish island of Funen. It starts and finishes in Svendborg. It&amp;rsquo;s considered the largest solo regatta in the world and sells out quickly every year. The regatta attracts a wide variety of boats, from small monohulls and multihulls to larger vessels.&lt;/p&gt;</description></item><item><title>Position</title><link>https://lucy.hamburg/position/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/position/</guid><description>&lt;p&gt;Lucy's last position:
+&lt;iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/off/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0"&gt;&lt;/iframe&gt;
+Follow &lt;a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'&gt;Lucy on Noforeignland&lt;/a&gt; or
+see all &lt;a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'&gt;Contessa Yachts&lt;/a&gt;
+&lt;p&gt;Noforeignland offers tracking of boats with stories and information embedded! Thanks a lot
+&lt;a href='https://www.noforeignland.com/about' target='nfl'&gt;Steve &amp; Helena&lt;/a&gt; 🙏
+&lt;p&gt;The alternative representation of the &lt;a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia"&gt;AIS&lt;/a&gt; position on Marinetraffic
+&lt;script type="text/javascript"&gt;
 width = '100%'; //the width of the embedded map in pixels or percentage
 height = 600; //the height of the embedded map in pixels or percentage
 border = 0; //the width of border around the map. Zero means no border
@@ -253,26 +253,26 @@ maptype = 3; //use 0 for Normal map, 1 for Satellite, 2 for Hybrid, 3 for Terrai
 trackvessel = 211796970; //the MMSI of the vessel to track, if within the range of the system
 fleet = ''; //the registered email address of a user-defined fleet to display
 remember = false; //true or false to remember or not the last position of the map
-&lt;/script>
-&lt;br/>
-&lt;script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js">&lt;/script></description></item><item><title>Carbon Emissions – why going electric could be less green than you think</title><link>https://lucy.hamburg/posts/co2-emission/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/co2-emission/</guid><description>&lt;p>Sailing boats are meant to be driven by the force of the wind. Still the use of engines, mostly diesel engines is hard to avoid. And let&amp;rsquo;s be honest: Smoke of diesel engines is often seen on sailing vessels. Most of it can be avoided by adjusting the motor, make sure you do this. What cannot be easily avoided is burning of fuel and emission of carbon dioxide. My point I want to make here is: use HVO fuel to reduce Carbom Emissions and smoke as well.&lt;/p></description></item><item><title>Battery Wiring</title><link>https://lucy.hamburg/posts/wiring/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/wiring/</guid><description>&lt;p>You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉&lt;/p>
-&lt;p>George explained the essentials very well - what elements you need and how to connect them. See for yourself in the youtube video below.
-George introduced a wiring scheme which I converted to a drawing.&lt;/p>
-&lt;p>This is the original scheme:
-&lt;img alt="Wiring" loading="lazy" src="https://lucy.hamburg/posts/wiring/wiring_whiteboard.jpg">&lt;/p></description></item><item><title>Sailing on River Elbe</title><link>https://lucy.hamburg/posts/elbe/</link><pubDate>Wed, 07 May 2025 19:48:46 +0200</pubDate><guid>https://lucy.hamburg/posts/elbe/</guid><description>&lt;p>Elbe means &lt;a href="https://en.wikipedia.org/wiki/Tide">tide&lt;/a>. So sailing goes with the current, ideally adapted to the tide 😉&lt;/p>
-&lt;p>Lucy’s home port is Hamburg. Hamburg lies on the Elbe and sailing begins right outside the harbour entrance. In my case, the entrance to the Rüschkanal harbour at Finkenwerder.&lt;/p>
-&lt;p>The Elbe is a tidal area; the current does not always flow downstream as in all rivers but, thanks to the flood tide, sometimes flows upstream. To have fun and make progress, one generally follows the tide. It sets the rhythm and the timings for departure and arrival.&lt;/p></description></item><item><title>About</title><link>https://lucy.hamburg/about/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/about/</guid><description>&lt;h2 id="what-i-love-about-sailing">What I Love About Sailing&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Being immersed in Nature:&lt;/strong> Sailing allows you to spend time outdoors, experience nature up close, and enjoy the fresh sea breeze.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Escape and Relaxation:&lt;/strong> Sailing offers a break from everyday life, stress, and hustle. It creates space for calm, silence, and the feeling of escaping the daily grind to clear your mind.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;strong>Community and Togetherness:&lt;/strong> Everyone on board works together, strengthening the sense of community. Spending time with family and friends on a boat is especially valuable as you share a common goal and enjoy meaningful conversations.&lt;/p></description></item><item><title>Lucy</title><link>https://lucy.hamburg/boat/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/boat/</guid><description>&lt;p>&lt;a href="https://lucy.hamburg/position/" title="Link title">→ Lucy&amp;rsquo;s position&lt;/a>&lt;/p>
-&lt;h2 id="contessa-32-lucy--a-sailing-yacht-with-charm-and-tradition">Contessa 32 &amp;lsquo;Lucy&amp;rsquo; – A Sailing Yacht with Charm and Tradition&lt;/h2>
-&lt;p>The &lt;strong>Contessa 32&lt;/strong>, designed by David Sadler and built by Jeremy Rogers Ltd, strikes a balance between classic long keel boats and modern fin keel boats. Its semi-long keel with skeg design, inspired by the Contessa 26, offers efficient upwind performance and exceptional seaworthiness. The Contessa 32, renowned for its stability and practical interior layout, is a popular choice for sailors prioritizing comfort and performance at sea.&lt;/p></description></item><item><title>Delivery from Hayling Island</title><link>https://lucy.hamburg/posts/delivery/</link><pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/delivery/</guid><description>&lt;p>Lucy was built in England and was launched for the first time in Lymington on 7 March 1979. I also purchased Lucy in England. Robin Milledge was a great help to me during the purchase, and I can highly recommend him as a surveyor! See &lt;a href="https://rozelmarine.co.uk">Rozel Marine&lt;/a>.&lt;/p>
-&lt;p>At Hayling Island, the yard &lt;a href="http://haylingyacht.co.uk/">Hayling Yacht Company&lt;/a> carried out a refit. Structural issues were addressed and the engine was overhauled.&lt;/p>
-&lt;h2 id="winter-in-the-boat-shed">Winter in the Boat Shed&lt;/h2>
-&lt;p>I undertook some of the work myself and visited the yard several times. The yard is beautifully situated. Working in the cold boat shed was no pleasure. Most boats in England are kept outside over winter, so I was glad to be able to work indoors.&lt;/p></description></item></channel></rss>
+&lt;/script&gt;
+&lt;br/&gt;
+&lt;script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"&gt;&lt;/script&gt;</description></item><item><title>Carbon Emissions – why going electric could be less green than you think</title><link>https://lucy.hamburg/posts/co2-emission/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/co2-emission/</guid><description>&lt;p&gt;Sailing boats are meant to be driven by the force of the wind. Still the use of engines, mostly diesel engines is hard to avoid. And let&amp;rsquo;s be honest: Smoke of diesel engines is often seen on sailing vessels. Most of it can be avoided by adjusting the motor, make sure you do this. What cannot be easily avoided is burning of fuel and emission of carbon dioxide. My point I want to make here is: use HVO fuel to reduce Carbom Emissions and smoke as well.&lt;/p&gt;</description></item><item><title>Battery Wiring</title><link>https://lucy.hamburg/posts/wiring/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/wiring/</guid><description>&lt;p&gt;You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉&lt;/p&gt;
+&lt;p&gt;George explained the essentials very well - what elements you need and how to connect them. See for yourself in the youtube video below.
+George introduced a wiring scheme which I converted to a drawing.&lt;/p&gt;
+&lt;p&gt;This is the original scheme:
+&lt;img alt="Wiring" loading="lazy" src="https://lucy.hamburg/posts/wiring/wiring_whiteboard.jpg"&gt;&lt;/p&gt;</description></item><item><title>Sailing on River Elbe</title><link>https://lucy.hamburg/posts/elbe/</link><pubDate>Wed, 07 May 2025 19:48:46 +0200</pubDate><guid>https://lucy.hamburg/posts/elbe/</guid><description>&lt;p&gt;Elbe means &lt;a href="https://en.wikipedia.org/wiki/Tide"&gt;tide&lt;/a&gt;. So sailing goes with the current, ideally adapted to the tide 😉&lt;/p&gt;
+&lt;p&gt;Lucy’s home port is Hamburg. Hamburg lies on the Elbe and sailing begins right outside the harbour entrance. In my case, the entrance to the Rüschkanal harbour at Finkenwerder.&lt;/p&gt;
+&lt;p&gt;The Elbe is a tidal area; the current does not always flow downstream as in all rivers but, thanks to the flood tide, sometimes flows upstream. To have fun and make progress, one generally follows the tide. It sets the rhythm and the timings for departure and arrival.&lt;/p&gt;</description></item><item><title>About</title><link>https://lucy.hamburg/about/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/about/</guid><description>&lt;h2 id="what-i-love-about-sailing"&gt;What I Love About Sailing&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Being immersed in Nature:&lt;/strong&gt; Sailing allows you to spend time outdoors, experience nature up close, and enjoy the fresh sea breeze.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Escape and Relaxation:&lt;/strong&gt; Sailing offers a break from everyday life, stress, and hustle. It creates space for calm, silence, and the feeling of escaping the daily grind to clear your mind.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Community and Togetherness:&lt;/strong&gt; Everyone on board works together, strengthening the sense of community. Spending time with family and friends on a boat is especially valuable as you share a common goal and enjoy meaningful conversations.&lt;/p&gt;</description></item><item><title>Lucy</title><link>https://lucy.hamburg/boat/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/boat/</guid><description>&lt;p&gt;&lt;a href="https://lucy.hamburg/position/" title="Link title"&gt;→ Lucy&amp;rsquo;s position&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="contessa-32-lucy--a-sailing-yacht-with-charm-and-tradition"&gt;Contessa 32 &amp;lsquo;Lucy&amp;rsquo; – A Sailing Yacht with Charm and Tradition&lt;/h2&gt;
+&lt;p&gt;The &lt;strong&gt;Contessa 32&lt;/strong&gt;, designed by David Sadler and built by Jeremy Rogers Ltd, strikes a balance between classic long keel boats and modern fin keel boats. Its semi-long keel with skeg design, inspired by the Contessa 26, offers efficient upwind performance and exceptional seaworthiness. The Contessa 32, renowned for its stability and practical interior layout, is a popular choice for sailors prioritizing comfort and performance at sea.&lt;/p&gt;</description></item><item><title>Delivery from Hayling Island</title><link>https://lucy.hamburg/posts/delivery/</link><pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/delivery/</guid><description>&lt;p&gt;Lucy was built in England and was launched for the first time in Lymington on 7 March 1979. I also purchased Lucy in England. Robin Milledge was a great help to me during the purchase, and I can highly recommend him as a surveyor! See &lt;a href="https://rozelmarine.co.uk"&gt;Rozel Marine&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;At Hayling Island, the yard &lt;a href="http://haylingyacht.co.uk/"&gt;Hayling Yacht Company&lt;/a&gt; carried out a refit. Structural issues were addressed and the engine was overhauled.&lt;/p&gt;
+&lt;h2 id="winter-in-the-boat-shed"&gt;Winter in the Boat Shed&lt;/h2&gt;
+&lt;p&gt;I undertook some of the work myself and visited the yard several times. The yard is beautifully situated. Working in the cold boat shed was no pleasure. Most boats in England are kept outside over winter, so I was glad to be able to work indoors.&lt;/p&gt;</description></item></channel></rss>
