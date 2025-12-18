@@ -11,7 +11,7 @@ cover:
   relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
-Aktuell steht noch nicht soo viel fest. Das kommt noch...
+Aktuell steht noch nicht soo viel fest. Das kommt dann noch...
 
 Auf jeden Fall ist Anfang und das Ende meiner dreimonatigen Segel Auszeit in 2026 fest: los geht es Anfang Juni und Ende August möchte ich wieder zuhause in Hamburg sein.
 Ob dann auch Lucy wieder in Hamburg sein wird oder in England bleiben kann steht aber noch nicht fest (siehe Varianten unten).
