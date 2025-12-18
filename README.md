@@ -2,13 +2,42 @@
 
 ## hugo
 
-Hugo site template in directory "site".
-
-Create site template:
+Create site:
 ~~~shell
 hugo new site site
 git clone https://github.com/adityatelange/hugo-PaperMod site/themes/PaperMod --depth=1
 ~~~
+
+Theme update:
+~~~shell
+cd site/themes/PaperMod && git pull && cd -
+~~~
+
+Create site/themes/PaperMod/assets/css/extended/override.css:
+~~~css
+:root {
+    --line-height:1.1em;
+    --post-width:960px;
+    --monospace: monospace;
+}
+.main.post {
+    --main-width:880px;
+    position: relative;
+	min-height: calc(100vh - var(--header-height) - var(--footer-height));
+	max-width: calc(var(--main-width) + var(--gap) * 2);
+	margin: auto;
+    margin-right: 50px;
+	padding: var(--content-gap)var(--gap)0;
+}
+
+.post-content {
+	font-size: 14px;
+    line-height: 1.2em;
+	color: var(--content);
+}
+~~~~
+
+
 
 Create first post:
 ~~~shell
