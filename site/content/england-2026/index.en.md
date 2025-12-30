@@ -11,12 +11,18 @@ cover:
   relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
-Aktuell steht noch nicht soo viel fest. Das kommt dann noch...
+Aktuell steht noch nicht soo viel fest. Das kommt noch...
 
-Auf jeden Fall ist Anfang und das Ende meiner dreimonatigen Segel Auszeit in 2026 fest: los geht es Anfang Juni und Ende August möchte ich wieder zuhause in Hamburg sein.
-Ob dann auch Lucy wieder in Hamburg sein wird oder in England bleiben kann steht aber noch nicht fest (siehe Varianten unten).
+Als Überblick hier eine [Karte English Channel](./channel.jpeg)
 
-Ich möchte gerne auf dem Hin- und Rückweg längere Strecken (>60 nm) segeln, dann würden wir auch Nachts unterwegs sein. Etappenhäfen werde ich noch planen.
+- Es geht ab Hamburg nach Westen gehen, in den Solent und weiter westlich: West Country, vielleicht Isles of Scillies. Einmal über den English Channel zu den Channel Islands wie Guernsey und Sark.
+
+- Anfang und das Ende meiner Segel Auszeit 2026 stehen fest: los geht es Anfang Juni und Ende August möchte ich wieder zuhause in Hamburg sein.
+Ob dann auch [Lucy](/boat/) wieder in Hamburg sein wird oder in England bleiben kann steht aber noch nicht fest (deswegen die Varianten unten).
+
+- Ich möchte auf dem Hin- und Rückweg gerne auch längere Strecken (>60 nm) segeln, wir würden also auch mal über Nacht unterwegs sein. Wir segeln in Tidengewässern,  also am besten mit der Strömung und wenn wir genug Wasser unter dem Kiel haben.
+
+- Ich wünsche mir einen freundschaftlichen Umgang an Bord. Ich möchte Land und Leute in England und Frankreich kennenlernen und auch einige Regatten segeln. Das dann eher sportlicher, aber immer entspannt.
 
 Einige Regatten sollten auch dabei sein:
 
@@ -27,23 +33,24 @@ Und natürlich auch einige "Cruising" Zeiten um Land und Leute kennenzulernen un
 
 ## Vorläufige Planung – itinerary
 
-| **Datum**  | **Ort**       | **Crew** | **Zusagen** | **Notizen**                                                                                       |
-|------------|---------------|----------|-------------|---------------------------------------------------------------------------------------------------|
-| 2026-06-01 | Hamburg       | 2        |             | Start Richtung England: Elbe, Nordsee, Solent                                                     |
-|            | Cuxhaven      | 2        |             |                                                                                                   |
-|            | Helgoland     | 2        |             |                                                                                                   |
-|            | ???           |          |             |                                                                                                   |
-| 2026-06-10 | Lymington     |          |             | Cruising                                                                                          |
-| 2026-06-26 | Yarmouth      | 5?       |             | Crew Wechsel: Start Regatta [Co32 Regatta](https://www.co32.org/event/2026-co32-inshore-series-4) |
-| 2026-06-28 | Yarmouth      |          |             | Crew Wechsel: Ende Regatta [Co32 Regatta](https://www.co32.org/event/2026-co32-inshore-series-4)  |
-| ???        | Lymington     |          |             | Termin bei [Sanders](https://sanders-sails.co.uk): neue Sprayhood                                 |
-| 2026-07-07 | Dartmouth     | 2        |             | Crew Wechsel: Start Regatta [Classic Channel Regatta](https://www.classic-channel-regatta.eu)     |
-| 2026-07-16 | Île de Bréhat | 2        |             | Ende Regatta [Classic Channel Regatta](https://www.classic-channel-regatta.eu)                    |
-| 2026-07-17 | Plymouth      | 1        | 1           | Crew Wechsel                                                                                      |
-| 2026-07-18 | Plymouth      | 1        | 1           | Start Cruising                                                                                    |
-| 2026-08-14 | Southampton   |          |             | Ende Cruising. Deacons Marina, Klarschiff und von Bord (Variante: Lucy bleibt in England)         |
-| 2026-08-15 | Southampton   |          |             | Crew Wechsel: Rückweg nach Hamburg (Variante: Lucy zurück nach Hamburg)                           |
-| 2026-08-23 | Hamburg       |          |             | Ankunft Hamburg (Variante: Lucy zurück nach Hamburg)                                              |
+| **Datum**  | **Ort**           | **Crew** | **Zusagen** | **Notizen**                                                                                       |
+|------------|-------------------|----------|-------------|---------------------------------------------------------------------------------------------------|
+| 2026-06-01 | Hamburg           | 2        |             | Start Richtung England: Elbe, Nordsee, Solent                                                     |
+|            | Cuxhaven          | 2        |             |                                                                                                   |
+|            | Helgoland         | 2        |             |                                                                                                   |
+|            | ? Etappenhäfen    | 2        |             |                                                                                                   |
+| 2026-06-10 | Lymington         | 2        |             | ? Crew Wechsel (Sanders: Sprayhood)                                                               |
+| 2026-06-15 | ? Channel Islands | 1-2      |             | Cruising                                                                                          |
+| 2026-06-26 | Yarmouth          | 5?       |             | Crew Wechsel: Start Regatta [Co32 Regatta](https://www.co32.org/event/2026-co32-inshore-series-4) |
+| 2026-06-28 | Yarmouth          |          |             | Crew Wechsel: Ende Regatta [Co32 Regatta](https://www.co32.org/event/2026-co32-inshore-series-4)  |
+| ???        | Lymington         |          |             | Termin bei [Sanders](https://sanders-sails.co.uk): neue Sprayhood                                 |
+| 2026-07-07 | Dartmouth         | 2        |             | Crew Wechsel: Start Regatta [Classic Channel Regatta](https://www.classic-channel-regatta.eu)     |
+| 2026-07-16 | Île de Bréhat     | 2        |             | Ende Regatta [Classic Channel Regatta](https://www.classic-channel-regatta.eu)                    |
+| 2026-07-17 | Plymouth          | 1        | 1           | Crew Wechsel                                                                                      |
+| 2026-07-18 | Plymouth          | 1        | 1           | Start Cruising                                                                                    |
+| 2026-08-14 | Southampton       |          |             | Ende Cruising. Deacons Marina, Klarschiff und von Bord (Variante: Lucy bleibt in England)         |
+| 2026-08-15 | Southampton       |          |             | Crew Wechsel: Rückweg nach Hamburg (Variante: Lucy zurück nach Hamburg)                           |
+| 2026-08-23 | Hamburg           |          |             | Ankunft Hamburg (Variante: Lucy zurück nach Hamburg)                                              |
 
 ## Notizen
 
