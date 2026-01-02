@@ -7,7 +7,7 @@ cover:
   image: "silverrudder_cover.jpeg"
 ---
 
-## Silverrudder WTF😳
+## Silverrudder WTF 😳
 
 I've often thought about what it would be like to participate in the [Silverrudder](https://www.silverrudder.com)?
 Just do the "Around Funen" all in one go? That alone is crazy enough, and then doing it alone...

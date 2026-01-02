@@ -3,7 +3,9 @@ date: "2025-12-16"
 menus: main"
 title: "England 2026"
 slug: "england-2026"
+
 searchHidden: true
+
 cover:
   image: "route-england.jpeg"
   alt: ""
@@ -51,6 +53,13 @@ Und natürlich auch einige "Cruising" Zeiten um Land und Leute kennenzulernen un
 | 2026-08-14 | Southampton       |          |             | Ende Cruising. Deacons Marina, Klarschiff und von Bord (Variante: Lucy bleibt in England)         |
 | 2026-08-15 | Southampton       |          |             | Crew Wechsel: Rückweg nach Hamburg (Variante: Lucy zurück nach Hamburg)                           |
 | 2026-08-23 | Hamburg           |          |             | Ankunft Hamburg (Variante: Lucy zurück nach Hamburg)                                              |
+
+## Classic Channel Regatta
+
+Three inshore races at Dartmouth Classics; two passage races across the Channel: The
+Classic Channel Race from Dartmouth to St Peter Port and the passage race from St Peter Port to Lézardrieux.
+
+[Classic Channel Regatta](https://www.classic-channel-regatta.eu) 
 
 ## Notizen
 
