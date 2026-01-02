@@ -28,7 +28,7 @@ socialIcons:
 
 editPost:
   URL: "https://github.com/karstenmueller/lucy.hamburg/edit/main/site/content"
-  Text: "Edit" # edit text
+  Text: "⛭" # edit text
   appendFilePath: true # to append file path to Edit link
 
 # minify:
