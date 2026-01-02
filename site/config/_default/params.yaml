@@ -12,6 +12,10 @@ disableScrollToTop: true
 ShowPostNavLinks: true
 comments: true
 
+UseHugoToc: true
+ShowToc: true
+tocopen: true
+
 fuseOpts: # search
     ignoreLocation: true
     keys: ["title", "permalink", "summary", "content"]
