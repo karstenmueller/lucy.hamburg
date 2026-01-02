@@ -1,5 +1,7 @@
 # hugo-PaperMod-Mod
 
+See [arashsm79/hugo-PaperMod-Mod](https://github.com/arashsm79/hugo-PaperMod-Mod)
+
 ## Installation
 
 Simply copy the CSS files that you want from this repository to the `assets/css/extended` folder of your Hugo project.

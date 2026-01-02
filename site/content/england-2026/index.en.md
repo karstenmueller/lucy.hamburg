@@ -8,14 +8,11 @@ searchHidden: true
 
 cover:
   image: "route-england.jpeg"
-  alt: ""
-  caption: ""
-  relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
 Aktuell steht noch nicht soo viel fest. Das kommt noch...
 
-Als Überblick hier eine [Karte English Channel](./channel.jpeg)
+## Überblick
 
 - Es geht ab Hamburg nach Westen gehen, in den Solent und weiter westlich: West Country, vielleicht Isles of Scillies. Einmal über den English Channel zu den Channel Islands wie Guernsey und Sark.
 
@@ -54,20 +51,34 @@ Und natürlich auch einige "Cruising" Zeiten um Land und Leute kennenzulernen un
 | 2026-08-15 | Southampton       |          |             | Crew Wechsel: Rückweg nach Hamburg (Variante: Lucy zurück nach Hamburg)                           |
 | 2026-08-23 | Hamburg           |          |             | Ankunft Hamburg (Variante: Lucy zurück nach Hamburg)                                              |
 
-## Classic Channel Regatta
+## Regatten
+
+### Classic Channel Regatta
+
+> erfordert selbst vermessene Segel und selbst erstelltes Zertifikat
 
 Three inshore races at Dartmouth Classics; two passage races across the Channel: The
 Classic Channel Race from Dartmouth to St Peter Port and the passage race from St Peter Port to Lézardrieux.
 
 [Classic Channel Regatta](https://www.classic-channel-regatta.eu) 
 
+### Co32 Regatta
+
+> erfordert Class Certificate
+
 ## Notizen
 
-- Co32 Regatta erfordert Class Certificate
-- Classic Channel Regatta erfordert selbst vermessene Segel
 - Grobe Route siehe [hier](https://www.bednblue.com/sailing-distance-calculator?cruisingSpeed=5&map=%5B%7B%22latLng%22%3A%2253.872293%2C8.687906%22%2C%22name%22%3A%2253.872293%2C%208.687906%22%7D%2C%7B%22latLng%22%3A%2253.951943%2C8.698469%22%7D%2C%7B%22latLng%22%3A%2254.044522%2C8.456347%22%7D%2C%7B%22latLng%22%3A%2254.178039%2C7.91717%22%7D%2C%7B%22latLng%22%3A%2253.365854%2C4.956429%22%7D%2C%7B%22latLng%22%3A%2253.042897%2C4.618261%22%7D%2C%7B%22latLng%22%3A%2252.461954%2C4.477846%22%7D%2C%7B%22latLng%22%3A%2250.993975%2C1.834957%22%7D%2C%7B%22latLng%22%3A%2251.096826%2C1.350204%22%7D%2C%7B%22latLng%22%3A%2250.88452%2C1.039163%22%7D%2C%7B%22latLng%22%3A%2250.689815%2C0.266696%22%7D%2C%7B%22latLng%22%3A%2250.715448%2C-0.983676%22%7D%2C%7B%22latLng%22%3A%2250.785635%2C-1.268286%22%7D%2C%7B%22latLng%22%3A%2250.758531%2C-1.54191%22%2C%22name%22%3A%22Lymington%2C%20United%20Kingdom%22%7D%5D&consumption=1.5)
 - Yachtmaster Offshore Requirements
   - Seemeilen & Tage:
     - 50 Tage auf See (davon 5 Tage als Skipper)
     - 2.500 Seemeilen (davon mindestens 1.250 sm in Gezeitengewässern)
     - 5 Passagen über 60 sm (davon 2 als Skipper, 2 mit Nachtfahrt)
+
+## Karte English Channel
+
+![Karte English Channel](/england-2026/channel.jpeg)
+
+## Kalender
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FBerlin&showCalendars=0&mode=AGENDA&src=cXJma2k4ZDZic3NtOWpxcHVtaXRpbTlxdGdob3N0MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ef6c00" style="border:solid 1px #777" width="800" height="1000" frameborder="0" scrolling="no"></iframe>

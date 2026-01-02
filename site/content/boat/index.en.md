@@ -31,7 +31,7 @@ The Contessa 32 is a true masterpiece of engineering, offering safety and speed 
 
 ## Lucy – A Sailing Yacht with a History
 
-The **Lucy** is a particularly well-maintained **Contessa 32** that has undertaken many voyages along the coasts of Western Europe. The name "Lucy" (the shining, the radiant) has a pleasant ring and represents the strength of the boat. It also recalls one of the oldest human [skeletons](https://de.wikipedia.org/wiki/Lucy), whose name in turn links to the song "Lucy in the Sky with Diamonds" by the Beatles. Like many other Contessa 32s, **Lucy** has her own unique character and stands for freedom, passion, and love of sailing.
+**Lucy** is a particularly well-maintained **Contessa 32** that has undertaken many voyages along the coasts of Western Europe. The name "Lucy" (the shining, the radiant) has a pleasant ring and represents the strength of the boat. It also recalls one of the oldest human [skeletons](https://de.wikipedia.org/wiki/Lucy), whose name in turn links to the song "Lucy in the Sky with Diamonds" by the Beatles. Like many other Contessa 32s, **Lucy** has her own unique character and stands for freedom, passion, and love of sailing.
 
 Lucy boasts an exceptionally well-kept interior. Her deck and rigging are in pristine condition, and she is equipped with modern navigation systems without losing the traditional charm of a classic yacht.
 

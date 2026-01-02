@@ -6,3 +6,8 @@ enableGitInfo: true
 
 DefaultContentLanguage: en
 defaultContentLanguageInSubdir: false
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
