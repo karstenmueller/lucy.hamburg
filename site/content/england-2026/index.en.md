@@ -14,7 +14,7 @@ At the moment, not that much is fixed yet. That will come later…
 
 ## Overview
 
-- The route goes from Hamburg westward, into the Solent and further west: West Country, possibly the Isles of Scilly. One crossing of the English Channel to the Channel Islands such as Guernsey and Sark.
+- The route goes from Hamburg westward, into the Solent and further west: West Country, possibly the Isles of Scilly, possibly to the Channel Islands such as Guernsey and Sark.
 
 - The start and end of my sailing sabbatical in 2026 are set: departure is at the beginning of June, and by the end of August I want to be back home in Hamburg.  
   Whether [Lucy](/boat/) will also be back in Hamburg by then or stay in England is not yet clear (hence the variants below).
@@ -91,11 +91,12 @@ The Classic Channel Race from Dartmouth to St Peter Port and the passage race fr
 
 ### Deacons Marina
 
-[Deacons Marina](https://www.boatfolk.co.uk/deacons-marina-southampton)
+Where George [Solent Boat Butler](https://www.solentboatbutler.co.uk) would possibly keep an eye on Lucy from August to the next year.
+- [Deacons Marina](https://www.boatfolk.co.uk/deacons-marina-southampton)
 
 ### Rough Route
 
-See [here](https://www.bednblue.com/sailing-distance-calculator?cruisingSpeed=5&map=%5B%7B%22latLng%22%3A%2253.872293%2C8.687906%22%2C%22name%22%3A%2253.872293%2C%208.687906%22%7D%2C%7B%22latLng%22%3A%2253.951943%2C8.698469%22%7D%2C%7B%22latLng%22%3A%2254.044522%2C8.456347%22%7D%2C%7B%22latLng%22%3A%2254.178039%2C7.91717%22%7D%2C%7B%22latLng%22%3A%2253.365854%2C4.956429%22%7D%2C%7B%22latLng%22%3A%2253.042897%2C4.618261%22%7D%2C%7B%22latLng%22%3A%2252.461954%2C4.477846%22%7D%2C%7B%22latLng%22%3A%2250.993975%2C1.834957%22%7D%2C%7B%22latLng%22%3A%2251.096826%2C1.350204%22%7D%2C%7B%22latLng%22%3A%2250.88452%2C1.039163%22%7D%2C%7B%22latLng%22%3A%22550.689815%2C0.266696%22%7D%2C%7B%22latLng%22%3A%2250.715448%2C-0.983676%22%7D%2C%7B%22latLng%22%3A%2250.785635%2C-1.268286%22%7D%2C%7B%22latLng%22%3A%2250.758531%2C-1.54191%22%2C%22name%22%3A%22Lymington%2C%20United%20Kingdom%22%7D%5D&consumption=1.5)
+See [here](https://www.bednblue.com/sailing-distance-calculator?cruisingSpeed=5&map=%5B%7B%22latLng%22%3A%2253.543904%2C9.855203%22%2C%22name%22%3A%2253.543904%2C%209.855203%22%7D%2C%7B%22latLng%22%3A%2253.557253%2C9.785953%22%7D%2C%7B%22latLng%22%3A%2253.564484%2C9.714642%22%7D%2C%7B%22latLng%22%3A%2253.569732%2C9.676927%22%7D%2C%7B%22latLng%22%3A%2253.579872%2C9.650198%22%7D%2C%7B%22latLng%22%3A%2253.603822%2C9.591934%22%7D%2C%7B%22latLng%22%3A%2253.615958%2C9.559076%22%7D%2C%7B%22latLng%22%3A%2253.632167%2C9.53995%22%7D%2C%7B%22latLng%22%3A%2253.706102%2C9.490713%22%7D%2C%7B%22latLng%22%3A%2253.749013%2C9.422451%22%7D%2C%7B%22latLng%22%3A%2253.827647%2C9.370669%22%7D%2C%7B%22latLng%22%3A%2253.869657%2C9.275344%22%7D%2C%7B%22latLng%22%3A%2253.884131%2C9.144314%22%7D%2C%7B%22latLng%22%3A%2253.880792%2C8.887402%22%7D%2C%7B%22latLng%22%3A%2253.867%2C8.718778%22%7D%2C%7B%22latLng%22%3A%2253.951943%2C8.698469%22%7D%2C%7B%22latLng%22%3A%2254.044522%2C8.456347%22%7D%2C%7B%22latLng%22%3A%2254.178039%2C7.91717%22%7D%2C%7B%22latLng%22%3A%2253.667931%2C6.964143%22%7D%2C%7B%22latLng%22%3A%2253.365854%2C4.956429%22%7D%2C%7B%22latLng%22%3A%2253.042897%2C4.618261%22%7D%2C%7B%22latLng%22%3A%2252.461954%2C4.477846%22%7D%2C%7B%22latLng%22%3A%2252.036527%2C4.043547%22%7D%2C%7B%22latLng%22%3A%2251.950711%2C3.88957%22%7D%2C%7B%22latLng%22%3A%2250.993975%2C1.834957%22%7D%2C%7B%22latLng%22%3A%2251.096826%2C1.350204%22%7D%2C%7B%22latLng%22%3A%2250.88452%2C1.039163%22%7D%2C%7B%22latLng%22%3A%2250.689815%2C0.266696%22%7D%2C%7B%22latLng%22%3A%2250.715448%2C-0.983676%22%7D%2C%7B%22latLng%22%3A%2250.785635%2C-1.268286%22%7D%2C%7B%22latLng%22%3A%2250.758531%2C-1.54191%22%2C%22name%22%3A%22Lymington%2C%20United%20Kingdom%22%7D%5D&consumption=1.5)
 
 ### Yachtmaster Offshore Requirements
 
