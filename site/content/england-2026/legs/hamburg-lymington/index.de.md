@@ -57,3 +57,17 @@ Die Matrix zeigt Seemeilen (sm) zwischen allen Häfen (gerade Routen aus Reeds-T
 
 Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Aufprall): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 sm → 58 sm real. Für Lucy (Contessa 32, 1,65 m Tiefgang) gilt: Vermeide Ebbe bei NW-Wind, nutze Flut. Keine Reeds-spezifischen Aufschläge, daher Standard-Segel-Faktor.
 
+## Etappenplanung
+
+| Nr. | Von → Nach              | Ausweichhäfen                       | Luftlinie (nm) | Dauer (4,5kn) |
+|-----|-------------------------|-------------------------------------|----------------|---------------|
+| 0   | Hamburg → Brunsbüttel   | Cuxhaven (35 nm)                    | 38             | 8,4 h         |
+| 1   | Brunsbüttel → Helgoland | Wilhelmshaven (50 nm)               | 47             | 10,4 h        |
+| 2   | Helgoland → Borkum      | Wangerooge (30 nm)                  | 56             | 12,4 h        |
+| 3   | Borkum → Ijmuiden       | Norderney (20 nm)                   | 80             | 17,8 h        |
+| 4   | Ijmuiden → Oostende     | Den Helder (40 nm)                  | 100            | 22,2 h        |
+| 5   | Oostende → Dover        | Zeebrugge (10 nm)                   | 70             | 15,6 h        |
+| 6   | Dover → Brighton        | Ramsgate (15 nm)                    | 52             | 11,6 h        |
+| 7   | Brighton → Lymington    | Newhaven (10 nm), Eastbourne (5 nm) | 70             | 15,6 h        |
+
+Die Etappenplanung berücksichtigt eine 3-Personen-Crew auf der Contessa 32 Lucy (Tiefgang 1,65 m) mit Start am 1. Juni 2026. Alle Entfernungen sind Luftlinien aus den Distanztafeln des Reeds Nautical Almanac 2026. Dauer basiert auf 4,5 kn Durchschnittsgeschwindigkeit. Ausweichhäfen sind bei jedem Wetter erreichbar (z.B. Schleusenhäfen oder tiefe Zugänge). Gesamtdistanz ca. 513 nm, ca. 114 h Segeln, machbar in 10-14 Tagen bei günstigem Wetter.
