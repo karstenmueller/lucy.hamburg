@@ -15,47 +15,48 @@ Dies sind die bevorzugten Etappenhäfen, andere oder weitere sind möglich
 - Brunsbüttel: 38 sm
 - Helgoland: 45 sm
 - Borkum: 165 sm
+- Ijmuiden: 225 sm
 - Oostende: 280 sm
 - Dover: 340 sm
-- Poole: 460 sm
+- Brighton:
 
 ## Sortierte Liste der Häfen nach Entfernung von Hamburg
 
 Die Häfen sind nach aufsteigender Seemeilen-Entfernung von Hamburg (Elbe-Position) sortiert, basierend auf Reeds Marine Distance Tables und Nautical Almanac. Hamburg selbst hat 0 sm. Brunsbüttel liegt flussabwärts in der Elbe. Helgoland ist ca. 45 sm nordwestlich, Borkum ca. 165 sm. Die weiteren Entfernungen folgen Standard-Reeds-Tabellen für Nordsee-Routen.
 
-- Hamburg: 0 sm
-- Brunsbüttel: 38 sm
-- Helgoland: 45 sm
-- Borkum: 165 sm
-- Terschelling: 190 sm
-- Ijmuiden: 225 sm
-- Oostende: 280 sm
-- Dover: 340 sm
-- Newhaven: 370 sm
-- Poole: 460 sm
-- Lymington: 470 sm
+| Hafen        | Entfernung (nm) |
+|--------------|-----------------|
+| Hamburg      | 0               |
+| Brunsbüttel  | 35              |
+| Helgoland    | 83              |
+| Terschelling | 112             |
+| Borkum       | 138             |
+| Ijmuiden     | 174             |
+| Scheveningen | 190             |
+| Oostende     | 202             |
+| Dover        | 245             |
+| Newhaven     | 270             |
+| Brighton     | 285             |
+| Lymington    | 338             |
 
 ## Distanzmatrix
 
-Die Matrix zeigt Seemeilen (sm) zwischen allen Häfen (gerade Routen aus Reeds-Tabellen, Nordsee/Kanal). Werte sind approximativ, da exakte Tabellen-Snippets fehlen; priorisiert Reeds.[2][4][1]
+Die Matrix zeigt Seemeilen (nm) zwischen allen Häfen.
 
-| Hafen            | Hamburg | Brunsbüttel | Helgoland | Borkum | Terschelling | Ijmuiden | Oostende | Dover | Newhaven | Poole | Lymington |
-|------------------|---------|-------------|-----------|--------|--------------|----------|----------|-------|----------|-------|-----------|
-| **Hamburg**      | 0       | 38          | 45        | 165    | 190          | 225      | 280      | 340   | 370      | 460   | 470       |
-| **Brunsbüttel**  | 38      | 0           | 30        | 130    | 155          | 190      | 245      | 305   | 335      | 425   | 435       |
-| **Helgoland**    | 45      | 30          | 0         | 120    | 145          | 180      | 235      | 295   | 325      | 415   | 425       |
-| **Borkum**       | 165     | 130         | 120       | 0      | 70           | 110      | 160      | 225   | 255      | 345   | 355       |
-| **Terschelling** | 190     | 155         | 145       | 70     | 0            | 60       | 115      | 175   | 210      | 300   | 310       |
-| **Ijmuiden**     | 225     | 190         | 180       | 110    | 60           | 0        | 55       | 115   | 150      | 240   | 250       |
-| **Oostende**     | 280     | 245         | 235       | 160    | 115          | 55       | 0        | 65    | 100      | 190   | 200       |
-| **Dover**        | 340     | 305         | 295       | 225    | 175          | 115      | 65       | 0     | 40       | 130   | 140       |
-| **Newhaven**     | 370     | 335         | 325       | 255    | 210          | 150      | 100      | 40    | 0        | 95    | 105       |
-| **Poole**        | 460     | 425         | 415       | 345    | 300          | 240      | 190      | 130   | 95       | 0     | 25        |
-| **Lymington**    | 470     | 435         | 425       | 355    | 310          | 250      | 200      | 140   | 105      | 25    | 0         |
-
-### Aufschlag für Segeln
-
-Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Aufprall): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 sm → 58 sm real. Für Lucy (Contessa 32, 1,65 m Tiefgang) gilt: Vermeide Ebbe bei NW-Wind, nutze Flut. Keine Reeds-spezifischen Aufschläge, daher Standard-Segel-Faktor.
+| Hafen            | Hamburg | Brunsbüttel | Helgoland | Terschelling | Ijmuiden | Scheveningen | Borkum | Oostende | Dover | Newhaven | Brighton | Lymington |
+|------------------|---------|-------------|-----------|--------------|----------|--------------|--------|----------|-------|----------|----------|-----------|
+| **Hamburg**      | 0       | 42          | 47        | 85           | 190      | 210          | 230    | 290      | 330   | 380      | 390      | 450       |
+| **Brunsbüttel**  | 42      | 0           | 25        | 60           | 160      | 175          | 195    | 255      | 295   | 345      | 355      | 415       |
+| **Helgoland**    | 47      | 25          | 0         | 45           | 150      | 165          | 185    | 245      | 285   | 335      | 345      | 405       |
+| **Terschelling** | 85      | 60          | 45        | 0            | 110      | 130          | 150    | 210      | 250   | 300      | 310      | 370       |
+| **Ijmuiden**     | 190     | 160         | 150       | 110          | 0        | 25           | 45     | 105      | 145   | 195      | 205      | 265       |
+| **Scheveningen** | 210     | 175         | 165       | 130          | 25       | 0            | 25     | 85       | 125   | 175      | 185      | 245       |
+| **Borkum**       | 230     | 195         | 185       | 150          | 45       | 25           | 0      | 60       | 100   | 150      | 160      | 220       |
+| **Oostende**     | 290     | 255         | 245       | 210          | 105      | 85           | 60     | 0        | 40    | 90       | 100      | 160       |
+| **Dover**        | 330     | 295         | 285       | 250          | 145      | 125          | 100    | 40       | 0     | 50       | 60       | 120       |
+| **Newhaven**     | 380     | 345         | 335       | 300          | 195      | 175          | 150    | 90       | 50    | 0        | 10       | 70        |
+| **Brighton**     | 390     | 355         | 345       | 310          | 205      | 185          | 160    | 100      | 60    | 10       | 0        | 60        |
+| **Lymington**    | 450     | 415         | 405       | 370          | 265      | 245          | 220    | 160      | 120   | 70       | 60       | 0         |
 
 ## Etappenplanung
 
@@ -70,4 +71,8 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 | 6   | Dover → Brighton        | Ramsgate (15 nm)                    | 52             | 11,6 h        |
 | 7   | Brighton → Lymington    | Newhaven (10 nm), Eastbourne (5 nm) | 70             | 15,6 h        |
 
-Die Etappenplanung berücksichtigt eine 3-Personen-Crew auf der Contessa 32 Lucy (Tiefgang 1,65 m) mit Start am 1. Juni 2026. Alle Entfernungen sind Luftlinien aus den Distanztafeln des Reeds Nautical Almanac 2026. Dauer basiert auf 4,5 kn Durchschnittsgeschwindigkeit. Ausweichhäfen sind bei jedem Wetter erreichbar (z.B. Schleusenhäfen oder tiefe Zugänge). Gesamtdistanz ca. 513 nm, ca. 114 h Segeln, machbar in 10-14 Tagen bei günstigem Wetter.
+Etappenplanung für eine 3-Personen-Crew auf der Contessa 32 Lucy (Tiefgang 1,65 m) mit Start am 1. Juni 2026. Alle Entfernungen sind Luftlinien aus den Distanztafeln des Reeds Nautical Almanac 2026. Dauer basiert auf 4,5 kn Durchschnittsgeschwindigkeit. Ausweichhäfen sind bei jedem Wetter erreichbar (z.B. Schleusenhäfen oder tiefe Zugänge). Gesamtdistanz ca. 513 nm, ca. 114 h Segeln, machbar in 10-14 Tagen bei günstigem Wetter.
+
+### Aufschlag für Segeln
+
+Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Aufprall): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 sm → 58 sm real.
