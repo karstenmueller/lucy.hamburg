@@ -53,6 +53,12 @@ hugo server --buildDrafts
 hugo server -D
 ~~~
 
+## hugo modules
+
+[https://github.com/ravelzh/hugo-gpx-module/tree/main)](https://github.com/ravelzh/hugo-gpx-module/tree/main)
+See site/layout/shortcodes/gpx-map.html
+
+
 ## terraform
 
 Terraform files in directory "terraform".

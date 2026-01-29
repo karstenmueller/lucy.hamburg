@@ -20,7 +20,7 @@ Dies sind die bevorzugten Etappenhäfen, andere oder weitere sind möglich
 - Dover: 340 nm
 - Newhaven: 380 nm
 
-## Sortierte Liste der Häfen nach Entfernung von Hamburg
+## Häfen nach Entfernung von Hamburg
 
 Die Häfen sind nach aufsteigender Seemeilen-Entfernung von Hamburg (Elbe-Position) sortiert, basierend auf Reeds Marine Distance Tables und Nautical Almanac. Hamburg selbst hat 0 nm. Brunsbüttel liegt flussabwärts in der Elbe. Helgoland ist ca. 45 nm nordwestlich, Borkum ca. 165 nm. Die weiteren Entfernungen folgen Standard-Reeds-Tabellen für Nordsee-Routen.
 
@@ -79,4 +79,8 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 
 ## Route
 
-{{< gpx-map "Hamburg - Lymington.gpx" >}}
+{{< gpx-map
+    file="Hamburg - Lymington.gpx"
+    file2="Classic Channel Regatta.gpx"
+    show-select="true"
+>}}
