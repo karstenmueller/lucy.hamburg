@@ -116,5 +116,6 @@ Karsten, Contessa 32 Lucy (1979)
 | **Svelmø**           | 11:43:01 | 3h 12m 6s  | 5,0     | 7,2           | 16,1     |
 | **Finish**           | 14:17:04 | 2h 24m 3s  | 4,4     | 7,2           | 11,3     |
 
+{{< figure src="silverrudder_legs.jpeg" title="silverrudder legs">}}
 
 [Daten als PDF](./Silverrudder%20Lucy%20-%20Livly.pdf)
