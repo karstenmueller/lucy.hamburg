@@ -12,17 +12,17 @@ Zwischen Hamburg und Lymington liegen mindestens 470 nm. Vermutlich werden es ca
 Das ist in 10-14 Tagen gut zu schaffen. Es sind einige längere Passagen mit mehr als 60nm dabei. Es geht also auch einmal in die Nacht, bzw. starten wir nachts um im Hellen anzukommen. Nach nächtlichen Passagen ist ein Ruhetag vorgesehen. Während der Passagen wechseln wir uns ab und es kann geschlafen werden.
 
 Dies sind die bevorzugten Etappenhäfen, andere oder weitere sind möglich
-- Brunsbüttel: 38 sm
-- Helgoland: 45 sm
-- Borkum: 165 sm
-- Ijmuiden: 225 sm
-- Oostende: 280 sm
-- Dover: 340 sm
-- Brighton:
+- Brunsbüttel: 38 nm
+- Helgoland: 45 nm
+- Borkum: 165 nm
+- Ijmuiden: 225 nm
+- Oostende: 280 nm
+- Dover: 340 nm
+- Newhaven: 380 nm
 
 ## Sortierte Liste der Häfen nach Entfernung von Hamburg
 
-Die Häfen sind nach aufsteigender Seemeilen-Entfernung von Hamburg (Elbe-Position) sortiert, basierend auf Reeds Marine Distance Tables und Nautical Almanac. Hamburg selbst hat 0 sm. Brunsbüttel liegt flussabwärts in der Elbe. Helgoland ist ca. 45 sm nordwestlich, Borkum ca. 165 sm. Die weiteren Entfernungen folgen Standard-Reeds-Tabellen für Nordsee-Routen.
+Die Häfen sind nach aufsteigender Seemeilen-Entfernung von Hamburg (Elbe-Position) sortiert, basierend auf Reeds Marine Distance Tables und Nautical Almanac. Hamburg selbst hat 0 nm. Brunsbüttel liegt flussabwärts in der Elbe. Helgoland ist ca. 45 nm nordwestlich, Borkum ca. 165 nm. Die weiteren Entfernungen folgen Standard-Reeds-Tabellen für Nordsee-Routen.
 
 | Hafen        | Entfernung (nm) |
 |--------------|-----------------|
@@ -75,4 +75,8 @@ Etappenplanung für eine 3-Personen-Crew auf der Contessa 32 Lucy (Tiefgang 1,65
 
 ### Aufschlag für Segeln
 
-Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Aufprall): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 sm → 58 sm real.
+Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Aufprall): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 nm → 58 nm real.
+
+## Route
+
+{{< gpx-map "Hamburg - Lymington.gpx" >}}
