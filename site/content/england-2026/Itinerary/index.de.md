@@ -68,8 +68,8 @@ Legende:
 | [Co32-Regatta](legs/co32-regatta)           | 2026-06-28 | Yarmouth       | 2-3 | 1  |          | Crew Wechsel: Ende [Co32 Regatta](#co32-regatta)                                                             |
 | [Channel-Regatta](legs/classic-channel)     | 2026-07-07 | Dartmouth      | 2-3 | 2  | Roy      | Crew Wechsel: Start [Classic Channel Regatta](#classic-channel-regatta)                                      |
 | [Channel-Regatta](legs/classic-channel)     | 2026-07-16 | Paimpol        | 2-3 | 2  | Roy      | Ende [Classic Channel Regatta](#classic-channel-regatta)                                                     |
-| [Channel-Regatta](legs/classic-channel)     | 2026-07-17 | Plymouth       | 2-3 | 2  | Roy      | Crew Wechsel                                                                                                 |
-| [Cruising-WestCountry](legs/west-country)   | 2026-07-18 | Plymouth       | 2   | 2  | Britta   | Start Cruising                                                                                               |
+| [Channel-Regatta](legs/classic-channel)     | 2026-07-18 | Plymouth       | 2-3 | 2  | Roy      | Crew Wechsel                                                                                                 |
+| [Cruising-WestCountry](legs/west-country)   | 2026-07-19 | Plymouth       | 2   | 2  | Britta   | Start Cruising                                                                                               |
 | [Cruising-WestCountry](legs/west-country)   | 2026-08-14 | Southampton    | 2   | 2  | Britta   | Ende Cruising. [Deacons Marina](#deacons-marina), Klarschiff und von Bord (Variante: Lucy bleibt in England) |
 |                                             | 2026-08-15 | Southampton    |     |    |          | ? Crew Wechsel: Rückweg nach Hamburg (falls Lucy zurück nach Hamburg)                                        |
 |                                             | 2026-08-23 | Hamburg        |     |    |          | ? Ankunft Hamburg (falls Lucy zurück nach Hamburg)                                                           |
