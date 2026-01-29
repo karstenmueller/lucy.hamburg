@@ -6,8 +6,7 @@ title: "Leg: Classic Channel"
 searchHidden: true
 
 cover:
-  image: 'Classic Channel Regatta.jpeg'
-
+  image: 'route.jpeg'
 ---
 
 Juhuu, Regatta 😎
@@ -37,7 +36,6 @@ Plane mit Neap-Tide für schwächere Ströme (max. 2-3 kn in Kanälen). Reeds wa
 ## Route
 
 {{< gpx-map
-    file="Classic Channel Regatta.gpx"
+    file="route.gpx"
     show-select="true"
 >}}
-

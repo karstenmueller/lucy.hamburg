@@ -8,7 +8,7 @@ searchHidden: true
 ---
 
 {{< gpx-map
-    file="legs/hamburg-lymington/Hamburg - Lymington.gpx"
-    file2="legs/classic-channel/Classic Channel Regatta.gpx"
+    file="legs/hamburg-lymington/route.gpx"
+    file2="legs/classic-channel/route.gpx"
     show-select="true"
 >}}

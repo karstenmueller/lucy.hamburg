@@ -105,3 +105,11 @@ See [here](https://www.bednblue.com/sailing-distance-calculator?cruisingSpeed=5&
   - 50 days at sea (including 5 days as skipper)
   - 2,500 sea miles (at least 1,250 nm in tidal waters)
   - 5 passages over 60 nm (including 2 as skipper, 2 with night sailing)
+
+## Route
+
+{{< gpx-map
+    file="../legs/hamburg-lymington/route.gpx"
+    file2="../legs/classic-channel/route.gpx"
+    show-select="true"
+>}}

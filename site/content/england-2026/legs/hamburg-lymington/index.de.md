@@ -5,7 +5,7 @@ title: "Leg: Hamburg - Lymington"
 
 searchHidden: true
 cover:
-  image: 'Hamburg - Lymington.jpeg'
+  image: 'route.jpeg'
 ---
 
 ## Übersicht
@@ -82,6 +82,6 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 ## Route
 
 {{< gpx-map
-    file="Hamburg - Lymington.gpx"
+    file="route.gpx"
     show-select="true"
 >}}
