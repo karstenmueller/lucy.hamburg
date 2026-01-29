@@ -15,7 +15,8 @@ Die **Contessa 32**, entworfen von David Sadler und gebaut von Jeremy Rogers Ltd
 
 **If it looks right, it possibly is right**
 
-{{< figure src="/boat/sunny.jpeg" align=center alt="Lucy auf dem Wasser " caption="Lucy auf dem Wasser (Double Rundt Regatta 2024 ">}}
+![Lucy auf dem Wasser (Double Rundt Regatta 2024)](sunny.jpeg)
+*Lucy auf dem Wasser (Double Rundt Regatta 2024)*
 
 ## Die Contessa 32 – Ein legendärer Entwurf
 
@@ -25,7 +26,7 @@ Weitere Informationen über die **Contessa 32** und ihre Geschichte findest du u
 
 Die Contessa 32 ist ein echtes Meisterwerk der Ingenieurskunst und bietet auf See sowohl Sicherheit als auch Geschwindigkeit. Ihr starker Rumpf macht sie ideal für rauere Gewässer und stellt sicher, dass sie auch unter schwierigen Bedingungen zuverlässig performt.
 
-![Jeremy Rogers sailing Calypso](https://www.jeremyrogers.co.uk/wp-content/uploads/2023/04/calypso-contessa-32-1030x686.jpg)
+![Jeremy Rogers sailing Calypso](calypso-contessa-32.jpg)
 *Jeremy Rogers sailing Calypso*
 
 ## Lucy – Ein Schiff mit Geschichte
