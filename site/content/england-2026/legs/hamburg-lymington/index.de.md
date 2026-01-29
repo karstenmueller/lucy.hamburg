@@ -4,6 +4,8 @@ menus: main"
 title: "Leg: Hamburg - Lymington"
 
 searchHidden: true
+cover:
+  image: 'Hamburg - Lymington.jpeg'
 ---
 
 ## Übersicht
@@ -81,6 +83,5 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 
 {{< gpx-map
     file="Hamburg - Lymington.gpx"
-    file2="Classic Channel Regatta.gpx"
     show-select="true"
 >}}

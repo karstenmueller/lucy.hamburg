@@ -6,7 +6,7 @@ title: "Leg: Classic Channel"
 searchHidden: true
 
 cover:
-  image: 'CCR-2026.jpeg'
+  image: 'Classic Channel Regatta.jpeg'
 
 ---
 
@@ -33,4 +33,11 @@ Die Regatta beginnt mit zwei Renn Tagen vor Dartmouth, gefolgt von einer Überfa
 Plane mit Neap-Tide für schwächere Ströme (max. 2-3 kn in Kanälen). Reeds warnt vor starken Gezeiten um Guernsey und Bretagne (Ebbe/Flut-Rotation anti-uhrzeigersinn). Distanz Dartmouth-St Peter Port: ~110 nm
 
 [Classic Channel Regatta](https://www.classic-channel-regatta.eu)
+
+## Route
+
+{{< gpx-map
+    file="Classic Channel Regatta.gpx"
+    show-select="true"
+>}}
 

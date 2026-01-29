@@ -104,3 +104,12 @@ Siehe [hier](https://www.bednblue.com/sailing-distance-calculator?cruisingSpeed=
   - 50 Tage auf See (davon 5 Tage als Skipper)
   - 2.500 Seemeilen (davon mindestens 1.250 sm in Gezeitengewässern)
   - 5 Passagen über 60 sm (davon 2 als Skipper, 2 mit Nachtfahrt)
+
+## Route
+
+
+{{< gpx-map
+    file="../legs/hamburg-lymington/Hamburg - Lymington.gpx"
+    file2="../legs/classic-channel/Classic Channel Regatta.gpx"
+    show-select="true"
+>}}
