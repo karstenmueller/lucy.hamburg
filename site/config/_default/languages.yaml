@@ -1,58 +1,55 @@
-
 en:
   languageName: "🇬🇧"
+  languageCode: "en"
   title: Sailing Lucy
-  languageNameShort: "en"
-  languageCode: "en_UK"
   weight: 0
   menu:
     main:
-      - url: /
-        name: Home
-        weight: 1
-      - url: /sailing/
+      - pageRef: sailing
         name: Sailing
         weight: 2
-      - url: /boat/
+      - pageRef: boat
         name: Boat
         weight: 3
-      - url: /posts/
+      - pageRef: posts
         name: Posts
         weight: 4
 
   params:
-    description: "Ahoy! This is about sailing Contessa 32 Lucy"
-    homeInfoParams:
-      Title: "👋 Ahoi"
-      Content: >
-        ![Karsten](/images/karsten_small.png)
+    displayName: "🇬🇧"
+    isoCode: "en"
+    description: "Ahoy! Sailing with Contessa 32 'Lucy'"
+    author:
+      name: ""
+      image: "images/karsten.png"
+      headline: ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's current position <a href="/en/position">here.</a>{{< /rawhtml >}}
+      #bio: "Ahoy! Sailing with Contessa 32 'Lucy'"
 
-        - ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's current position <a href="/position">here.</a>{{< /rawhtml >}}
 de:
-  languagename: 🇩🇪
+  languagename: "🇩🇪"
+  languageCode: "de"
   title: Segeln mit Lucy
-  languageNameShort: "de"
-  languageCode: "de_DE"
   weight: 1
   menu:
     main:
-      - url: /
-        name: Start
-        weight: 1
-      - url: /segeln/
+      - pageRef: sailing
         name: Segeln
         weight: 2
-      - url: /boot/
+      - pageRef: boat
         name: Boot
         weight: 3
-      - url: /posts/
+      - pageRef: posts
         name: Beiträge
         weight: 4
   params:
-    description: "Dies ist mein Blog über das Segeln mit Contessa 32 Lucy"
-    homeInfoParams:
-      Title: "👋 Ahoi"
-      Content: >
-        ![Karsten](/images/karsten_small.png)
-
-        - ⛵️ Ahoi! Hier geht es um Segeln mit Contessa 32 Lucy.{{< rawhtml >}} Finde Lucy's aktuelle Position <a href="/position">hier.</a>{{< /rawhtml >}}
+    displayName: "🇩🇪"
+    isoCode: "en"
+    description: "⛵️ Ahoi! Segeln mit Contessa 32 'Lucy'"
+    author:
+      name: ""
+      image: "images/karsten.png"
+      headline: ⛵️ Ahoi! Segeln mit Contessa 32 'Lucy' {{< rawhtml >}} Finde Lucy's aktuelle Position <a href="/position">hier.</a>{{< /rawhtml >}}
+      #bio: "⛵️ Ahoi! Segeln mit Contessa 32 'Lucy'"
+      links:
+        - instagram: "https://www.instagram.com/sailing.lucy"
+        - email: "mailto:skipper@lucy.hamburg"

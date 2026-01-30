@@ -2,9 +2,9 @@
 date: '2025-05-13'
 title: 'Battery Wiring'
 tags: [boat]
-cover:
-  image: "wiring_whiteboard.jpg"
 ---
+
+{{< figure src="featured.jpeg" title="">}}
 
 You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉
 

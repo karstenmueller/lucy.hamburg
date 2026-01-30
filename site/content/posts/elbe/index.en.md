@@ -1,13 +1,8 @@
 ---
-date: '2025-05-07T19:48:46+02:00'
+date: '2019-05-07'
 draft: false
 title: 'Sailing on River Elbe'
 tags: [elbe]
-cover:
-  image: "container.jpeg"
-  alt: ""
-  caption: ""
-  relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
 Elbe means [tide](https://en.wikipedia.org/wiki/Tide). So sailing goes with the current, ideally adapted to the tide 😉

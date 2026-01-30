@@ -3,8 +3,6 @@ title: Silverrudder 2025
 date: 2025-09-09
 tags:
 - racing
-cover:
-  image: "silverrudder_cover.jpeg"
 ---
 
 ## Silverrudder WTF😳

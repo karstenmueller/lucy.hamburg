@@ -2,12 +2,9 @@
 date: "2025-05-07"
 title: "Sailing"
 slug: "sailing"
-cover:
-  image: "/images/water.jpeg"
-  alt: ""
-  caption: ""
-  relative: false # Use relative path for cover image, particularly in Hugo page bundles
 ---
+
+{{< figure src="featured.png" title="splash" width="400">}}
 
 ## What I Love About Sailing
 

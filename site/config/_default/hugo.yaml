@@ -1,13 +1,24 @@
 baseURL: https://lucy.hamburg
 copyright: ""
-theme: PaperMod
+theme: blowfish
 enableRobotsTXT: true
 enableGitInfo: true
 
 DefaultContentLanguage: de
 defaultContentLanguageInSubdir: false
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+googleAnalytics: "G-KQVTEXMYSD"
+
+# blowfish
+taxonomies:
+  tag: tags
+  category: categories
+  author: authors
+  series: series
+
+# blowfish
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
+

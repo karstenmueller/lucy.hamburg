@@ -8,9 +8,9 @@ build:
 
 tags:
 - racing
-cover:
-  image: "silverrudder_cover.jpeg"
 ---
+
+{{< figure src="lucy_silverrudder.jpg" title="silverrudder">}}
 
 ## Auf der Jagd nach dem Silverrudder
 

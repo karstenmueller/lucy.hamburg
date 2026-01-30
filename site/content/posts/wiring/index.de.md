@@ -2,9 +2,9 @@
 date: '2025-05-13'
 title: 'Batterieverkabelung'
 tags: [boat]
-cover:
-  image: "wiring_whiteboard.jpg"
 ---
+
+{{< figure src="featured.jpeg" title="">}}
 
 Du möchtest deine Batterieverkabelung so einfach und robust wie möglich gestalten. Für viele Menschen ist Batterieverkabelung wie schwarze Magie – aber George kam zur Rettung 😉
 

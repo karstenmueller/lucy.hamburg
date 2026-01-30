@@ -13,10 +13,9 @@ tags:
 
 Die **Contessa 32**, entworfen von David Sadler und gebaut von Jeremy Rogers Ltd., schafft eine Balance zwischen klassischen Langkielbooten und modernen Flossenkielbooten. Ihr Halblangkiel mit Skeg-Design, inspiriert von der Contessa 26, bietet effizientes Amwindverhalten und außergewöhnliche Seetüchtigkeit. Die Contessa 32, bekannt für ihre Stabilität und praktische Innenaufteilung, ist eine beliebte Wahl für Segler, die Wert auf Komfort und Leistung auf See legen.
 
-**If it looks right, it possibly is right**
+> If it looks right, it possibly is right
 
-![Lucy auf dem Wasser (Double Rundt Regatta 2024)](sunny.jpeg)
-*Lucy auf dem Wasser (Double Rundt Regatta 2024)*
+{{< figure nozoom=false src="featured.jpeg" caption="Lucy auf dem Wasser (Double Rundt Regatta 2024)">}}
 
 ## Die Contessa 32 – Ein legendärer Entwurf
 

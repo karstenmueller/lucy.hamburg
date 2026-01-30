@@ -4,12 +4,9 @@ title: 'Carbon Emissions – why going electric could be less green than you thi
 tags:
   - boat
   - environment
-cover:
-  image: "smoke.jpeg"
-  alt: "Diesel smoke"
-  caption: "When properly adjusted, a diesel engine should not emit any smoke."
-  relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
+
+{{< figure src="featured.jpeg" title="">}}
 
 Sailing boats are meant to be driven by the force of the wind. Still the use of engines, mostly diesel engines is hard to avoid. And let's be honest: Smoke of diesel engines is often seen on sailing vessels. Most of it can be avoided by adjusting the motor, make sure you do this. What cannot be easily avoided is burning of fuel and emission of carbon dioxide. My point I want to make here is: use HVO fuel to reduce Carbom Emissions and smoke as well.
 

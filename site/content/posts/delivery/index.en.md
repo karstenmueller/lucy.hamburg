@@ -3,11 +3,6 @@ date: '2018-04-20'
 title: 'Delivery from Hayling Island'
 tags:
 - cruising
-cover:
-  image: "lucy_hayling.jpeg"
-  alt: ""
-  caption: ""
-  relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
 Lucy was built in England and was launched for the first time in Lymington on 7 March 1979. I also purchased Lucy in England. Robin Milledge was a great help to me during the purchase, and I can highly recommend him as a surveyor! See [Rozel Marine](https://rozelmarine.co.uk).
@@ -28,4 +23,6 @@ Then the time came: Lucy was launched and moved towards Hamburg.
 The voyage from Hayling Island to Delfzijl, followed by a two-week pause, then onwards to Hamburg.
 See the [570 nm track](https://www.noforeignland.com/map/boat/lucy/journey?stories=false&start=2018-04-19&end=2018-05-26) from Hayling Island to Hamburg
 
-![alt text](transfer_1.jpeg) ![alt text](transfer_2.jpeg) ![alt text](transfer_3.jpeg) ![alt text](transfer_4.jpeg)
+![](lucy_leeuwarden.jpeg)
+
+{{< carousel images="transfer_*.jpeg" interval="2000" >}}

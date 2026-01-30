@@ -3,11 +3,6 @@ date: '2025-05-07'
 title: 'Überführung von Hayling Island'
 tags:
 - cruising
-cover:
-  image: "lucy_hayling.jpeg"
-  alt: ""
-  caption: ""
-  relative: true # Use relative path for cover image, particularly in Hugo page bundles
 ---
 
 Lucy wurde in England gebaut, am 07.03.1979 ging das Boot in Lymington zum ersten Mal ins Wasser. In England habe ich Lucy auch gekauft. Dabei hat mir Robin Milledge sehr geholfen, ich kann ihn als Gutachter sehr empfehlen! Siehe [Rozel Marine](https://rozelmarine.co.uk).
@@ -27,4 +22,6 @@ Dann war es soweit, Lucy kann ins Wasser und Richtung Hamburg verholt werden.
 
 Die Reise von Hayling Island bis Delfzijl, dann nach zwei Wochen Pause weiter bis Hamburg.
 
-![alt text](transfer_1.jpeg) ![alt text](transfer_2.jpeg) ![alt text](transfer_3.jpeg) ![alt text](transfer_4.jpeg)
+![](lucy_leeuwarden.jpeg)
+
+{{< carousel images="transfer_*.jpeg" interval="2000" >}}

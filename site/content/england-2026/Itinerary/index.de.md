@@ -4,10 +4,9 @@ menus: main"
 title: "Route England 2026"
 slug: "england-2026"
 
-searchHidden: true
+showTableOfContents: true
 
-cover:
-  image: "route-england.jpeg"
+searchHidden: true
 ---
 
 ## Es geht (bald) los!

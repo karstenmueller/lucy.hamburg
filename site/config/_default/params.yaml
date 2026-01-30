@@ -1,40 +1,3 @@
-author: Karsten
-# site_logo: images/lucy_logo_150.png
-description: Sailing Contessa 32 Lucy
-keywords: [Sailing, Contessa 32, Co32, Lucy]
-env: production # to enable google analytics, opengraph, twitter-cards and schema.
-images: ["images/lucy_logo.png"]
-DateFormat: "January 2, 2006"
-defaultTheme: auto # dark, light
-ShowBreadCrumbs: true
-hideFooter: true
-disableScrollToTop: true
-ShowPostNavLinks: true
-comments: true
-
-UseHugoToc: true
-ShowToc: true
-tocopen: true
-
-fuseOpts: # search
-    ignoreLocation: true
-    keys: ["title", "permalink", "summary", "content"]
-
-socialIcons:
-    - name: email
-      url: "mailto:sylucy.hamburg@gmail.com"
-    - name: instagram
-      url: "https://www.instagram.com/sailing.lucy/"
-
-editPost:
-  URL: "https://github.com/karstenmueller/lucy.hamburg/edit/main/site/content"
-  Text: "⛭" # edit text
-  appendFilePath: true # to append file path to Edit link
-
-# minify:
-#   disableXML: true
-#   minifyOutput: true
-
 assets:
   disableHLJS: true 
   favicon: "/favicon.ico"
@@ -43,14 +6,48 @@ assets:
   apple_touch_icon: "/apple-touch-icon.png"
   safari_pinned_tab: "/apple-touch-icon.png"
 
-ShowBuyMeACoffeeButton: true
-BuyMeACoffee:
-  Slug: "lucy.hamburg"
-  Text: "Buy me a coffee"
-  Font: "Lato"
-  Emoji: "☕️"
-  ButtonColor: "f06035"
-  FontColor: "000000"
-  CoffeeColor: "ffffff"
-  CupColor: "000000"
+# blowfish
+showLikes: true # requires firebase integration
 
+colorScheme: "ocean"
+defaultAppearance: "dark"
+autoSwitchAppearance: "false" # force defaultAppearance
+defaultBackgroundImage: "images/lucy_racing.jpg"
+smartTOC: true
+
+article:
+  showHero: true
+  showLikes: true # requires firebase integration
+  showAuthor: false
+  heroStyle: background # valid options: basic, big, background, thumbAndBackground
+  showDateUpdated: true
+  showEdit: true
+  editURL: "https://github.com/karstenmueller/lucy.hamburg/edit/main/site/content"
+  showReadingTime: false
+  showTableOfContents: false # set true in articles header
+  showTaxonomies: true
+
+homepage:
+  layout: background
+  showRecent: true
+  cardView: true
+
+list:
+  showHero: true
+  heroStyle: background
+  showCards: true
+
+firebase:
+  apiKey: "AIzaSyA3JMHCdB34mVo6TRzEuYa50yu5sWg6Ss0"
+  authDomain: "lucy-hamburg.firebaseapp.com"
+  projectId: "lucy-hamburg"
+  storageBucket: "lucy-hamburg.firebasestorage.app"
+  messagingSenderId: "351749291367"
+  appId: "1:351749291367:web:ad4f9b34e6f690594803c2"
+  measurementId: "G-4MJ3LX21HD"
+
+buymeacoffee:
+  identifier: "lucy.hamburg"
+  globalWidget: true
+  globalWidgetMessage: "buy me a coffee?"
+  globalWidgetColor: "#b0a9c2"
