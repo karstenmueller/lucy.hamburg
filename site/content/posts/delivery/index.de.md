@@ -3,11 +3,13 @@ date: '2025-05-07'
 title: 'Überführung von Hayling Island'
 tags:
 - cruising
+layout: "custom"
 ---
+{{< figure src="featured.jpeg" >}}
 
 Lucy wurde in England gebaut, am 07.03.1979 ging das Boot in Lymington zum ersten Mal ins Wasser. In England habe ich Lucy auch gekauft. Dabei hat mir Robin Milledge sehr geholfen, ich kann ihn als Gutachter sehr empfehlen! Siehe [Rozel Marine](https://rozelmarine.co.uk).
 
-Auf Hayling Island hat die Werft [Halying Yacht Company](http://haylingyacht.co.uk/) einen Refit durchgeführt. Dabei wurden strukturelle Probleme behoben und eine Revision des Motors durchgeführt.
+Auf Hayling Island hat die Werft [Hayling Yacht Company](http://haylingyacht.co.uk/) einen Refit durchgeführt. Dabei wurden strukturelle Probleme behoben und eine Revision des Motors durchgeführt.
 
 ## Winter in der Bootshalle
 
