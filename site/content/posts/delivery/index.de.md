@@ -24,4 +24,9 @@ Die Reise von Hayling Island bis Delfzijl, dann nach zwei Wochen Pause weiter bi
 
 ![](lucy_leeuwarden.jpeg)
 
-{{< carousel images="transfer_*.jpeg" interval="2000" >}}
+{{< gpx-map
+    file="Hayling Island - Hamburg.gpx"
+    width="100%"
+    show-stats="true"
+    markers="true"
+>}}
