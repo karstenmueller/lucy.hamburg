@@ -17,12 +17,20 @@ I undertook some of the work myself and visited the yard several times. The yard
 
 Then the time came: Lucy was launched and moved towards Hamburg.
 
-![Splash](splash.jpeg)
+{{< carousel images="launch_*.jpeg" interval="2000" aspectRatio="4-3" >}}
 *Lucy launched at Hayling Island, Red Diesel on board*
 
 The voyage from Hayling Island to Delfzijl, followed by a two-week pause, then onwards to Hamburg.
 See the [570 nm track](https://www.noforeignland.com/map/boat/lucy/journey?stories=false&start=2018-04-19&end=2018-05-26) from Hayling Island to Hamburg
 
-![](lucy_leeuwarden.jpeg)
+{{< figure src="leeuwarden.jpeg" caption="Staande Mastroute, Leeuwarden">}}
 
-{{< carousel images="transfer_*.jpeg" interval="2000" >}}
+Route:
+{{< carousel images="transfer_*.jpeg" interval="2000" aspectRatio="4-3" >}}
+
+{{< gpx-map
+    file="Hayling Island - Hamburg.gpx"
+    width="100%"
+    show-stats="false"
+    markers="true"
+>}}

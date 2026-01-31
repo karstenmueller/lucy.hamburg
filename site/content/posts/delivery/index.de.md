@@ -17,16 +17,19 @@ Einige Arbeiten habe ich selbst übernommen und bin dazu einige Male auf der Wer
 
 Dann war es soweit, Lucy kann ins Wasser und Richtung Hamburg verholt werden.
 
-![Splash](splash.jpeg)
-*Lucy geht in Halying Island zu Wasser*
+{{< carousel images="launch_*.jpeg" interval="2000" aspectRatio="4-3" >}}
+*Lucy kommt in Hayling Island ins Wasser. Roter Diesel an Bord*
 
 Die Reise von Hayling Island bis Delfzijl, dann nach zwei Wochen Pause weiter bis Hamburg.
 
-![](lucy_leeuwarden.jpeg)
+{{< figure src="leeuwarden.jpeg" caption="Staande Mastroute, Leeuwarden">}}
+
+Die Route:
+{{< carousel images="transfer_*.jpeg" interval="2000" aspectRatio="4-3" >}}
 
 {{< gpx-map
     file="Hayling Island - Hamburg.gpx"
     width="100%"
-    show-stats="true"
+    show-stats="false"
     markers="true"
 >}}

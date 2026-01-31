@@ -15,7 +15,7 @@ Die **Contessa 32**, entworfen von David Sadler und gebaut von Jeremy Rogers Ltd
 
 > If it looks right, it possibly is right
 
-{{< figure nozoom=false src="featured.jpeg" caption="Lucy auf dem Wasser (Double Rundt Regatta 2024)">}}
+{{< figure src="featured.jpeg" caption="Lucy auf dem Wasser (Double Rundt Regatta 2024)">}}
 
 ## Die Contessa 32 – Ein legendärer Entwurf
 
