@@ -1,5 +1,5 @@
 en:
-  languageName: "🇬🇧"
+  languageName: "English"
   languageCode: "en"
   title: Sailing Lucy
   weight: 0
@@ -16,8 +16,9 @@ en:
         weight: 4
 
   params:
-    displayName: "🇬🇧"
+    displayName: "EN"
     isoCode: "en"
+    dateFormat: "2 Jan 2006"
     description: "Ahoy! Sailing with Contessa 32 'Lucy'"
     author:
       name: ""
@@ -26,7 +27,7 @@ en:
       #bio: "Ahoy! Sailing with Contessa 32 'Lucy'"
 
 de:
-  languagename: "🇩🇪"
+  languagename: "Deutsch"
   languageCode: "de"
   title: Segeln mit Lucy
   weight: 1
@@ -42,8 +43,9 @@ de:
         name: Beiträge
         weight: 4
   params:
-    displayName: "🇩🇪"
+    displayName: "DE"
     isoCode: "en"
+    dateFormat: "2 Jan 2006"
     description: "⛵️ Ahoi! Segeln mit Contessa 32 'Lucy'"
     author:
       name: ""
