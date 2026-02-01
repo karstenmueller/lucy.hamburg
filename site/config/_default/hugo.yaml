@@ -1,6 +1,6 @@
 baseURL: https://lucy.hamburg
 copyright: ""
-theme: blowfish
+#theme: blowfish
 enableRobotsTXT: true
 enableGitInfo: true
 

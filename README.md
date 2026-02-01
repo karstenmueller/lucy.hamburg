@@ -1,5 +1,32 @@
 # lucy.hamburg
 
+Create site:
+> hugo new site site
+
+## Hugo modules
+
+Initialize the site:
+> hugo mod init github.com/karstenmueller/lucy.hamburg
+
+Configure theme and other dependencies in module.yaml (hint: no theme files under "themes/")
+~~~yaml
+disable: false
+
+imports:
+  - path: "github.com/nunocoracao/blowfish/v2"
+  - path: "github.com/ravelzh/hugo-gpx-module"
+~~~
+
+Optional ("hugo server" will download automatically)
+> hugo mod get github.com/nunocoracao/blowfish/v2
+> hugo mod get github.com/ravelzh/hugo-gpx-module
+
+Remove unused entries in go.mod and go.sum:
+> hugo mod tidy
+
+Update all modules:
+> hugo mod get -u
+
 ## hugo
 
 Create site:
