@@ -36,6 +36,5 @@ Plane mit Neap-Tide für schwächere Ströme (max. 2-3 kn in Kanälen). Reeds wa
 ## Route
 
 {{< gpx-map
-    file="route.gpx"
-    show-select="true"
+    file="Classic Channel Regatta.gpx"
 >}}

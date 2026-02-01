@@ -30,7 +30,4 @@ Route:
 
 {{< gpx-map
     file="Hayling Island - Hamburg.gpx"
-    width="100%"
-    show-stats="false"
-    markers="true"
 >}}

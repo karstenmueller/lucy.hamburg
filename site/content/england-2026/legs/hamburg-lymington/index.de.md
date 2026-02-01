@@ -82,6 +82,5 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 ## Route
 
 {{< gpx-map
-    file="route.gpx"
-    show-select="true"
+    file="Hamburg - Lymington.gpx"
 >}}

@@ -8,7 +8,6 @@ assets:
 
 # blowfish
 showLikes: true # requires firebase integration
-
 colorScheme: "ocean"
 defaultAppearance: "dark"
 autoSwitchAppearance: "false" # force defaultAppearance
@@ -52,3 +51,37 @@ buymeacoffee:
   globalWidget: true
   globalWidgetMessage: "buy me a coffee?"
   globalWidgetColor: "#b0a9c2"
+
+gpx:
+  # --- Map Provider (Tile Layers) ---
+  # Default active layer. Options: "osm", "topo", "satellite", "sea"
+  defaultLayer: "osm"
+
+  # --- Default View ---
+  # Initial center if no GPX is loaded
+  startLat: 53.544439
+  startLon: 9.856367
+  startZoom: 9
+
+  # Track Line Style
+  lineWeight: 3
+  lineOpacity: 0.8
+
+  # Override URLs (optional, e.g. for API keys)
+  osmUrl: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+  osmAttr: "© OpenStreetMap"
+  topoUrl: "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+  topoAttr: "© OpenTopoMap"
+  satUrl: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
+  satAttr: "© Esri"
+  
+  # --- Marine ---
+  seaUrl: "https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png"
+  seaAttr: "Map data: © OpenSeaMap contributors"
+
+  # --- Default Toggles ---
+  showStats: false
+  elevation: false
+  markers: true
+  showUnitToggle: true  # Show km/nm toggle button (starts in nm mode)
+  showSeamarks: true    # Show Seamarks overlay option in layer control
