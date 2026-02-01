@@ -2,6 +2,7 @@
 date: "2025-05-07"
 title: "Sailing"
 slug: "sailing"
+heroStyle: Background
 ---
 
 {{< figure src="featured.png" title="splash" width="400">}}

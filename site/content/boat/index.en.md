@@ -5,6 +5,7 @@ slug: "boat"
 tags:
 - boat
 - co32
+heroStyle: Background
 ---
 
 

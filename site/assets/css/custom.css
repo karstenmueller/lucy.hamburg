@@ -1,0 +1,13 @@
+/* Nur auf grossen Bildschirmen anwenden */
+@media (min-width: 1024px) {
+    /* 1. Die "Handbremse" für die Textbreite komplett lösen */
+    .prose {
+        max-width: none !important; /* Standard ist '65ch', das entfernen wir */
+        width: 100% !important;     /* Nimm den ganzen Platz, den das Grid dir gibt */
+    }
+    /* 2. Den Container, in dem der Text liegt, maximal ausdehnen */
+    /* Das erzwingt, dass der Text wirklich bis an das Inhaltsverzeichnis ran rutscht */
+    .max-w-prose {
+        max-width: none !important;
+    }
+}

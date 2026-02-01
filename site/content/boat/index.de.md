@@ -5,6 +5,7 @@ slug: "boot"
 tags:
 - boat
 - co32
+heroStyle: Background
 ---
 
 [→ Lucy's Position]({{< ref "/position" >}} "Link title")

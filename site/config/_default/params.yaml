@@ -12,14 +12,14 @@ showLikes: true # requires firebase integration
 colorScheme: "ocean"
 defaultAppearance: "dark"
 autoSwitchAppearance: "false" # force defaultAppearance
-defaultBackgroundImage: "images/lucy_racing.jpg"
 smartTOC: true
 
 article:
   showHero: true
   showLikes: true # requires firebase integration
   showAuthor: false
-  heroStyle: background # valid options: basic, big, background, thumbAndBackground
+  heroStyle: thumbAndBackground # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundHeaderSpace: false
   showDateUpdated: true
   showEdit: true
   editURL: "https://github.com/karstenmueller/lucy.hamburg/edit/main/site/content"
@@ -29,6 +29,7 @@ article:
 
 homepage:
   layout: background
+  homepageImage: "images/lucy_racing.jpg"
   showRecent: true
   cardView: true
 

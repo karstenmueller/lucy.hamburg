@@ -3,6 +3,7 @@ date: "2025-05-07"
 menus: main"
 title: "Segeln"
 slug: "segeln"
+heroStyle: Background
 ---
 
 {{< figure src="featured.png" title="splash" width="400">}}
