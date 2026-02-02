@@ -2,3 +2,5 @@ github.com/nunocoracao/blowfish/v2 v2.97.0 h1:ofFBkTQKFDnM5/XVLReuJ6KPzLQFwscEg0
 github.com/nunocoracao/blowfish/v2 v2.97.0/go.mod h1:4SkMc+Ht8gpQCwArqiHMBDP3soxi2OWuAhVney+cuyk=
 github.com/ravelzh/hugo-gpx-module v1.4.0 h1:Tg5EErj5DuhyGwNNw/Ggwe6B+Vq5cDa3pVhN89Fuq9w=
 github.com/ravelzh/hugo-gpx-module v1.4.0/go.mod h1:imLoQtOiun7gSklPtHK3xX7KM4E3LVcGcekoij44DOs=
+github.com/ravelzh/hugo-gpx-module v1.5.0 h1:5zSRs8DbkNNSZ5sEesWFLpfXKzg7hsyKxKsg98iqhCo=
+github.com/ravelzh/hugo-gpx-module v1.5.0/go.mod h1:imLoQtOiun7gSklPtHK3xX7KM4E3LVcGcekoij44DOs=

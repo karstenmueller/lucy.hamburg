@@ -82,6 +82,7 @@ gpx:
   # --- Default Toggles ---
   showStats: false
   elevation: false
+  elevationInfo: false
   markers: true
   showUnitToggle: true  # Show km/nm toggle button (starts in nm mode)
   showSeamarks: true    # Show Seamarks overlay option in layer control
