@@ -34,6 +34,22 @@ jobs:
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
+    
+      - name: Build for testing
+        run: hugo --source site --baseURL '/' --cleanDestinationDir --enableGitInfo --gc
+
+      - name: Run tests
+        uses: wjdp/htmltest-action@master
+        continue-on-error: true # continue or fail on broken links
+        with:
+          config: .htmltest.yml
+
+      - name: Archive htmltest results
+        uses: actions/upload-artifact@v6
+        with:
+          name: htmltest-report
+          path: tmp/.htmltest/htmltest.log
+          retention-days: 7 # Default is 90 days
                  
       - name: Build for publishing
         run: hugo --source site --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics

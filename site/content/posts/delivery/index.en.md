@@ -13,7 +13,7 @@ At Hayling Island, the yard [Hayling Yacht Company](http://haylingyacht.co.uk/) 
 
 I undertook some of the work myself and visited the yard several times. The yard is beautifully situated. Working in the cold boat shed was no pleasure. Most boats in England are kept outside over winter, so I was glad to be able to work indoors.
 
-## The Journey Begins!
+## Splash day
 
 Then the time came: Lucy was launched and moved towards Hamburg.
 

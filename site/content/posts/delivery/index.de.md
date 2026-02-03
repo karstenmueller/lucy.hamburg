@@ -13,7 +13,7 @@ Auf Hayling Island hat die Werft [Hayling Yacht Company](http://haylingyacht.co.
 
 Einige Arbeiten habe ich selbst übernommen und bin dazu einige Male auf der Werft gewesen. Die Werft ist landschaftlich sehr schön gelegen. In der kalten Bootshalle zu arbeiten war kein Vergnügen. Die meisten Boote stehen in England über Winter draussen. Insofern war ich zufrieden, in der Halle arbeiten zu können.
 
-## Es geht los!
+## Splash day
 
 Dann war es soweit, Lucy kann ins Wasser und Richtung Hamburg verholt werden.
 
