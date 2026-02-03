@@ -8,10 +8,11 @@ assets:
 
 # blowfish
 showLikes: true # requires firebase integration
-colorScheme: "ocean"
-defaultAppearance: "dark"
-autoSwitchAppearance: "false" # force defaultAppearance
+colorScheme: "congo"
+defaultAppearance: "light"
 smartTOC: true
+logo: "images/logo/lucy_logo.png"
+secondaryLogo: "images/logo/lucy_logo_dark.png"
 
 article:
   showHero: true

@@ -34,11 +34,11 @@ jobs:
           key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
           restore-keys: |
             ${{ runner.os }}-hugomod-
-                 
+
       - name: Build for publishing
         run: |
           cd site/ && 
-          hugo mod get -u &&
+          hugo mod get -uv &&
           hugo --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics
 
       - name: Upload Artifact
@@ -90,7 +90,7 @@ jobs:
 #     #   uses: actions/checkout@v5
 
 #     - name: Download Artifact
-#       uses: actions/download-artifact@v6
+#       uses: actions/download-artifact@v7
 #       with:
 #         name: public
 #         path: ./public
