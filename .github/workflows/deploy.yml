@@ -36,7 +36,10 @@ jobs:
             ${{ runner.os }}-hugomod-
                  
       - name: Build for publishing
-        run: hugo --source site --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics
+        run:
+          cd site/
+          hugo mod get -u
+          hugo --minify --cleanDestinationDir --enableGitInfo --gc --printPathWarnings --templateMetrics
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v6
