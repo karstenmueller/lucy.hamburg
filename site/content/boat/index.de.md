@@ -94,5 +94,5 @@ Weitere Details zur Contessa 32 findest du auch im [Yachting Monthly Contessa32 
 
 Siehe auch [Contessa 32 New Build](https://www.jeremyrogers.co.uk/contessa-32-new-build/)
 
-![](https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/21/2022/05/YAW273.contessa32-1536x864.jpg)
+![](contessa32.jpg)
 *[Pretty Tough: the Contessa 32 at 50](https://www.yachtingworld.com/practical-cruising/pretty-tough-the-contessa-32-at-50-138396)*
