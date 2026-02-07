@@ -2,10 +2,12 @@
 title: Lucy
 date: 2025-05-07
 slug: "boot"
+heroStyle: Background
+showTableOfContents: true
+
 tags:
 - boat
 - co32
-heroStyle: Background
 ---
 
 [→ Lucy's Position]({{< ref "/position" >}} "Link title")
@@ -43,7 +45,8 @@ Sie ist nicht nur auf dem Wasser eine Augenweide, sondern auch im Innenraum ein 
 
 - **Klassisches Teakholz-Interieur**: Die Kajüte von Lucy ist mit edlem Teakholz ausgekleidet, was eine warme und einladende Atmosphäre schafft.
 - **Voll ausgestattete Pantry**: Eine gut ausgestattete Pantry mit Herd, Spüle und Kühlschrank sorgt dafür, dass auch längere Reisen komfortabel und angenehm sind.
-- **Komfortable Kabinen**: Zwei Schlafkabinen bieten Platz für vier Personen und machen auch längere Törns zu einem entspannten Erlebnis.
+- **Komfortable Kojen**: Die Kojen bieten Platz für vier Personen und machen auch längere Törns zu einem entspannten Erlebnis.
+- **Bequeme Kojen**: Zwei Schlafkojen und eine Vorpiek bieten Platz für vier Personen und machen längere Reisen zu einem entspannten Erlebnis.
 - **Moderne Navigationssysteme**: Trotz ihres klassischen Charakters ist Lucy mit einem modernen GPS- und Navigationssystem ausgestattet, das präzise und zuverlässige Informationen auf See liefert.
 - **Segel und Takelage**: Die Segel sind in gutem Zustand, und die Takelage wurde regelmäßig gewartet, um maximale Sicherheit und Leistung zu gewährleisten.
 

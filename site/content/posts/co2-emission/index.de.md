@@ -6,8 +6,6 @@ tags:
   - environment
 ---
 
-{{< figure src="featured.jpeg" title="">}}
-
 Segelboote sollen eigentlich vom Wind angetrieben werden. Dennoch ist der Einsatz von Motoren, meist Dieselmotoren, kaum zu vermeiden. Und seien wir ehrlich: Dieselqualm ist auf Segelbooten oft zu sehen. Das Meiste davon lässt sich vermeiden, wenn man den Motor richtig einstellt – stelle also sicher, dass du das tust. Was sich jedoch nicht so leicht vermeiden lässt, ist das Verbrennen von Kraftstoff und der Ausstoß von Kohlendioxid. Mein Punkt ist: Verwende HVO-Kraftstoff, um Kohlenstoffemissionen und Rauch zu reduzieren.
 
 Übrigens: Ein weit verbreiteter Irrglaube ist es, den Motor im Leerlauf warmlaufen zu lassen. Tatsächlich verschlechtert das die Situation – es führt zu mehr Kaltverschleiß am Motor und belastet die Umwelt stärker. Sorge also dafür, den Motor bei niedriger Drehzahl unter Last laufen zu lassen, solange er kalt ist – vermeide jedoch unbedingt den Leerlauf.

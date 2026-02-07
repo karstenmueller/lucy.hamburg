@@ -6,8 +6,6 @@ tags:
   - environment
 ---
 
-{{< figure src="featured.jpeg" title="">}}
-
 Sailing boats are meant to be driven by the force of the wind. Still the use of engines, mostly diesel engines is hard to avoid. And let's be honest: Smoke of diesel engines is often seen on sailing vessels. Most of it can be avoided by adjusting the motor, make sure you do this. What cannot be easily avoided is burning of fuel and emission of carbon dioxide. My point I want to make here is: use HVO fuel to reduce Carbom Emissions and smoke as well.
 
 By the way, a common misconception is to let the engine warm up while idling. Actualy this make things worse – more cold wear on the engine and more environental impact. So make sure to put the the engine into gear and run it at low revs while it is cold but avoid idling at all.

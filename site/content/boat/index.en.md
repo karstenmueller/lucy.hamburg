@@ -2,10 +2,12 @@
 title: Lucy
 date: 2025-05-07
 slug: "boat"
+heroStyle: Background
+showTableOfContents: true
+
 tags:
 - boat
 - co32
-heroStyle: Background
 ---
 
 
@@ -44,7 +46,7 @@ She is not only a sight to behold on the water but also a real gem inside. Sailo
 
 - **Classic teak interior**: Lucy’s cabin is lined with fine teak wood, creating a warm and inviting atmosphere.
 - **Fully equipped galley**: A well-appointed galley with stove, sink, and fridge ensures that longer trips are comfortable and enjoyable.
-- **Comfortable cabins**: Two sleeping bunks ands a forepeak accommodate four people, making extended voyages a relaxed experience.
+- **Comfortable bunks**: Two sleeping bunks ands a forepeak accommodate four people, making extended voyages a relaxed experience.
 - **Modern navigation systems**: Despite her classic character, Lucy is fitted with a modern navigation system providing precise and reliable information at sea.
 - **Sails and rigging**: The sails are in good condition, and the rigging is regularly maintained to guarantee maximum safety and performance.
 
