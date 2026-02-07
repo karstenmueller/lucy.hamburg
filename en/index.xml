@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sailing Lucy</title><link>https://lucy.hamburg/en/</link><description>Recent content on Sailing Lucy</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Wed, 04 Feb 2026 12:25:11 +0100</lastBuildDate><atom:link href="https://lucy.hamburg/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Silverrudder 2025</title><link>https://lucy.hamburg/en/posts/silverrudder-2025/</link><pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/silverrudder-2025/</guid><description>&lt;h2 class="relative group"&gt;Silverrudder WTF 😳
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sailing Lucy</title><link>https://lucy.hamburg/en/</link><description>Recent content on Sailing Lucy</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Sun, 08 Feb 2026 00:06:51 +0100</lastBuildDate><atom:link href="https://lucy.hamburg/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Classic Channel Regatta 2026</title><link>https://lucy.hamburg/en/posts/classic-channel-2026/</link><pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/classic-channel-2026/</guid><description>&lt;h2 class="relative group"&gt;What it is about
+ &lt;div id="what-it-is-about" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-it-is-about" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;This race is all about spirited, seamanlike sailing across the English Channel in style and forging new friendships along the way. Most of the yachts and crews are likely to hail from the UK and France, giving the whole event a distinctly Anglo-French flavour. And … &lt;strong&gt;Lucy is one of the pre-registered boats!&lt;/strong&gt; Have a look for yourself at &lt;a href="https://www.classic-channel-regatta.eu" target="_blank" rel="noreferrer"&gt;https://www.classic-channel-regatta.eu&lt;/a&gt;&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/posts/classic-channel-2026/featured.png"/></item><item><title>Silverrudder 2025</title><link>https://lucy.hamburg/en/posts/silverrudder-2025/</link><pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/silverrudder-2025/</guid><description>&lt;h2 class="relative group"&gt;Silverrudder WTF 😳
  &lt;div id="silverrudder-wtf-" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
@@ -35,24 +44,7 @@ fleet = ''; //the registered email address of a user-defined fleet to display
 remember = false; //true or false to remember or not the last position of the map
 &lt;/script&gt;
 &lt;br/&gt;
-&lt;script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"&gt;&lt;/script&gt;</description></item><item><title>Carbon Emissions – why going electric could be less green than you think</title><link>https://lucy.hamburg/en/posts/co2-emission/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/co2-emission/</guid><description>&lt;figure&gt;
- &lt;img
- class="my-0 rounded-md"
- loading="lazy"
- decoding="async"
- fetchpriority="auto"
- alt=""
- width="275"
- height="183"
- src="https://lucy.hamburg/posts/co2-emission/featured_hu_2262a43656c52562.jpeg"
- srcset="https://lucy.hamburg/posts/co2-emission/featured_hu_2262a43656c52562.jpeg 800w,/posts/co2-emission/featured_hu_d509201c80922062.jpeg 1280w"
- sizes="(min-width: 768px) 50vw, 65vw"
- data-zoom-src="https://lucy.hamburg/posts/co2-emission/featured.jpeg"
- /&gt;
- 
- 
- &lt;/figure&gt;
-&lt;p&gt;Sailing boats are meant to be driven by the force of the wind. Still the use of engines, mostly diesel engines is hard to avoid. And let&amp;rsquo;s be honest: Smoke of diesel engines is often seen on sailing vessels. Most of it can be avoided by adjusting the motor, make sure you do this. What cannot be easily avoided is burning of fuel and emission of carbon dioxide. My point I want to make here is: use HVO fuel to reduce Carbom Emissions and smoke as well.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/posts/co2-emission/featured.jpeg"/></item><item><title>Battery Wiring</title><link>https://lucy.hamburg/en/posts/wiring/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/wiring/</guid><description>&lt;p&gt;You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉&lt;/p&gt;
+&lt;script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"&gt;&lt;/script&gt;</description></item><item><title>Carbon Emissions – why going electric could be less green than you think</title><link>https://lucy.hamburg/en/posts/co2-emission/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/co2-emission/</guid><description>&lt;p&gt;Sailing boats are meant to be driven by the force of the wind. Still the use of engines, mostly diesel engines is hard to avoid. And let&amp;rsquo;s be honest: Smoke of diesel engines is often seen on sailing vessels. Most of it can be avoided by adjusting the motor, make sure you do this. What cannot be easily avoided is burning of fuel and emission of carbon dioxide. My point I want to make here is: use HVO fuel to reduce Carbom Emissions and smoke as well.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/posts/co2-emission/featured.jpeg"/></item><item><title>Battery Wiring</title><link>https://lucy.hamburg/en/posts/wiring/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/wiring/</guid><description>&lt;p&gt;You want your battery wiring as simple and robust as it gets. For many people it is like some black magic to do battery wiring and George came to the rescue 😉&lt;/p&gt;
 &lt;p&gt;George explained the essentials very well - what elements you need and how to connect them. See for yourself in the youtube video below.
 George introduced a wiring scheme which I converted to a drawing.&lt;/p&gt;
 &lt;p&gt;For the original scheme see image above. And this is the diagram style scheme:

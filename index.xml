@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Segeln mit Lucy</title><link>https://lucy.hamburg/</link><description>Recent content on Segeln mit Lucy</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026</copyright><lastBuildDate>Sat, 07 Feb 2026 19:17:11 +0100</lastBuildDate><atom:link href="https://lucy.hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Route England 2026</title><link>https://lucy.hamburg/england-2026/england-2026/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/england-2026/england-2026/</guid><description>&lt;h2 class="relative group"&gt;Es geht (bald) los!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Segeln mit Lucy</title><link>https://lucy.hamburg/</link><description>Recent content on Segeln mit Lucy</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026</copyright><lastBuildDate>Sun, 08 Feb 2026 00:06:51 +0100</lastBuildDate><atom:link href="https://lucy.hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Classic Channel Regatta 2026</title><link>https://lucy.hamburg/posts/classic-channel-2026/</link><pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/classic-channel-2026/</guid><description>&lt;h2 class="relative group"&gt;Worum es geht
+ &lt;div id="worum-es-geht" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#worum-es-geht" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Bei dieser Regatta geht es um sportliches Segeln über den Ärmelkanal mit Stil – und darum, neue Freundschaften zu schließen. Die meisten Yachten und Crews dürften aus Großbritannien und Frankreich stammen, ergänzt durch weitere internationale Teilnehmer, die die klassische Seemannschaft hochhalten. Und … &lt;strong&gt;Lucy ist eine der vorregistrierten Yachten!&lt;/strong&gt; Schau selbst nach unter &lt;a href="https://www.classic-channel-regatta.eu" target="_blank" rel="noreferrer"&gt;https://www.classic-channel-regatta.eu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 class="relative group"&gt;Vorregistrierte Yachten (viele Co32)
+ &lt;div id="vorregistrierte-yachten-viele-co32" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vorregistrierte-yachten-viele-co32" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Aktuell sind 112 Yachten vorregistriert, was schlicht großartig ist. Besonders erfreulich ist, dass dreizehn dieser Yellen Contessa 32 sind – ein echtes Fest für Liebhaber dieser britischen Klassiker.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/posts/classic-channel-2026/featured.png"/></item><item><title>Route England 2026</title><link>https://lucy.hamburg/england-2026/england-2026/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/england-2026/england-2026/</guid><description>&lt;h2 class="relative group"&gt;Es geht (bald) los!
  &lt;div id="es-geht-bald-los" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
@@ -66,24 +86,7 @@ fleet = ''; //the registered email address of a user-defined fleet to display
 remember = false; //true or false to remember or not the last position of the map
 &lt;/script&gt;
 &lt;br/&gt;
-&lt;script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"&gt;&lt;/script&gt;</description></item><item><title>CO2-Emissionen – warum die Umstellung auf Elektroantrieb weniger umweltfreundlich sein könnte als Du denkst</title><link>https://lucy.hamburg/posts/co2-emission/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/co2-emission/</guid><description>&lt;figure&gt;
- &lt;img
- class="my-0 rounded-md"
- loading="lazy"
- decoding="async"
- fetchpriority="auto"
- alt=""
- width="275"
- height="183"
- src="https://lucy.hamburg/posts/co2-emission/featured_hu_2262a43656c52562.jpeg"
- srcset="https://lucy.hamburg/posts/co2-emission/featured_hu_2262a43656c52562.jpeg 800w,/posts/co2-emission/featured_hu_d509201c80922062.jpeg 1280w"
- sizes="(min-width: 768px) 50vw, 65vw"
- data-zoom-src="https://lucy.hamburg/posts/co2-emission/featured.jpeg"
- /&gt;
- 
- 
- &lt;/figure&gt;
-&lt;p&gt;Segelboote sollen eigentlich vom Wind angetrieben werden. Dennoch ist der Einsatz von Motoren, meist Dieselmotoren, kaum zu vermeiden. Und seien wir ehrlich: Dieselqualm ist auf Segelbooten oft zu sehen. Das Meiste davon lässt sich vermeiden, wenn man den Motor richtig einstellt – stelle also sicher, dass du das tust. Was sich jedoch nicht so leicht vermeiden lässt, ist das Verbrennen von Kraftstoff und der Ausstoß von Kohlendioxid. Mein Punkt ist: Verwende HVO-Kraftstoff, um Kohlenstoffemissionen und Rauch zu reduzieren.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/posts/co2-emission/featured.jpeg"/></item><item><title>Batterieverkabelung</title><link>https://lucy.hamburg/posts/wiring/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/wiring/</guid><description>&lt;p&gt;Du möchtest deine Batterieverkabelung so einfach und robust wie möglich gestalten. Für viele Menschen ist Batterieverkabelung wie schwarze Magie – aber George kam zur Rettung 😉&lt;/p&gt;
+&lt;script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"&gt;&lt;/script&gt;</description></item><item><title>CO2-Emissionen – warum die Umstellung auf Elektroantrieb weniger umweltfreundlich sein könnte als Du denkst</title><link>https://lucy.hamburg/posts/co2-emission/</link><pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/co2-emission/</guid><description>&lt;p&gt;Segelboote sollen eigentlich vom Wind angetrieben werden. Dennoch ist der Einsatz von Motoren, meist Dieselmotoren, kaum zu vermeiden. Und seien wir ehrlich: Dieselqualm ist auf Segelbooten oft zu sehen. Das Meiste davon lässt sich vermeiden, wenn man den Motor richtig einstellt – stelle also sicher, dass du das tust. Was sich jedoch nicht so leicht vermeiden lässt, ist das Verbrennen von Kraftstoff und der Ausstoß von Kohlendioxid. Mein Punkt ist: Verwende HVO-Kraftstoff, um Kohlenstoffemissionen und Rauch zu reduzieren.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/posts/co2-emission/featured.jpeg"/></item><item><title>Batterieverkabelung</title><link>https://lucy.hamburg/posts/wiring/</link><pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/posts/wiring/</guid><description>&lt;p&gt;Du möchtest deine Batterieverkabelung so einfach und robust wie möglich gestalten. Für viele Menschen ist Batterieverkabelung wie schwarze Magie – aber George kam zur Rettung 😉&lt;/p&gt;
 &lt;p&gt;George hat die Grundlagen sehr gut erklärt – welche Komponenten du brauchst und wie du sie anschließt. Sieh selbst im untenstehenden YouTube-Video.&lt;/p&gt;
 &lt;p&gt;George stellt ein einfaches Verdrahtungsschema vor, das ich in eine Zeichnung umgesetzt habe.&lt;/p&gt;
 &lt;p&gt;Siehe das original Schema oben. Und dies ist das Schema im Diagram Stil:
