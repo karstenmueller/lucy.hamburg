@@ -4,6 +4,7 @@ menus: main"
 title: "Leg: Classic Channel"
 
 searchHidden: true
+series: ["England 2026"]
 
 cover:
   image: 'route.jpeg'

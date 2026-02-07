@@ -3,7 +3,8 @@ date: "2026-01-29"
 menus: main"
 title: "Route England 2026"
 slug: "england-2026"
-
+series: ["England 2026"]
+series_order: 1
 showTableOfContents: true
 
 searchHidden: true

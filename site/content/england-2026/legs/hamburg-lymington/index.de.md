@@ -2,6 +2,7 @@
 date: "2026-01-24"
 menus: main"
 title: "Leg: Hamburg - Lymington"
+series: ["England 2026"]
 
 searchHidden: true
 cover:
