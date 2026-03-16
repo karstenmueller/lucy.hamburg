@@ -97,5 +97,7 @@ Weitere Details zur Contessa 32 findest du auch im [Yachting Monthly Contessa32 
 
 Siehe auch [Contessa 32 New Build](https://www.jeremyrogers.co.uk/contessa-32-new-build/)
 
+[Contessa 32 Test](co32-test-yw-may1996.pdf) aus der Yachting World von May 1996
+
 ![](contessa32.jpg)
 *[Pretty Tough: the Contessa 32 at 50](https://www.yachtingworld.com/practical-cruising/pretty-tough-the-contessa-32-at-50-138396)*
