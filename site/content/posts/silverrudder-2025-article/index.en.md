@@ -10,6 +10,7 @@ tags:
 - racing
 cover:
   image: "silverrudder_cover.jpeg"
+showTableOfContents: true
 ---
 
 ## Chasing the Silverrudder: One Sailor’s Solo Voyage around Fyn
@@ -38,9 +39,7 @@ South of Fyn, the wind turned spiteful—gusty, twisting, laced with rain. The c
 
 Finally, the familiar waters of Svendborg Sound came into view. The tide ran hard against me, two knots strong. My arms ached, and the thought of another bridge with head current and exhaustion closing in solidified my decision. I had reached my time limit. I struck the sails and motored the last miles home.
 
-Mooring up again, fatigue washed over me—alongside a quiet, satisfied pride. I hadn’t crossed the finish line, but I had sailed far, learned more than expected, and discovered a deeper respect for both sea and self. The race had ended. The adventure had just begun.
-
-Karsten, Contessa 32 Lucy (1979)
+Mooring up again, fatigue washed over me—alongside a quiet, satisfied pride. I hadn’t crossed the finish line, but I had sailed far, learned more than expected, and discovered a deeper respect for both sea and self. The race had ended – the adventure continues.
 
 ## Route
 
@@ -51,9 +50,47 @@ Karsten, Contessa 32 Lucy (1979)
     show-select="true"
 >}}
 
-## Data
+## Comparison Comfortina 32 vs Contessa 32
 
-### Eigenschaften Comfortina 32 vs Contessa 32
+### Timings
+
+{{< figure src="silverrudder_stats.jpeg" title="silverrudder legs">}}
+
+{{< figure src="silverrudder_legs.jpeg" title="silverrudder legs">}}
+
+#### Lucy Contessa 32
+
+| **Ort**              | Time     | Leg time   | Leg SOG | Leg Top speed | Distance |
+|----------------------|----------|------------|---------|---------------|----------|
+| **Thurø**            | 11:53:30 | 1h 8m 36s  | 3,9     | 6,6           | 4,1      |
+| **Knudshøved**       | 15:16:18 | 3h 7m 42s  | 5,8     | 7,5           | 18       |
+| **Fynshøved**        | 19:22:22 | 4h 6m 3s   | 5,3     | 6,8           | 21,9     |
+| **Æbelø**            | 22:41:00 | 3h 18m 37s | 4,8     | 5,9           | 16,0     |
+| **Strib**            | 02:43:51 | 4h 2m 50s  | 4,4     | 6,3           | 17,7     |
+| **Ny Lillebæltsbro** | 03:44:36 | 1h 0m 45s  | 3,2     | 4,4           | 3,3      |
+| **Hindsgavl**        | 10:40:42 | 6h 56m 5s  | 0,9     | 4,0           | 6,4      |
+| **Helnæs**           | 17:04:12 | 6h 23m 29s | 4,9     | 7,9           | 31,1     |
+| **Svelmø**           | 20:03:44 | 2h 59m 32s | 4,8     | 7,3           | 14,4     |
+| **Finish**           | DNF      | DNF        | DNF     | DNF           | DNF      |
+
+#### Comfortina 32 Livly
+
+| **Ort**              | Time     | Leg time   | Leg SOG | Leg Top speed | Distance |
+|----------------------|----------|------------|---------|---------------|----------|
+| **Thurø**            | 12:08:36 | 0h 53m 30s | 4,6     | 8,5           | 4,4      |
+| **Knudshøved**       | 14:22:32 | 2h 29m 2s  | 7,2     | 8,4           | 17,8     |
+| **Fynshøved**        | 17:23:46 | 3h 1m 14s  | 7,1     | 8,4           | 21,6     |
+| **Æbelø**            | 20:04:00 | 2h 40m 13s | 5,9     | 7,0           | 15,9     |
+| **Strib**            | 23:43:30 | 3h 39m 30s | 5,3     | 6,6           | 19,2     |
+| **Ny Lillebæltsbro** | 00:12:55 | 0h 29m 24s | 5,4     | 6,3           | 2,7      |
+| **Hindsgavl**        | 00:48:28 | 0h 35m 33s | 4,4     | 6,3           | 2,6      |
+| **Helnæs**           | 04:03:14 | 7h 42m 25s | 4,6     | 6,1           | 35,5     |
+| **Svelmø**           | 11:43:01 | 3h 12m 6s  | 5,0     | 7,2           | 16,1     |
+| **Finish**           | 14:17:04 | 2h 24m 3s  | 4,4     | 7,2           | 11,3     |
+
+### Boat data
+
+Comfortina 32 vs Contessa 32
 
 | **Merkmal**                             | Comfortina 32            | Contessa 32                   |
 |-----------------------------------------|--------------------------|-------------------------------|
@@ -83,36 +120,3 @@ Karsten, Contessa 32 Lucy (1979)
 | **Motor / Leistung (ursprünglich)**     | Volvo Penta 2002 / 18 PS | Diesel 24 PS                  |
 | **Tank (Kraftstoff) [L]**               | 57                       | 35                            |
 | **Wassertank [L]**                      | 76                       | 60                            |
-
-### Timing Lucy Contessa 32
-
-| **Ort**              | Time     | Leg time   | Leg SOG | Leg Top speed | Distance |
-|----------------------|----------|------------|---------|---------------|----------|
-| **Thurø**            | 11:53:30 | 1h 8m 36s  | 3,9     | 6,6           | 4,1      |
-| **Knudshøved**       | 15:16:18 | 3h 7m 42s  | 5,8     | 7,5           | 18       |
-| **Fynshøved**        | 19:22:22 | 4h 6m 3s   | 5,3     | 6,8           | 21,9     |
-| **Æbelø**            | 22:41:00 | 3h 18m 37s | 4,8     | 5,9           | 16,0     |
-| **Strib**            | 02:43:51 | 4h 2m 50s  | 4,4     | 6,3           | 17,7     |
-| **Ny Lillebæltsbro** | 03:44:36 | 1h 0m 45s  | 3,2     | 4,4           | 3,3      |
-| **Hindsgavl**        | 10:40:42 | 6h 56m 5s  | 0,9     | 4,0           | 6,4      |
-| **Helnæs**           | 17:04:12 | 6h 23m 29s | 4,9     | 7,9           | 31,1     |
-| **Svelmø**           | 20:03:44 | 2h 59m 32s | 4,8     | 7,3           | 14,4     |
-| **Finish**           | DNF      | DNF        | DNF     | DNF           | DNF      |
-
-### Timing Livly Comfortina 32  
-
-| **Ort**              | Time     | Leg time   | Leg SOG | Leg Top speed | Distance |
-|----------------------|----------|------------|---------|---------------|----------|
-| **Thurø**            | 12:08:36 | 0h 53m 30s | 4,6     | 8,5           | 4,4      |
-| **Knudshøved**       | 14:22:32 | 2h 29m 2s  | 7,2     | 8,4           | 17,8     |
-| **Fynshøved**        | 17:23:46 | 3h 1m 14s  | 7,1     | 8,4           | 21,6     |
-| **Æbelø**            | 20:04:00 | 2h 40m 13s | 5,9     | 7,0           | 15,9     |
-| **Strib**            | 23:43:30 | 3h 39m 30s | 5,3     | 6,6           | 19,2     |
-| **Ny Lillebæltsbro** | 00:12:55 | 0h 29m 24s | 5,4     | 6,3           | 2,7      |
-| **Hindsgavl**        | 00:48:28 | 0h 35m 33s | 4,4     | 6,3           | 2,6      |
-| **Helnæs**           | 04:03:14 | 7h 42m 25s | 4,6     | 6,1           | 35,5     |
-| **Svelmø**           | 11:43:01 | 3h 12m 6s  | 5,0     | 7,2           | 16,1     |
-| **Finish**           | 14:17:04 | 2h 24m 3s  | 4,4     | 7,2           | 11,3     |
-
-
-[Data as PDF](./Silverrudder%20Lucy%20-%20Livly.pdf)
