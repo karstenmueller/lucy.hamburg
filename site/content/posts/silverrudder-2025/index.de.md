@@ -1,14 +1,12 @@
 ---
 title: Silverrudder 2025
-date: 2026-01-19
-
-searchHidden: true
-build:
-  list: never
+date: 2026-03-19
 
 tags:
 - racing
 showTableOfContents: true
+cover:
+  image: "silverrudder_cover.jpeg"
 ---
 
 {{< figure src="lucy_silverrudder.jpg" title="silverrudder" caption="Silverrudder 2026 – Lucy auf der Höhe von Nyborg">}}
