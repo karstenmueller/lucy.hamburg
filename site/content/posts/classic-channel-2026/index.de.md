@@ -30,3 +30,8 @@ Das sind die vorregistrierten Contessa 32:
 - Wild Thyme
 
 Alle vorregistrierten Yachten findest du hier: [all pre-registered Boats](https://www.classic-channel-regatta.eu/entry/boats-pre-registered/).[2]
+
+
+{{< gpx-map
+    file="Classic-Channel-Regatta.gpx"
+>}}
