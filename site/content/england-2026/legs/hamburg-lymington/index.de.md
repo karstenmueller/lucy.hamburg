@@ -30,36 +30,17 @@ Die Häfen sind nach aufsteigender Seemeilen-Entfernung von Hamburg (Elbe-Positi
 | Hafen        | Entfernung (nm) |
 |--------------|-----------------|
 | Hamburg      | 0               |
-| Brunsbüttel  | 35              |
-| Helgoland    | 83              |
-| Terschelling | 112             |
-| Borkum       | 138             |
-| Ijmuiden     | 174             |
-| Scheveningen | 190             |
-| Oostende     | 202             |
-| Dover        | 245             |
-| Newhaven     | 270             |
-| Brighton     | 285             |
-| Lymington    | 338             |
-
-## Distanzmatrix
-
-Die Matrix zeigt Seemeilen (nm) zwischen allen Häfen.
-
-| Hafen            | Hamburg | Brunsbüttel | Helgoland | Terschelling | Ijmuiden | Scheveningen | Borkum | Oostende | Dover | Newhaven | Brighton | Lymington |
-|------------------|---------|-------------|-----------|--------------|----------|--------------|--------|----------|-------|----------|----------|-----------|
-| **Hamburg**      | 0       | 42          | 47        | 85           | 190      | 210          | 230    | 290      | 330   | 380      | 390      | 450       |
-| **Brunsbüttel**  | 42      | 0           | 25        | 60           | 160      | 175          | 195    | 255      | 295   | 345      | 355      | 415       |
-| **Helgoland**    | 47      | 25          | 0         | 45           | 150      | 165          | 185    | 245      | 285   | 335      | 345      | 405       |
-| **Terschelling** | 85      | 60          | 45        | 0            | 110      | 130          | 150    | 210      | 250   | 300      | 310      | 370       |
-| **Ijmuiden**     | 190     | 160         | 150       | 110          | 0        | 25           | 45     | 105      | 145   | 195      | 205      | 265       |
-| **Scheveningen** | 210     | 175         | 165       | 130          | 25       | 0            | 25     | 85       | 125   | 175      | 185      | 245       |
-| **Borkum**       | 230     | 195         | 185       | 150          | 45       | 25           | 0      | 60       | 100   | 150      | 160      | 220       |
-| **Oostende**     | 290     | 255         | 245       | 210          | 105      | 85           | 60     | 0        | 40    | 90       | 100      | 160       |
-| **Dover**        | 330     | 295         | 285       | 250          | 145      | 125          | 100    | 40       | 0     | 50       | 60       | 120       |
-| **Newhaven**     | 380     | 345         | 335       | 300          | 195      | 175          | 150    | 90       | 50    | 0        | 10       | 70        |
-| **Brighton**     | 390     | 355         | 345       | 310          | 205      | 185          | 160    | 100      | 60    | 10       | 0        | 60        |
-| **Lymington**    | 450     | 415         | 405       | 370          | 265      | 245          | 220    | 160      | 120   | 70       | 60       | 0         |
+| Brunsbüttel  | 37              |
+| Helgoland    | 88              |
+| Borkum       | 170             |
+| Terschelling | 220             |
+| Scheveningen | 240             |
+| Ijmuiden     | 270             |
+| Oostende     | 380             |
+| Dover        | 500             |
+| Newhaven     | 480             |
+| Brighton     | 470             |
+| Lymington    | 650             |
 
 ## Etappenplanung
 
