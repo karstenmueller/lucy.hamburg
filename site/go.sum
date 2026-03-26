@@ -8,3 +8,5 @@ github.com/ravelzh/hugo-gpx-module v1.5.0 h1:5zSRs8DbkNNSZ5sEesWFLpfXKzg7hsyKxKs
 github.com/ravelzh/hugo-gpx-module v1.5.0/go.mod h1:imLoQtOiun7gSklPtHK3xX7KM4E3LVcGcekoij44DOs=
 github.com/ravelzh/hugo-gpx-module v1.5.1 h1:ipvGrU5c8R+F87H6wWsCx0RAF3GHvPmt9ZAlOzYqGIM=
 github.com/ravelzh/hugo-gpx-module v1.5.1/go.mod h1:imLoQtOiun7gSklPtHK3xX7KM4E3LVcGcekoij44DOs=
+github.com/ravelzh/hugo-gpx-module v1.5.3 h1:+OoeSNAAdj9xDBazzscvUZwlW0ZfNV6MnJK1MJUGR9A=
+github.com/ravelzh/hugo-gpx-module v1.5.3/go.mod h1:imLoQtOiun7gSklPtHK3xX7KM4E3LVcGcekoij44DOs=
