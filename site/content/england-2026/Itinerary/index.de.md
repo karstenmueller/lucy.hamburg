@@ -60,18 +60,18 @@ Legende:
 | [Hamburg-Lymington](legs/hamburg-lymington) | 2026-06-01 | Hamburg        | 2   | 1  |          | Start Richtung England: Elbe, Nordsee, Solent                                                                |
 | [Hamburg-Lymington](legs/hamburg-lymington) |            | Helgoland      | 2   | 1  |          |                                                                                                              |
 | [Hamburg-Lymington](legs/hamburg-lymington) |            | ? Etappenhäfen | 2   | 1  |          |                                                                                                              |
-| [Hamburg-Lymington](legs/hamburg-lymington) | 2026-06-11 | Lymington    | 1-2 | 1  |          | ? Crew Wechsel Start Cruising.                                                                               |
-| [Cruising-Channel](legs/cruising-channel)   | ???        | Lymington      |     | 1  |          | Termin bei [Sanders](https://sanders-sails.co.uk): neue Sprayhood                                            |
+| [Hamburg-Lymington](legs/hamburg-lymington) | 2026-06-12 | Lymington      | 1-2 | 1  |          | ? Crew Wechsel Start Cruising.                                                                               |
+| [Cruising-Channel](legs/cruising-channel)   | ???        | Lymington      |     | 1  |          | Termin bei [Sanders](https://sanders-sails.co.uk)                                                            |
 | [Cruising-Channel](legs/cruising-channel)   | 2026-06-15 | ? Lymington    | 1-2 | 1  |          | Channel Islands Cruising                                                                                     |
 | [Cruising-Channel](legs/cruising-channel)   | 2026-06-25 | Yarmouth       | 1-2 | 1  |          | Channel Islands Cruising                                                                                     |
 | [Co32-Regatta](legs/co32-regatta)           | 2026-06-26 | Yarmouth       | 2-3 | 1  |          | Crew Wechsel: Start [Co32 Regatta](#co32-regatta)                                                            |
 | [Co32-Regatta](legs/co32-regatta)           | 2026-06-28 | Yarmouth       | 2-3 | 1  |          | Crew Wechsel: Ende [Co32 Regatta](#co32-regatta)                                                             |
-| [Channel-Regatta](legs/classic-channel)     | 2026-07-07 | Dartmouth      | 2-3 | 2  | Roy      | Crew Wechsel: Start [Classic Channel Regatta](#classic-channel-regatta)                                      |
-| [Channel-Regatta](legs/classic-channel)     | 2026-07-16 | Paimpol        | 2-3 | 2  | Roy      | Ende [Classic Channel Regatta](#classic-channel-regatta)                                                     |
-| [Channel-Regatta](legs/classic-channel)     | 2026-07-18 | Plymouth       | 2-3 | 2  | Roy      | Crew Wechsel                                                                                                 |
-| [Cruising-WestCountry](legs/west-country)   | 2026-07-19 | Plymouth       | 2   | 2  | Britta   | Start Cruising                                                                                               |
-| [Cruising-WestCountry](legs/west-country)   | 2026-08-14 | Southampton    | 2   | 2  | Britta   | Ende Cruising. [Deacons Marina](#deacons-marina), Klarschiff und von Bord (Variante: Lucy bleibt in England) |
-|                                             | 2026-08-15 | Southampton    |     |    |          | ? Crew Wechsel: Rückweg nach Hamburg (falls Lucy zurück nach Hamburg)                                        |
+| [Channel-Regatta](legs/classic-channel)     | 2026-07-06 | Dartmouth      | 2-3 | 2  | R.       | Crew Wechsel: Start [Classic Channel Regatta](#classic-channel-regatta)                                      |
+| [Channel-Regatta](legs/classic-channel)     | 2026-07-16 | Paimpol        | 2-3 | 2  | R.       | Ende [Classic Channel Regatta](#classic-channel-regatta)                                                     |
+| [Channel-Regatta](legs/classic-channel)     | 2026-07-18 | Plymouth       | 2-3 | 2  | R.       | Crew Wechsel                                                                                                 |
+| [Cruising-WestCountry](legs/west-country)   | 2026-07-19 | Plymouth       | 2   | 2  | B.       | Start Cruising                                                                                               |
+| [Cruising-WestCountry](legs/west-country)   | 2026-08-14 | Southampton    | 2   | 2  | B.       | Ende Cruising. [Deacons Marina](#deacons-marina), Klarschiff und von Bord (Variante: Lucy bleibt in England) |
+|                                             | 2026-08-16 | Southampton    |     |    |          | ? Crew Wechsel: Rückweg nach Hamburg (falls Lucy zurück nach Hamburg)                                        |
 |                                             | 2026-08-23 | Hamburg        |     |    |          | ? Ankunft Hamburg (falls Lucy zurück nach Hamburg)                                                           |
 
 [Table Tools](https://felisdiligens.github.io/md-table-tools/demo/)
