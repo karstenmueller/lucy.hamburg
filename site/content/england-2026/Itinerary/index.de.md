@@ -60,7 +60,7 @@ Legende:
 | [Hamburg-Lymington](legs/hamburg-lymington) | 2026-06-01 | Hamburg        | 2   | 1  |          | Start Richtung England: Elbe, Nordsee, Solent                                                                |
 | [Hamburg-Lymington](legs/hamburg-lymington) |            | Helgoland      | 2   | 1  |          |                                                                                                              |
 | [Hamburg-Lymington](legs/hamburg-lymington) |            | ? Etappenhäfen | 2   | 1  |          |                                                                                                              |
-| [Hamburg-Lymington](legs/hamburg-lymington) | 2026-06-10 | ? Lymington    | 1-2 | 1  |          | ? Crew Wechsel Start Cruising.                                                                               |
+| [Hamburg-Lymington](legs/hamburg-lymington) | 2026-06-11 | Lymington    | 1-2 | 1  |          | ? Crew Wechsel Start Cruising.                                                                               |
 | [Cruising-Channel](legs/cruising-channel)   | ???        | Lymington      |     | 1  |          | Termin bei [Sanders](https://sanders-sails.co.uk): neue Sprayhood                                            |
 | [Cruising-Channel](legs/cruising-channel)   | 2026-06-15 | ? Lymington    | 1-2 | 1  |          | Channel Islands Cruising                                                                                     |
 | [Cruising-Channel](legs/cruising-channel)   | 2026-06-25 | Yarmouth       | 1-2 | 1  |          | Channel Islands Cruising                                                                                     |
