@@ -14,14 +14,7 @@ cover:
 Zwischen Hamburg und Lymington liegen mindestens 470 nm. Vermutlich werden es ca. 30% mehr, also ca. 600 nm.
 Das ist in 10-14 Tagen gut zu schaffen. Es sind einige längere Passagen mit mehr als 60nm dabei. Es geht also auch einmal in die Nacht, bzw. starten wir nachts um im Hellen anzukommen. Nach nächtlichen Passagen ist ein Ruhetag vorgesehen. Während der Passagen wechseln wir uns ab und es kann geschlafen werden.
 
-Dies sind die bevorzugten Etappenhäfen, andere oder weitere sind möglich
-- Brunsbüttel: 38 nm
-- Helgoland: 45 nm
-- Borkum: 165 nm
-- Ijmuiden: 225 nm
-- Oostende: 280 nm
-- Dover: 340 nm
-- Newhaven: 380 nm
+Die genannten Häfen sind die bevorzugten Etappenhäfen, andere oder weitere sind möglich
 
 ## Häfen nach Entfernung von Hamburg
 
@@ -55,11 +48,11 @@ Die Häfen sind nach aufsteigender Seemeilen-Entfernung von Hamburg (Elbe-Positi
 | 6   | Dover → Brighton        | Ramsgate (15 nm)                    | 52             | 11,6 h        |
 | 7   | Brighton → Lymington    | Newhaven (10 nm), Eastbourne (5 nm) | 70             | 15,6 h        |
 
-Etappenplanung für eine 3-Personen-Crew auf der Contessa 32 Lucy (Tiefgang 1,65 m) mit Start am 1. Juni 2026. Alle Entfernungen sind Luftlinien aus den Distanztafeln des Reeds Nautical Almanac 2026. Dauer basiert auf 4,5 kn Durchschnittsgeschwindigkeit. Ausweichhäfen sind bei jedem Wetter erreichbar (z.B. Schleusenhäfen oder tiefe Zugänge). Gesamtdistanz ca. 513 nm, ca. 114 h Segeln, machbar in 10-14 Tagen bei günstigem Wetter.
+Etappenplanung für eine 3-Personen-Crew auf der Contessa 32 Lucy (Tiefgang 1,65 m) mit Start am 1. Juni 2026. Alle Entfernungen sind Luftlinien aus den Distanztafeln des Reeds Nautical Almanac 2026. Dauer basiert auf 4,5 kn Durchschnittsgeschwindigkeit. Ausweichhäfen sind bei jedem Wetter erreichbar (z.B. Schleusenhäfen oder tiefe Zugänge). Gesamtdistanz ca. 650 nm, machbar in 10-12 Tagen bei günstigem Wetter.
 
 ### Aufschlag für Segeln
 
-Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Aufprall): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 nm → 58 nm real.
+Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20-30% länger) und Wellen (1-2 m Höhe): +30% auf Reeds-Distanzen (effektive Segeldistanz). Beispiel: Hamburg-Helgoland 45 nm → 58 nm real.
 
 ## Route
 
