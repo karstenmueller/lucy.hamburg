@@ -41,17 +41,17 @@ Lucy zeichnet sich durch ein außergewöhnlich gut gepflegtes Interieur aus. Ihr
 
 Unter Deck vermittelt sie sofort das Ambiente eines klassischen Schiffsinterieurs. Die Kombüse an Backbord ist kompakt und dennoch funktional, auch bei Krängung. Der Kartentisch an Steuerbord bietet ausreichend Platz für eine Standard-Papierseekarte. Die Salonkojen sind großzügig geschnitten und bequem, auch für große Personen. Weil sie nicht übermäßig breit ist, reduziert sich der Platz unter Deck etwas. Dennoch gibt es reichlich Stauraum, und jeder Winkel ist sorgfältig durchdacht.
 
-Sie ist nicht nur auf dem Wasser eine Augenweide, sondern auch im Innenraum ein echtes Schmuckstück. Hier finden Segler eine Kombination aus traditionellem Stil und funktionaler Ausstattung vor:
+Sie ist auf dem Wasser schön anzusehen und unter Deck gemütlich und praktisch. Hier finden Segler eine Kombination aus traditionellem Stil und funktionaler Ausstattung vor:
 
 - **Klassisches Teakholz-Interieur**: Die Kajüte von Lucy ist mit edlem Teakholz ausgekleidet, was eine warme und einladende Atmosphäre schafft.
 - **Voll ausgestattete Pantry**: Eine gut ausgestattete Pantry mit Herd, Spüle und Kühlschrank sorgt dafür, dass auch längere Reisen komfortabel und angenehm sind.
-- **Komfortable Kojen**: Die Kojen bieten Platz für vier Personen und machen auch längere Törns zu einem entspannten Erlebnis.
-- **Bequeme Kojen**: Zwei Schlafkojen und eine Vorpiek bieten Platz für vier Personen und machen längere Reisen zu einem entspannten Erlebnis.
+- **Bequeme Kojen**: Die Kojen bieten Platz für vier Personen und machen auch längere Törns zu einem entspannten Erlebnis. Zwei Kojen mittschiffs, eine Hundekoje und die Vorpiek bieten Platz für bis zu sechs Personen, längere Reisen sind mit 3 Personen ein entspannten Erlebnis.
 - **Moderne Navigationssysteme**: Trotz ihres klassischen Charakters ist Lucy mit einem modernen GPS- und Navigationssystem ausgestattet, das präzise und zuverlässige Informationen auf See liefert.
 - **Segel und Takelage**: Die Segel sind in gutem Zustand, und die Takelage wurde regelmäßig gewartet, um maximale Sicherheit und Leistung zu gewährleisten.
 
-![Frühstück an Bord](morning.jpeg)
-*Frühstück auf Contessa 32 Lucy*
+{{< figure src="morning.jpeg" caption="Frühstück auf Lucy">}}
+
+[JCH Certificate for Lucy](https://www.jch-online.org/show_certif_OK.php?Nom_Bateau=LUCY&lang=anglais)
 
 ## Spezifikationen Contessa 32
 
@@ -65,24 +65,23 @@ Sie ist nicht nur auf dem Wasser eine Augenweide, sondern auch im Innenraum ein 
 - Segelfläche: 52 m²
 - AVS (Winkel verschwindende Stabilität): 156°
 
-![Contessa Sail Plan](co32_sail_plan.jpeg)
-*Contessa Sail Plan*
+{{< figure src="co32_sail_plan.jpeg" caption="Contessa Segelplan">}}
 
 ## Auf See mit der Contessa 32 'Lucy'
 
-Ob bei einer gemütlichen Kreuzfahrt entlang der Küste oder einer spannenden Regatta – die **Lucy** bietet auf dem Wasser sowohl Komfort als auch hervorragende Performance. Ihr steifer Rumpf sorgt für eine angenehme Fahrt bei jedem Wetter, während das exakte Steuerverhalten und die gute Manövrierbarkeit sie zu einem Vergnügen für jeden Segler machen.
+Ob bei einer gemütlichen Kreuzfahrt entlang der Küste oder einer spannenden Regatta – die **Lucy** bietet auf dem Wasser sowohl Komfort als auch hervorragende Performance. Ihr steifer Rumpf sorgt für eine angenehme Fahrt bei jedem Wetter, während das exakte Steuerverhalten und die gute Manövrierbarkeit das Segeln mit ihr zu einem Vergnügen machen.
 
 Die **Contessa 32** ist bekannt dafür, dass sie sich auch bei starkem Wind und rauer See gut behauptet. Die **Lucy** hat im Laufe der Jahre viele dieser Bedingungen gemeistert und bewiesen, dass sie mit jeder Herausforderung umgehen kann, die das Meer ihr stellt.
 
 {{< instagram C_DwasHtG6X >}}
 
-## AVS und Krängungswinkel
+## Stabilität und Krängungswinkel
 
-Aus Design Sicht ist der Winkel der schwindenden Stabilität (AVS) der Contessa 32 interessant. Yachting Monthly (April 2015) veröffentlichte einen aufschlussreichen Artikel von Nigel Calder & Chris Beeson, der die AVS erläutert. Sie verglichen die Contessa 32 mit der Bavaria 32.
+Aus Design Sicht ist der "Angle of vanishing stability" (AVS) der Contessa 32 interessant.
 
-In dem Artikel heißt es: „Der Winkel der verschwindenden Stabilität (AVS) misst, wie weit sich ein Boot neigen kann, bevor es kentert und sich umkehrt oder einem Kentern widersteht.“
+Der Winkel der schwindenden Stabilität (AVS) gibt an, bis zu welchem Krängungswinkel ein Boot noch selbstaufrichtend ist; danach wird die Stabilität negativ und das Boot neigt zum Kentern. Bei einer AVS von 120° oder mehr gilt ein Boot als deutlich seegängiger, weil es sich bis zu einem größeren Winkel wieder aufrichtet. Die Contessa 32 hat einen AVS von 157° (!), ist also besonders seegängig.
 
-Weiter unten im Artikel wird festgestellt: „Selbst wenn ihr Mast 66 Grad unter der Horizontalen liegt, richtet sich die Contessa 32 immer noch von selbst auf.“
+Yachting Monthly (April 2015) veröffentlichte einen aufschlussreichen Artikel von Nigel Calder & Chris Beeson, der den AVS erläutert. Sie vergleichen die Contessa 32 mit der Bavaria 32. Der Artikel stellt fest: „Selbst wenn ihr Mast 66 Grad unter der Horizontalen liegt, richtet sich die Contessa 32 immer noch von selbst auf.“
 
 ![Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson](co32_avs.jpeg)
 *Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson*

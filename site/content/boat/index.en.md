@@ -42,16 +42,17 @@ Lucy boasts an exceptionally well-kept interior. Her deck and rigging are in pri
 
 Upon descending below deck, she immediately evokes the ambiance of a classic marine interior. The galley, situated on the port side, is compact yet functional when heeled. The chart table on the starboard side is appropriately sized to accommodate a standard paper chart. Additionally, the saloon berths are generously spacious and comfortable, even for individuals of tall stature. While she lacks excessive beam, this does result in slightly reduced space under deck. However, ample storage is provided, and every nook and cranny is meticulously designed.
 
-She is not only a sight to behold on the water but also a real gem inside. Sailors will find a combination of traditional style and practical features:
+She is beautiful to look at on the water and cozy and practical below deck. Sailors will find a combination of traditional style and practical features:
 
 - **Classic teak interior**: Lucy’s cabin is lined with fine teak wood, creating a warm and inviting atmosphere.
 - **Fully equipped galley**: A well-appointed galley with stove, sink, and fridge ensures that longer trips are comfortable and enjoyable.
-- **Comfortable bunks**: Two sleeping bunks ands a forepeak accommodate four people, making extended voyages a relaxed experience.
+- **Comfortable bunks**: The berths accommodate four people and also make longer passages a relaxing experience. Two berths amidships, a pilot berth, and the forepeak can accommodate up to six people; longer trips are comfortable for three people.
 - **Modern navigation systems**: Despite her classic character, Lucy is fitted with a modern navigation system providing precise and reliable information at sea.
 - **Sails and rigging**: The sails are in good condition, and the rigging is regularly maintained to guarantee maximum safety and performance.
 
-![Breakfast on board](morning.jpeg)
-*Breakfast on Contessa 32 Lucy*
+{{< figure src="morning.jpeg" caption="Breakfast on Lucy">}}
+
+[JCH Certificate for Lucy](https://www.jch-online.org/show_certif_OK.php?Nom_Bateau=LUCY&lang=anglais)
 
 ## Contessa 32 Specifications
 
@@ -65,8 +66,7 @@ She is not only a sight to behold on the water but also a real gem inside. Sailo
 - Sail Area: 52 m2
 - AVS (Angle of vanishing stability):  156°
 
-![Contessa Sail Plan](co32_sail_plan.jpeg)
-*Contessa Sail Plan*
+{{< figure src="co32_sail_plan.jpeg" caption="Contessa Sail Plan">}}
 
 ## At Sea with the Contessa 32 'Lucy'
 
@@ -76,13 +76,13 @@ The **Contessa 32** is renowned for handling well in strong winds and rough seas
 
 {{< instagram C_DwasHtG6X >}}
 
-## AVS & Heel Angle
+## Stability & Heel Angle
 
-From a design perspective, the AVS of the Contessa 32 is interesting. Yachting Monthly (April 2015) had an instructive article by Nigel Calder & Chris Beeson explaining AVS. They compared the Contessa 32 to the Bavaria 32.
+From a design perspective, the AVS of the Contessa 32 is interesting. 
 
-The article states, „The angle of vanishing stability (AVS) measures how far a boat can heel before rolling over and inverting, or resisting capsize.“
+The angle of vanishing stability (AVS) indicates the heel angle up to which a boat will still right itself; beyond that, stability becomes negative and the boat tends to capsize. An AVS of 120° or more is generally considered a sign that a boat is significantly more seaworthy, because it will right itself from a larger angle. The Contessa 32 has an AVS of 157° (!), so it is especially seaworthy.
 
-Further down, the article notes, „Even with her mast 66 degrees below horizontal, the Contessa 32 still rights herself.“
+Yachting Monthly (April 2015) had an instructive article by Nigel Calder & Chris Beeson explaining AVS. They compared the Contessa 32 to the Bavaria 32. The article notes, „Even with her mast 66 degrees below horizontal, the Contessa 32 still rights herself.“
 
 ![Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson](co32_avs.jpeg)
 *Yachting Monthly April 2015: ” Understand your boat and her statistics” by Nigel Calder & Chris Beeson*
