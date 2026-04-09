@@ -3,11 +3,14 @@ date: "2026-01-29"
 menus: main"
 title: "Route England 2026"
 slug: "england-2026"
-series: ["England 2026"]
-series_order: 1
+
 showTableOfContents: true
 
 searchHidden: true
+series: ["England 2026"]
+series_order: 0
+
+seriesOpened: true
 ---
 
 ## Es geht (bald) los!
@@ -125,6 +128,6 @@ Siehe [hier](https://www.bednblue.com/sailing-distance-calculator?cruisingSpeed=
 ## Route
 
 {{< gpx-map
-    file="../legs/hamburg-lymington/Hamburg - Lymington.gpx"
-    file2="../legs/classic-channel/Classic Channel Regatta.gpx"
+    file="/england-2026/legs/hamburg-lymington/Hamburg-Lymington.gpx"
+    file2="/england-2026/legs/classic-channel/Classic-Channel-Regatta.gpx"
 >}}

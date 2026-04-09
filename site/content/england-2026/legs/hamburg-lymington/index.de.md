@@ -2,9 +2,11 @@
 date: "2026-01-24"
 menus: main"
 title: "Leg: Hamburg - Lymington"
-series: ["England 2026"]
 
 searchHidden: true
+series: ["England 2026"]
+series_order: 1
+
 cover:
   image: 'route.jpeg'
 ---
@@ -57,5 +59,5 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 ## Route
 
 {{< gpx-map
-    file="Hamburg - Lymington.gpx"
+    file="Hamburg-Lymington.gpx"
 >}}
