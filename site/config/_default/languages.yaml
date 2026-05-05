@@ -1,6 +1,6 @@
 en:
-  languageName: "English"
-  languageCode: "en"
+  languageLabel: "English"
+  languageLocale: "en"
   title: Sailing Lucy
   weight: 0
   menu:
@@ -27,8 +27,8 @@ en:
       #bio: "Ahoy! Sailing with Contessa 32 'Lucy'"
 
 de:
-  languagename: "Deutsch"
-  languageCode: "de"
+  languageLabel: "Deutsch"
+  languageLocale: "de"
   title: Segeln mit Lucy
   weight: 1
   menu:
