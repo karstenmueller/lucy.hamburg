@@ -51,7 +51,7 @@ Sie ist auf dem Wasser schön anzusehen und unter Deck gemütlich und praktisch.
 
 {{< figure src="morning.jpeg" caption="Frühstück auf Lucy">}}
 
-[JCH Certificate for Lucy](https://www.jch-online.org/show_certif_OK.php?Nom_Bateau=LUCY&lang=anglais)
+[JCH Zertifikat Lucy](https://www.jch-online.org/show_certif_OK.php?Nom_Bateau=LUCY&lang=anglais)
 
 ## Spezifikationen Contessa 32
 
