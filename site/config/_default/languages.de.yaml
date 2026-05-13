@@ -11,7 +11,7 @@ params:
   author:
     name: ""
     image: "images/karsten.png"
-    headline: ⛵️ Ahoi! Segeln mit Contessa 32 'Lucy' {{< rawhtml >}} Finde Lucy's aktuelle Position <a href="/position">hier.</a>{{< /rawhtml >}}
+    headline: ⛵️ Ahoi! Hier geht es um das Segeln mit der Contessa 32 Lucy. {{< rawhtml >}} Aktuelle Position <a href="/position">hier.</a>{{< /rawhtml >}}
     links:
       - instagram: "https://www.instagram.com/sailing.lucy"
       - email: "mailto:skipper@lucy.hamburg"

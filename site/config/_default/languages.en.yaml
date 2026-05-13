@@ -11,7 +11,7 @@ params:
   author:
     name: ""
     image: "images/karsten.png"
-    headline: ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's current position <a href="/en/position">here.</a>{{< /rawhtml >}}
+    headline: ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Current position <a href="/en/position">here.</a>{{< /rawhtml >}}
     links:
       - instagram: "https://www.instagram.com/sailing.lucy"
       - email: "mailto:skipper@lucy.hamburg"
