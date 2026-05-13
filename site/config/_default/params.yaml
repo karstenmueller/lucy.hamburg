@@ -31,6 +31,8 @@ homepage:
   layout: background
   homepageImage: "images/lucy_racing.jpg"
   showRecent: true
+  showRecentItems: 3
+  showMoreLink: true
   cardView: true
 
 list:

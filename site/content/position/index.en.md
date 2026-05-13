@@ -8,6 +8,7 @@ tags:
 
 {{< rawhtml >}}
 
+<li> Call me via DSC with <a href="https://en.wikipedia.org/wiki/Maritime_Mobile_Service_Identity">MMSI</a> 211796970
 <li>Follow Lucy on <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Noforeignland</a> or
 see all <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a>
 
