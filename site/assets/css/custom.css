@@ -11,3 +11,12 @@
         max-width: none !important;
     }
 }
+
+.iframe-wrap iframe {
+    max-width: 100%;
+    // position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 900px;
+    height: 600px;
+}

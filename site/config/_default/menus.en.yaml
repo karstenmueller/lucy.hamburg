@@ -1,0 +1,23 @@
+main:
+  - pageRef: sailing
+    name: Sailing
+    weight: 2
+  - pageRef: boat
+    name: Boat
+    weight: 3
+  - pageRef: position
+    parent: Boat
+    name: Position
+    weight: 31
+  - pageRef: posts
+    name: Posts
+    weight: 4
+  - pageRef: england-2026
+    parent: Posts
+    name: England 2026
+    weight: 41
+  - pageRef: tags
+    parent: Posts
+    name: More Topics
+    weight: 42
+  

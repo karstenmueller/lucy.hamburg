@@ -1,0 +1,17 @@
+languageLabel: "English"
+languageLocale: "en"
+title: Sailing Lucy
+weight: 0
+params:
+  displayName: "EN"
+  isoCode: "en"
+  dateFormat: "2 Jan 2006"
+  description: "Ahoy! Sailing with Contessa 32 'Lucy'"
+  
+  author:
+    name: ""
+    image: "images/karsten.png"
+    headline: ⛵️ Ahoy! This is about sailing Contessa 32 Lucy.{{< rawhtml >}} Find Lucy's current position <a href="/en/position">here.</a>{{< /rawhtml >}}
+    links:
+      - instagram: "https://www.instagram.com/sailing.lucy"
+      - email: "mailto:skipper@lucy.hamburg"

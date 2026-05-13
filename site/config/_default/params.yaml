@@ -24,7 +24,7 @@ article:
   showEdit: true
   editURL: "https://github.com/karstenmueller/lucy.hamburg/edit/main/site/content"
   showReadingTime: false
-  showTableOfContents: false # set true in articles header
+  showTableOfContents: true # set false in articles header
   showTaxonomies: true
 
 homepage:
