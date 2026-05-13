@@ -3,10 +3,10 @@ main:
     name: Segeln
     weight: 2
   - pageRef: boat
-    name: Boot
+    name: Lucy
     weight: 3
   - pageRef: position
-    parent: Boot
+    parent: Lucy
     name: Position
     weight: 31
   - pageRef: posts
