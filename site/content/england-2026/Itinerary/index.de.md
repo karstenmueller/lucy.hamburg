@@ -1,12 +1,8 @@
 ---
 date: "2026-01-29"
-menus: main"
-title: "Route England 2026"
-slug: "england-2026"
+title: "Planung England 2026"
+slug: planung
 
-showTableOfContents: true
-
-searchHidden: true
 series: ["England 2026"]
 series_order: 0
 
@@ -101,13 +97,6 @@ Classic Channel Race from Dartmouth to St Peter Port and the passage race from S
 - [Co32 Regatta](https://www.co32.org/event/2026-co32-inshore-series-4)
 
 > erfordert Class Certificate
-
-## Kalender
-
-- [Calendar private](https://calendar.google.com/calendar/u/1/r/agenda?pli=1)
-- [Calendar public](https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FBerlin&showPrint=0&mode=AGENDA&showTabs=0&showCalendars=0&src=cXJma2k4ZDZic3NtOWpxcHVtaXRpbTlxdGdob3N0MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ef6c00)
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FBerlin&showCalendars=0&mode=AGENDA&src=cXJma2k4ZDZic3NtOWpxcHVtaXRpbTlxdGdob3N0MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23ef6c00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Notizen
 

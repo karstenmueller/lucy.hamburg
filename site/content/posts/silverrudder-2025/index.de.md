@@ -4,7 +4,6 @@ date: 2026-03-19
 
 tags:
 - racing
-showTableOfContents: true
 cover:
   image: "silverrudder_cover.jpeg"
 ---

@@ -1,26 +1,24 @@
 ---
-title: Position
+title: Lucy's Position
 date: 2025-07-15
-slug: "position"
+menu: boot/position
 tags:
 - boat
 ---
 
 {{< rawhtml >}}
 
-<p>Lucy's zuletzt aufgezeichnete Position:
-<p>
-<iframe src="https://www.noforeignland.com/home/embed/map/show/5003183038398464/15/off/satellite/" width="100%" height="500" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
-<p>
-Folge <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Lucy auf Noforeignland</a> oder
-schau Dir alle <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachten</a> an.
-Noforeignland bietet ein Netzwerk für Segler! Vielen Dank
-<a href='https://www.noforeignland.com/' target='nfl'>Steve & Helena</a> 🙏
+<li>Folge Lucy auf <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Noforeignland</a> oder
+zeige alle <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a> an.
 
-<p>Die alternative Darstellung der <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS</a> Poistion auf Marinetraffic:
-<p>
+<li>Lucy auf <a href="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925">PredictWind GPS Tracking</a>:
+<div class="iframe-wrap">
+  <iframe src="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925"></iframe>
+</div>
+
+<li>Schau die <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS</a> position von Marinetraffic an:
 <script type="text/javascript">
-width = '100%'; //the width of the embedded map in pixels or percentage
+width = 900; //the width of the embedded map in pixels or percentage
 height = 600; //the height of the embedded map in pixels or percentage
 border = 0; //the width of border around the map. Zero means no border
 notation = false; //true or false to display or not the vessel icons and options at the left
@@ -33,4 +31,5 @@ remember = false; //true or false to remember or not the last position of the ma
 </script>
 <br/>
 <script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"></script>
+
 {{< /rawhtml >}}

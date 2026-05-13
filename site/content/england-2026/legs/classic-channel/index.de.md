@@ -1,16 +1,14 @@
 ---
 date: "2026-01-24"
-menus: main"
 title: "Leg: Classic Channel"
 
-showTableOfContents: true
-
-searchHidden: true
 series: ["England 2026"]
 series_order: 4
 
 cover:
   image: 'route.jpeg'
+tags:
+- racing
 ---
 
 Juhuu, Regatta vom 07. bis 16. Juli 😎

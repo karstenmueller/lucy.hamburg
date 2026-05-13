@@ -3,7 +3,6 @@ title: Lucy
 date: 2025-05-07
 slug: "boot"
 heroStyle: Background
-showTableOfContents: true
 
 tags:
 - boat

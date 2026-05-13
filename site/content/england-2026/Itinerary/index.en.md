@@ -2,11 +2,8 @@
 date: "2026-01-29"
 menus: main"
 title: "Route England 2026"
-slug: "england-2026"
+slug: itinerary
 
-showTableOfContents: true
-
-searchHidden: true
 series: ["England 2026"]
 series_order: 0
 
@@ -99,13 +96,6 @@ Three inshore races at Dartmouth Classics; two passage races across the Channel:
 - [Co32 Regatta](https://www.co32.org/event/2026-co32-inshore-series-4)
 
 > requires a class certificate
-
-## Calendar
-
-- [Calendar private](https://calendar.google.com/calendar/u/1/r/agenda?pli=1)
-- [Calendar public](https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe/Berlin&showPrint=0&mode=AGENDA&showTabs=0&showCalendars=0&src=cXJma2k4ZDZic3NtOWpxcHVtaXRpbTlxdGdob3N0MDZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5com&color=%23ef6c00)
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe/Berlin&showCalendars=0&mode=AGENDA&src=cXJma2k4ZDZic3NtOWpxcHVtaXRpbTlxdGdob3N0MDZAaW1wb3JtLmNhbGVuZGFyLmdvb2dzbGUuY29t&color=%23ef6c00" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Notes
 

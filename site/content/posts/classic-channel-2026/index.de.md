@@ -3,6 +3,7 @@ title: Classic Channel Regatta 2026
 date: 2026-02-07
 tags:
 - racing
+- co32
 ---
 
 ## Worum es geht

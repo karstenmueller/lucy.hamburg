@@ -18,7 +18,7 @@ update_hugo
 pushd site || exit 1
 
 rm -rf public resources/_gen
-hugo mod get -u
-hugo server --watch --disableFastRender --cleanDestinationDir --forceSyncStatic
+/usr/local/bin/hugo mod get -u
+/usr/local/bin/hugo server --watch --disableFastRender --cleanDestinationDir --forceSyncStatic
 
 popd

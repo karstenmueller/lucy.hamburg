@@ -6,7 +6,6 @@ tags:
 - racing
 cover:
   image: "silverrudder_cover.jpeg"
-showTableOfContents: true
 ---
 
 {{< figure src="lucy_silverrudder.jpg" title="silverrudder" caption="Silverrudder 2026 – Lucy auf der Höhe von Nyborg">}}
