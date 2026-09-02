@@ -58,4 +58,7 @@ Typischer Aufschlag für Strömung (1-2 kn Nordsee-Ströme ), Wind (Gegenwind 20
 
 {{< gpx-map
     file="Hamburg-Lymington.gpx"
+    show-route-selector=false
+    elevation-info=false
+    show-unit-toggle=true
 >}}

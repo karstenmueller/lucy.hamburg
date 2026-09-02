@@ -1,0 +1,17 @@
+disableCSS: false
+disableHTML: false
+disableJS: false
+disableJSON: false
+disableSVG: false
+disableXML: false
+minifyOutput: true
+tdewolff:
+  html:
+    keepWhitespace: false
+  css:
+    version: true
+    precision: 0
+  js:
+    keepVarNames: false
+    version: 2022
+    precision: 0

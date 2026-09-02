@@ -76,4 +76,8 @@ Only for overview ...
 
 {{< gpx-map
     file="Classic-Channel-Regatta.gpx"
+    show-route-selector=false
+    elevation-info=false
+    show-unit-toggle=true
+    show-seamarks=true
 >}}

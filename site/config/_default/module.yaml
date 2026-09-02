@@ -2,4 +2,4 @@ disable: false
 
 imports:
   - path: "github.com/nunocoracao/blowfish/v2"
-  - path: "github.com/ravelzh/hugo-gpx-module"
+  - path: "github.com/karstenmueller/hugo-gpx-module"

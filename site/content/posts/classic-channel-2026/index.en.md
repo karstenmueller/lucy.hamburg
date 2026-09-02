@@ -73,4 +73,7 @@ See [all pre-registered boats](https://www.classic-channel-regatta.eu/entry/boat
 
 {{< gpx-map
     file="Classic-Channel-Regatta.gpx"
+    show-route-selector=false
+    elevation-info=false
+    show-unit-toggle=true
 >}}

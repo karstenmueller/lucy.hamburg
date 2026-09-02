@@ -30,4 +30,7 @@ Route:
 
 {{< gpx-map
     file="Hayling Island - Hamburg.gpx"
+    show-route-selector=false
+    elevation-info=false
+    show-unit-toggle=true
 >}}

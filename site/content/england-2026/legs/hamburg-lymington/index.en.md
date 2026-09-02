@@ -59,4 +59,7 @@ A typical allowance for tide, wind and sea state is 30% on top of the Reeds dist
 
 {{< gpx-map
     file="Hamburg-Lymington.gpx"
+    show-route-selector=false
+    elevation-info=false
+    show-unit-toggle=true
 >}}

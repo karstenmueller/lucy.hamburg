@@ -72,4 +72,7 @@ Alle vorregistrierten Yachten findest du hier: [all pre-registered Boats](https:
 
 {{< gpx-map
     file="Classic-Channel-Regatta.gpx"
+    show-route-selector=false
+    elevation-info=false
+    show-unit-toggle=true
 >}}

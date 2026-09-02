@@ -69,23 +69,19 @@ gpx:
   # Track Line Style
   lineWeight: 3
   lineOpacity: 0.8
-
-  # Override URLs (optional, e.g. for API keys)
-  osmUrl: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-  osmAttr: "© OpenStreetMap"
-  topoUrl: "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
-  topoAttr: "© OpenTopoMap"
-  satUrl: "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}"
-  satAttr: "© Esri"
   
   # --- Marine ---
   seaUrl: "https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png"
   seaAttr: "Map data: © OpenSeaMap contributors"
 
   # --- Default Toggles ---
-  showStats: false
+  show-stats: false
   elevation: false
-  elevationInfo: false
+  elevation-info: false
   markers: true
-  showUnitToggle: true  # Show km/nm toggle button (starts in nm mode)
-  showSeamarks: true    # Show Seamarks overlay option in layer control
+  show-unit-toggle: true  # Show km/nm toggle button (starts in nm mode)
+  show-seamarks: true    # Show Seamarks overlay option in layer control
+  show-route-selector: false # Show/Hide the route selection panel
+  
+  markerStartColor: "#2ecc71"
+  markerEndColor: "#383E42"
