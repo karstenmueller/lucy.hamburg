@@ -1,4 +1,281 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sailing Lucy</title><link>https://lucy.hamburg/en/</link><description>Recent content on Sailing Lucy</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Thu, 03 Sep 2026 16:52:43 +0200</lastBuildDate><atom:link href="https://lucy.hamburg/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Elbe!</title><link>https://lucy.hamburg/en/posts/elbe/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/elbe/</guid><description>&lt;h2 class="relative group"&gt;Elbe!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sailing Lucy</title><link>https://lucy.hamburg/en/</link><description>Recent content on Sailing Lucy</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026</copyright><lastBuildDate>Thu, 03 Sep 2026 22:20:05 +0200</lastBuildDate><atom:link href="https://lucy.hamburg/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Documents</title><link>https://lucy.hamburg/en/doc/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/doc/</guid><description>&lt;script&gt;
+	$(document).ready(function() {
+		$('#datatable2').dataTable( { "ordering": false, "order": [], } );
+		$('#datatable2_length select').val('50').change();
+	});
+&lt;/script&gt;
+
+&lt;div class="table-responsive"&gt;
+
+	&lt;table id="datatable2"
+		 class="table table-bordered nobottommargin"
+		 cellspacing="0"&gt;
+		&lt;thead&gt;
+			&lt;th&gt;Folder&lt;/th&gt;
+			&lt;th&gt;File&lt;/th&gt;
+			&lt;th&gt;Size (bytes)&lt;small&gt;:&lt;/th&gt;
+		&lt;/thead&gt;
+		&lt;tbody&gt;
+			
+
+	
+	
+
+	
+
+		
+
+			
+			
+			
+			
+				&lt;tr&gt;
+					&lt;td class="table-active" style="color:DarkGrey;"&gt; co32&lt;/td&gt;
+					&lt;td class="table-active"&gt;&lt;/td&gt;
+					&lt;td class="table-active"&gt;&lt;/td&gt;
+				&lt;/tr&gt; 
+				
+				
+
+	
+	
+
+	
+
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/co32/Contessa%2032%20YM.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Contessa 32 YM.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;1014533&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/co32/Contessa%2032.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Contessa 32.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;625100&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/co32/Contessa-Leaflet.jpg" 
+						 class="hover-animate-from-left"&gt;
+							Contessa-Leaflet.jpg
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;163441&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/co32/co32-on-test-yw-mei1996.pdf" 
+						 class="hover-animate-from-left"&gt;
+							co32-on-test-yw-mei1996.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;820811&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/co32/contessa%2032%20modern-boats-better-yachts.pdf" 
+						 class="hover-animate-from-left"&gt;
+							contessa 32 modern-boats-better-yachts.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;1180195&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+
+
+			
+		
+
+			
+			
+			
+			
+				&lt;tr&gt;
+					&lt;td class="table-active" style="color:DarkGrey;"&gt; crew&lt;/td&gt;
+					&lt;td class="table-active"&gt;&lt;/td&gt;
+					&lt;td class="table-active"&gt;&lt;/td&gt;
+				&lt;/tr&gt; 
+				
+				
+
+	
+	
+
+	
+
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/crew/Bordpraxis.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Bordpraxis.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;2814519&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/crew/Broaching-Singlehanders.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Broaching-Singlehanders.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;516288&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/crew/Crew-Manual.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Crew-Manual.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;400314&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/crew/Mitseglervereinbarung-Vorlage.pages" 
+						 class="hover-animate-from-left"&gt;
+							Mitseglervereinbarung-Vorlage.pages
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;1017382&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/crew/Mitseglervereinbarung-Vorlage.pages.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Mitseglervereinbarung-Vorlage.pages.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;193439&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+			
+			
+			
+			
+
+				&lt;tr&gt;
+					&lt;td&gt;&lt;/td&gt;
+					&lt;td&gt;
+						&lt;a href="https://lucy.hamburg/doc/crew/Nachtfahrt.pdf" 
+						 class="hover-animate-from-left"&gt;
+							Nachtfahrt.pdf
+						&lt;/a&gt;
+					&lt;/td&gt;
+					&lt;td style="color:DarkGrey;"&gt;1785274&lt;/td&gt;
+				&lt;/tr&gt;
+			
+		
+
+
+
+			
+		
+
+
+		&lt;/tbody&gt;
+	&lt;/table&gt;
+
+&lt;/div&gt;</description></item><item><title>Elbe!</title><link>https://lucy.hamburg/en/posts/elbe/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/en/posts/elbe/</guid><description>&lt;h2 class="relative group"&gt;Elbe!
  &lt;div id="elbe" class="anchor"&gt;&lt;/div&gt;
  
  &lt;span
