@@ -9,7 +9,7 @@ tags:
 
 Hamburg liegt an der Elbe, genauer an dem Zusammenfluss von Alster und Elbe. Beide sind für mich von Bedeutung: Auf der Alster habe ich Segeln auf Jollen gelernt und erste Erfahrungen gesammelt. Dann hats mich auf die Elbe gezogen, mehr Weite und die Sandstrände der Elbinseln lockten.
 
-An vielen grauen Herbsttagen bin ich im Nieselregen von St. Pauli zum Elbufer gelaufen, bin die Hafentreppe runter und elbabwärts mit der Fähre gefahren. Oder durch den alten Elbtunnel zu Fuss gegangen und von Steinwerder aus auf die Stadt geschaut. Ein Zufluchtsort zum Aufatmen, Abstand gewinnen und Gedanken schweifen lassen. Der Text des Stücks "Elbe" von S.H.O.K. spricht von ähnlichen Erfahrungen und hat mich sehr berührt.
+An vielen grauen Herbsttagen bin ich im Nieselregen von St. Pauli zum Elbufer gelaufen, bin die Hafentreppe runter und elbabwärts mit der Fähre gefahren. Oder durch den alten Elbtunnel zu Fuss gegangen und von Steinwerder aus auf die Stadt geschaut. Ein Zufluchtsort zum Aufatmen, Abstand gewinnen und Gedanken schweifen lassen. Der Text des Stücks "Elbe" von <a href="https://www.instagram.com/eshaoka/">S.H.O.K.</a> spricht von ähnlichen Erfahrungen und hat mich sehr berührt.
 <iframe width="440" height="400" src="https://li.sten.to/embed/elbe-shok" frameborder="0"></iframe>
 
 ## Schellfisch Tunnel
