@@ -1,23 +1,22 @@
 ---
 title: Lucy's Position
 date: 2025-07-15
-slug: "position"
+menu: boot/position
 tags:
 - boat
 ---
 
+## Contact
+<li>Call me on VHF using <a href="https://en.wikipedia.org/wiki/Maritime_Mobile_Service_Identity">MMSI</a> 211796970.
+<li>Follow Lucy on <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Noforeignland</a> or view all <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a>.
+
+## Position and Tracking
 {{< rawhtml >}}
-
-<li> Call me via DSC with <a href="https://en.wikipedia.org/wiki/Maritime_Mobile_Service_Identity">MMSI</a> 211796970
-<li>Follow Lucy on <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Noforeignland</a> or
-see all <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a>
-
-<li>Lucy on <a href="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925">PredictWind GPS Tracking</a>:
+<li>Follow Lucy on <a href="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925">PredictWind (GPS Tracking)</a>:
 <div class="iframe-wrap">
-  <iframe src="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925"></iframe>
+<iframe src="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925"></iframe>
 </div>
-
-<li>Have a look at the <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS</a> position from Marinetraffic:
+<li>Follow Lucy on <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">Marinetraffic (AIS Tracking)</a>:
 <script type="text/javascript">
 width = 900; //the width of the embedded map in pixels or percentage
 height = 600; //the height of the embedded map in pixels or percentage
@@ -32,5 +31,4 @@ remember = false; //true or false to remember or not the last position of the ma
 </script>
 <br/>
 <script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"></script>
-
 {{< /rawhtml >}}

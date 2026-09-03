@@ -6,19 +6,17 @@ tags:
 - boat
 ---
 
+## Kontakt
+<li>Ruf mich per VHF Funk unter der <a href="https://en.wikipedia.org/wiki/Maritime_Mobile_Service_Identity">MMSI</a> 211796970 an.
+<li>Folge Lucy auf <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Noforeignland</a> oder zeige alle <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a> an.
+
+## Position und Tracking
 {{< rawhtml >}}
-
-<li>Ruf mich per DSC unter der <a href="https://en.wikipedia.org/wiki/Maritime_Mobile_Service_Identity">MMSI</a> 211796970
-
-<li>Folge Lucy auf <a href='https://www.noforeignland.com/boat/5003183038398464' target='nfl'>Noforeignland</a> oder
-zeige alle <a href='https://www.noforeignland.com/group/6179816575336448/members' target='nfl'>Contessa Yachts</a> an.
-
-<li>Lucy auf <a href="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925">PredictWind GPS Tracking</a>:
+<li>Folge Lucy auf <a href="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925">PredictWind (GPS Tracking)</a>:
 <div class="iframe-wrap">
-  <iframe src="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925"></iframe>
+<iframe src="https://www.predictwind.com/tracking/Lucy?layer=none&symbol=&visibleTrackDuration=365&routing=true&timesliderrange=365&t=1762462925"></iframe>
 </div>
-
-<li>Schau die <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">AIS</a> position von Marinetraffic an:
+<li>Folge Lucy <a href="https://en.wikipedia.org/wiki/Automatic_identification_system" target="wikipedia">Marinetraffic (AIS Tracking)</a>:
 <script type="text/javascript">
 width = 900; //the width of the embedded map in pixels or percentage
 height = 600; //the height of the embedded map in pixels or percentage
@@ -33,5 +31,4 @@ remember = false; //true or false to remember or not the last position of the ma
 </script>
 <br/>
 <script type="text/javascript" src="https://www.marinetraffic.com/ais/embed.js"></script>
-
 {{< /rawhtml >}}
