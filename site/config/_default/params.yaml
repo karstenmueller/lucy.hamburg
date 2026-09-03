@@ -13,6 +13,7 @@ defaultAppearance: "light"
 smartTOC: true
 logo: "images/logo/lucy_logo.png"
 secondaryLogo: "images/logo/lucy_logo_dark.png"
+mainSections: ["posts", "england-2026", "doc"]
 
 article:
   showHero: true
@@ -33,6 +34,7 @@ homepage:
   showRecent: true
   showRecentItems: 3
   showMoreLink: true
+  showMoreLinkDest: "/posts"
   cardView: true
 
 list:
