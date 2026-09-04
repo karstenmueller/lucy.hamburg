@@ -123,9 +123,9 @@ Lymington schließlich am 17. Juni. Klar war der Törn zeitweise anstrengend; in
 Gezeitennavigation wie die Befriedigung, wenn der Strom nach einem ganzen Segeltag die Lucy
 genau wie berechnet vor den mächtigen Hafen von Dover setzt. Das Ablegen in **Brighton** um 2 Uhr
 nachts im Nebel mit Sichtweite unter 50 m wie die Kreuz bei Starkwind im Solent bis vor die
-Hafeneinfahrt von **Lymington** 12 Stunden später. Dort werden wir von einer Jolle aus mit einem herzlichen „Welcome to Lymington!“ empfangen. Was für eine schöne Überraschung, von Kit Rogers persönlich begrüsst zu werden!
+Hafeneinfahrt von **Lymington** 12 Stunden später. Dort werden wir von einer Jolle aus mit einem herzlichen „Welcome to Lymington!“ empfangen. Was für eine schöne Überraschung, von Kit Rogers persönlich begrüsst zu werden! Kit hat die Jeremy Rogers "Contessa" Werft von seinem Vater übernommen und viele Jahre geleitet.
 
-Mein unfreiwilliges Bad beim Anleger in **Vlieland** wie der stundenlange gemütliche Klönschnack beim Kaffee mit Karsten morgens in der Kajüte an den Tagen, an denen das Wetter ein Weiterkommen verhinderte. Ja – hat gepasst!
+Lange Schläge und Anstrengungen, aber auch der gemütliche Klönschnack beim Kaffee mit Karsten morgens in der Kajüte an den Tagen, an denen das Wetter ein Weiterkommen verhinderte. Ja – hat gepasst!
 
 Peter Skyba
 
