@@ -1,5 +1,5 @@
 ---
-title: Lucy
+title: "Contessa 32 ‘Lucy’"
 date: 2025-05-07
 slug: "boat"
 heroStyle: Background
@@ -10,7 +10,7 @@ tags:
 ---
 
 
-[→ Lucy's position]({{< ref "/position" >}} "Link title")
+[→ Lucy's position]({{< ref "/lucy/position" >}} "Link title")
 
 ## Contessa 32 'Lucy' – A Sailing Yacht with Charm and Tradition
 

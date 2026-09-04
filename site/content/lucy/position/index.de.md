@@ -1,7 +1,8 @@
 ---
 title: Lucy's Position
 date: 2025-07-15
-menu: boot/position
+aliases:
+    - /position
 tags:
 - boat
 ---

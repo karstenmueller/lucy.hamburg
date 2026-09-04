@@ -1,7 +1,7 @@
 ---
 date: "2025-05-07"
 menus: main"
-title: "Segeln"
+title: "Skipper"
 slug: "segeln"
 heroStyle: Background
 ---

@@ -10,6 +10,7 @@ assets:
 showLikes: true # requires firebase integration
 colorScheme: "congo"
 defaultAppearance: "light"
+defaultFeaturedImage: "images/lucy_racing.jpg"
 smartTOC: true
 logo: "images/logo/lucy_logo.png"
 secondaryLogo: "images/logo/lucy_logo_dark.png"

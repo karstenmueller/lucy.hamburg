@@ -1,5 +1,5 @@
 ---
-title: Lucy
+title: "Contessa 32 ‘Lucy’"
 date: 2025-05-07
 slug: "boot"
 heroStyle: Background
@@ -9,7 +9,7 @@ tags:
 - co32
 ---
 
-[→ Lucy's Position]({{< ref "/position" >}} "Link title")
+[→ Lucy's Position]({{< ref "/lucy/position" >}} "Link title")
 
 ## Contessa 32 'Lucy' – Eine Segeljacht mit Charme und Tradition
 

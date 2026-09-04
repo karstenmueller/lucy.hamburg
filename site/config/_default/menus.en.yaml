@@ -1,23 +1,17 @@
 main:
-  - pageRef: sailing
-    name: Sailing
-    weight: 2
-  - pageRef: boat
+  - pageRef: lucy
     name: Lucy
     weight: 3
-  - pageRef: position
+  - pageRef: lucy/position
+    name: Position 
     parent: Lucy
-    name: Position
-    weight: 31
   - pageRef: posts
     name: Posts
-    weight: 4
-  - pageRef: england-2026
-    parent: Posts
-    name: England 2026
-    weight: 41
+    weight: 5
   - pageRef: tags
+    name: Topics
     parent: Posts
-    name: More Topics
-    weight: 42
-  
+  - pageRef: cruising
+    name: Cruising
+    weight: 4
+

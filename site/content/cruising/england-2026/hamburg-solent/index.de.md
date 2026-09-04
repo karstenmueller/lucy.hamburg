@@ -9,7 +9,7 @@ tags:
 
 ## Wir legen ab
 
-Am 1. Juni 2026, 7 Uhr legen wir ab und Karsten steuert die Contessa 32 [Lucy]({{< ref "/boat" >}}) aus dem Finkenwerder Hafen ins Fahrwasser
+Am 1. Juni 2026, 7 Uhr legen wir ab und Karsten steuert die Contessa 32 [Lucy]({{< ref "/lucy" >}}) aus dem Finkenwerder Hafen ins Fahrwasser
 der Elbe. Unser Ziel ist der **Solent** – das traditionelle Mekka der Segelwelt. Zwei Tage zuvor hat
 Karsten mich wie verabredet am Hamburger Hauptbahnhof abgeholt. Per Videokonferenz hatten wir
 uns zuvor ausgetauscht und beide das Gefühl: Das könnte passen für die 600 sm zu zweit mit Lucy

@@ -9,7 +9,7 @@ tags:
 
 ## Casting off
 
-At 7 am on 1 June 2026, we cast off and Karsten steers the Contessa 32 [Lucy]({{< ref "/boat" >}}) out of Finkenwerder harbour and into the Elbe fairway. Our destination is the **Solent** – the traditional mecca of the sailing world. Two days earlier, as arranged, Karsten had collected me from Hamburg Central Station. We had previously spoken by video conference and both had the same feeling: this could work for the two of us aboard Lucy on the 600-nautical-mile passage from the Elbe, across the North Sea and through the Channel to Lymington in Britain.
+At 7 am on 1 June 2026, we cast off and Karsten steers the Contessa 32 [Lucy]({{< ref "/lucy" >}}) out of Finkenwerder harbour and into the Elbe fairway. Our destination is the **Solent** – the traditional mecca of the sailing world. Two days earlier, as arranged, Karsten had collected me from Hamburg Central Station. We had previously spoken by video conference and both had the same feeling: this could work for the two of us aboard Lucy on the 600-nautical-mile passage from the Elbe, across the North Sea and through the Channel to Lymington in Britain.
 We have the ebb with us, but the wind deserts us. Under engine, we reach **Glückstadt** in the early afternoon. There is ample time for a stroll around the pretty little town. Before long we are sitting in the sunshine outside a bakery, whiling away the afternoon over cappuccino and cake and gradually getting to know one another better. Yes – this will work!
 
 ## On to Cuxhaven
