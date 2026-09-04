@@ -129,7 +129,7 @@ Lange Schläge und Anstrengungen, aber auch der gemütliche Klönschnack beim Ka
 
 Peter Skyba
 
-## Bilder
+## Fotos
 
 {{< carousel images="hs-*.jpeg" interval="2000" aspectRatio="4-3" >}}
 

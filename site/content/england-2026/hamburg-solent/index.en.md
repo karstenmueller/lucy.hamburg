@@ -38,7 +38,7 @@ There were long passages and plenty of effort, but also those companionable morn
 
 Peter Skyba
 
-## Pictures
+## Photos
 
 {{< carousel images="hs-*.jpeg" interval="2000" aspectRatio="4-3" >}}
 
