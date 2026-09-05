@@ -4,6 +4,8 @@ title: "Leg: Cruising Channel"
 
 series: ["England 2026"]
 series_order: 2
+tags:
+- cruising
 ---
 
 | Location  | Date       | Time | Event             |

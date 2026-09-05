@@ -7,6 +7,8 @@ series_order: 1
 
 cover:
   image: 'route.jpeg'
+tags:
+- cruising
 ---
 
 ## Übersicht

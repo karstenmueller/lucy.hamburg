@@ -4,6 +4,8 @@ title: "Leg: Southampton - Hamburg"
 
 series: ["England 2026"]
 series_order: 6
+tags:
+- cruising
 ---
 
 Ask me later 😎

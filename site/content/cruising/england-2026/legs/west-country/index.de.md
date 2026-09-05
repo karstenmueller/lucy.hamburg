@@ -4,6 +4,8 @@ title: "Leg: Cruising West Country"
 
 series: ["England 2026"]
 series_order: 5
+tags:
+- cruising
 ---
 
 Ask me later 😎

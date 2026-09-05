@@ -7,6 +7,8 @@ series: ["England 2026"]
 series_order: 0
 
 seriesOpened: true
+tags:
+- cruising
 ---
 
 ## Es geht (bald) los!

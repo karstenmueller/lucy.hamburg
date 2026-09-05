@@ -14,7 +14,7 @@ defaultFeaturedImage: "images/lucy_racing.jpg"
 smartTOC: true
 logo: "images/logo/lucy_logo.png"
 secondaryLogo: "images/logo/lucy_logo_dark.png"
-mainSections: ["posts", "england-2026", "doc"]
+mainSections: ["posts", "cruising", "doc"]
 
 article:
   showHero: true
@@ -33,7 +33,7 @@ homepage:
   layout: background
   homepageImage: "images/lucy_racing.jpg"
   showRecent: true
-  showRecentItems: 3
+  showRecentItems: 6
   showMoreLink: true
   showMoreLinkDest: "/posts"
   cardView: true
