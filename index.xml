@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Segeln mit Lucy</title><link>https://lucy.hamburg/</link><description>Recent content on Segeln mit Lucy</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026</copyright><lastBuildDate>Sat, 05 Sep 2026 09:48:47 +0200</lastBuildDate><atom:link href="https://lucy.hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Documents</title><link>https://lucy.hamburg/doc/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/doc/</guid><description>&lt;script&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Segeln mit Lucy</title><link>https://lucy.hamburg/</link><description>Recent content on Segeln mit Lucy</description><generator>Hugo -- gohugo.io</generator><language>de</language><copyright>© 2026</copyright><lastBuildDate>Sun, 06 Sep 2026 19:10:24 +0200</lastBuildDate><atom:link href="https://lucy.hamburg/index.xml" rel="self" type="application/rss+xml"/><item><title>Segel Sabbatical England</title><link>https://lucy.hamburg/cruising/england-2026/sabbatical/</link><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/cruising/england-2026/sabbatical/</guid><description>&lt;p&gt;Noch träume ich jeden Morgen vom Segeln und brauche beim Aufwachen eine Weile um zu realisieren das ich nicht an Bord bin. Drei Monate lang war ich es, Tag und Nacht. Wieder zuhause ankommen, aber noch nicht im Alltag. Wie auch immer der werden wird&amp;hellip; erstmal &amp;ldquo;neu beginnen&amp;rdquo;. Meine Erlebnisse und Begegnungen habe ich noch nicht verarbeitet, hier einiges von dem, was für mich besonders war.&lt;/p&gt;
+
+&lt;figure&gt;
+ &lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="auto"
+ alt=""
+ width="1172"
+ height="670"
+ src="https://lucy.hamburg/cruising/england-2026/sabbatical/route_hu_303b52cfa28d6d50.jpeg"
+ srcset="https://lucy.hamburg/cruising/england-2026/sabbatical/route_hu_303b52cfa28d6d50.jpeg 800w,/cruising/england-2026/sabbatical/route_hu_7c98fcfd507ec37e.jpeg 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://lucy.hamburg/cruising/england-2026/sabbatical/route.jpeg"
+ /&gt;
+ 
+ &lt;figcaption&gt;3 Monate Segeln - vieles erlebt und 1950 nm zurückgelegt&lt;/figcaption&gt;
+ &lt;/figure&gt;
+
+&lt;h2 class="relative group"&gt;Extremer Sommer
+ &lt;div id="extremer-sommer" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#extremer-sommer" aria-label="Anker"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Der &lt;strong&gt;Sommer 2026&lt;/strong&gt; geht als einer der extremsten und verheerendsten Sommer seit Beginn der Wetteraufzeichnungen in die europäische Klimageschichte ein. Selbst im Süden Englands und in der Bretagne habe ich davon einen Eindruck bekommen, auch wenn es dort nicht so heiss wie andernorts war. In England und Frankreich starben fast 8600 Menschen an der Hitze, in Deutschland rund 14.000. Die höchsten Temperaturen gab es in Südeuropa, neben anderen Ländern waren Spanien und Frankreich von grösseren Bränden betoffen.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://lucy.hamburg/cruising/england-2026/sabbatical/featured.jpeg"/></item><item><title>Documents</title><link>https://lucy.hamburg/doc/</link><pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate><guid>https://lucy.hamburg/doc/</guid><description>&lt;script&gt;
 	$(document).ready(function() {
 		$('#datatable2').dataTable( { "ordering": false, "order": [], } );
 		$('#datatable2_length select').val('50').change();
