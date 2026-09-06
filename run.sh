@@ -13,13 +13,14 @@ update_hugo() {
     fi
 }
 
+start_hugo() {
+    pushd site || exit 1
+    rm -rf public resources/_gen
+    hugo mod clean 
+    hugo mod get -u
+    hugo server --watch --disableFastRender --cleanDestinationDir --forceSyncStatic --minify --logLevel info
+    popd
+}
+
 update_hugo
-
-pushd site || exit 1
-
-rm -rf public resources/_gen
-hugo mod clean 
-hugo mod get -u
-hugo server --watch --disableFastRender --cleanDestinationDir --forceSyncStatic --minify --logLevel info
-
-popd
+start_hugo
