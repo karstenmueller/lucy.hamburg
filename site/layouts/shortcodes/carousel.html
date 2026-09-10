@@ -1,0 +1,167 @@
+{{/* Based on Blowfish's native carousel. Keep the name carousel so theme assets load. */}}
+{{ $id := printf "carousel-%s-%d" (md5 .Page.RelPermalink) .Ordinal }}
+{{ $ratio := replace (.Get "aspectRatio" | default "4-3") "/" "-" }}
+{{ if not (findRE `^[1-9][0-9]*-[1-9][0-9]*$` $ratio) }}
+  {{ errorf "carousel: aspectRatio must be positive integers, e.g. 16-9, at %s" .Position }}
+{{ end }}
+{{ $aspect := split $ratio "-" }}
+{{ $aspectx := index $aspect 0 }}
+{{ $aspecty := index $aspect 1 }}
+{{ $interval := .Get "interval" | default "2000" }}
+{{ $images := slice }}
+{{ $seen := newScratch }}
+{{ $page := .Page }}
+{{ $patterns := .Get "images" | default "gallery/*" }}
+{{ $patterns = strings.TrimPrefix "{" $patterns }}
+{{ $patterns = strings.TrimSuffix "}" $patterns }}
+{{ range split $patterns "," }}
+  {{ range $page.Resources.Match (strings.TrimSpace .) }}
+    {{ if and (eq .ResourceType "image") (not ($seen.Get .RelPermalink)) }}
+      {{ $seen.Set .RelPermalink true }}
+      {{/* The published basename survives front-matter resource name overrides. */}}
+      {{ $filename := path.Base .RelPermalink | urls.PathUnescape }}
+      {{ $images = $images | append (dict "resource" . "filename" $filename "sortkey" (printf "%s/%s" $filename .RelPermalink)) }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $images = sort $images "sortkey" "asc" }}
+{{ $captions := .Page.Params.captions | default dict }}
+{{ if not $images }}
+  {{ warnf "carousel: no page-bundle images match %q at %s" $patterns .Position }}
+{{ else }}
+{{ if not .Parent }}<div class="width-patch"></div>{{ end }}
+<div
+  id="{{ $id }}"
+  class="relative"
+  role="region" aria-roledescription="carousel" aria-label="{{ .Get "label" | default "Image gallery" }}"
+  style="container-type: inline-size;"
+  data-twe-carousel-init
+  data-twe-ride="carousel"
+  data-twe-interval="{{ $interval }}">
+  <div
+    class="absolute right-0 left-0 z-2 mx-[15%] mb-10 flex list-none justify-center p-0"
+    style="top: calc(100cqi * {{ $aspecty }} / {{ $aspectx }} - 2.5rem);"
+    data-twe-carousel-indicators>
+    {{ $num := 0 }}
+    {{ range $images }}
+      <button
+        type="button"
+        data-twe-target="#{{ $id }}"
+        data-twe-slide-to="{{ $num }}"
+        {{ if eq $num 0 }}data-twe-carousel-active aria-current="true"{{ end }}
+        class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
+        aria-label="Slide {{ add $num 1 }}"></button>
+      {{ $num = add $num 1 }}
+    {{ end }}
+  </div>
+
+  <div
+    class="relative w-full after:clear-both after:block after:content-['']"
+    style="overflow-x: clip; overflow-y: visible;">
+    {{ range $index, $image := $images }}
+    {{ $hiddenClass := cond (eq $index 0) "" "hidden" }}
+    {{ $resource := index $image "resource" }}
+    {{ $filename := index $image "filename" }}
+    {{ $caption := strings.TrimSuffix (path.Ext $filename) $filename }}
+    {{ $caption = replaceRE "[-_]+" " " $caption }}
+    {{ with index $captions $filename }}{{ $caption = . }}{{ end }}
+    {{ with index $captions $resource.Name }}{{ $caption = . }}{{ end }}
+    {{ with $resource.Params.caption }}{{ $caption = . }}{{ end }}
+    {{ $alt := $caption | markdownify | plainify }}
+    {{ with $resource.Params.alt }}{{ $alt = . }}{{ end }}
+    <figure
+      class="relative float-left -mr-[100%] {{ $hiddenClass }} w-full transition-transform ease-in-out motion-reduce:transition-none"
+      data-twe-carousel-item
+      style="margin: 0; margin-right: -100%; transition-duration: {{ $interval }}ms;"
+      {{ if eq $index 0 }}data-twe-carousel-active{{ end }}>
+        <div class="single_hero_background relative overflow-hidden" style="aspect-ratio: {{ $aspectx }} / {{ $aspecty }};">
+          <img
+            src="{{ $resource.RelPermalink }}"
+            class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
+            alt="{{ $alt }}" loading="lazy" decoding="async">
+        </div>
+        <figcaption class="mt-1">{{ $caption | markdownify }}</figcaption>
+    </figure>
+    {{ end }}
+  </div>
+
+  <button
+    class="absolute top-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
+    style="height: calc(100cqi * {{ $aspecty }} / {{ $aspectx }});"
+    type="button"
+    data-twe-target="#{{ $id }}"
+    data-twe-slide="prev">
+    <span class="inline-block h-8 w-8">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="4.5"
+        stroke="currentColor"
+        class="h-6 w-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+      </svg>
+    </span>
+    <span
+      class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]"
+      >Previous</span
+    >
+  </button>
+
+  <button
+    class="absolute top-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
+    style="height: calc(100cqi * {{ $aspecty }} / {{ $aspectx }});"
+    type="button"
+    data-twe-target="#{{ $id }}"
+    data-twe-slide="next">
+    <span class="inline-block h-8 w-8">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        viewBox="0 0 24 24"
+        stroke-width="4.5"
+        stroke="currentColor"
+        class="h-6 w-6">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+      </svg>
+    </span>
+    <span
+      class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]"
+      >Next</span
+    >
+  </button>
+</div>
+
+
+  <script>
+    (() => {
+      const root = document.getElementById("{{ $id }}");
+      if (!root) return;
+
+      const items = Array.from(root.querySelectorAll("[data-twe-carousel-item]"));
+      const captions = items
+        .map((item) => item.querySelector("figcaption"))
+        .filter((caption) => caption);
+      if (captions.length < 2) return;
+
+      const measureAndFixCaptionHeight = () => {
+        captions.forEach((caption) => { caption.style.minHeight = ""; });
+        const hiddenItems = items.filter((item) => item.classList.contains("hidden"));
+        hiddenItems.forEach((item) => item.classList.remove("hidden"));
+
+        const maxHeight = Math.max(
+          ...captions.map((caption) => Math.ceil(caption.getBoundingClientRect().height)),
+        );
+
+        hiddenItems.forEach((item) => item.classList.add("hidden"));
+        captions.forEach((caption) => {
+          caption.style.minHeight = `${maxHeight}px`;
+        });
+      };
+
+      window.requestAnimationFrame(measureAndFixCaptionHeight);
+      window.addEventListener("load", measureAndFixCaptionHeight, { once: true });
+      window.addEventListener("resize", measureAndFixCaptionHeight);
+    })();
+  </script>
+  {{ end }}
