@@ -3,6 +3,15 @@ date: '2026-09-04'
 title: 'Segel Sabbatical England'
 tags:
 - cruising
+captions:
+  dolphin-1.jpeg: "Delphine zu fotografieren ist nicht einfach..."
+  dolphin-2.jpeg: "Delphin in der Lyme Bay"
+  dolphin-3.jpeg: "Deplhin bei den Scillies"
+  scillies-01.jpeg: "Peninnis Lighthouse auf St. Marys"
+  scillies-02.jpeg: "Zu Fuss über die Landebahn auf St. Marys"
+  scillies-021.jpeg: "Hafen von Hugh Town auf St. Marys"
+  scillies-03.jpeg: "Nacht vor Tresco"
+  scillies-04.jpeg: "Lucy vor Mooring bei Bryher"
 ---
 
 Noch träume ich jeden Morgen vom Segeln und brauche beim Aufwachen eine Weile um zu realisieren das ich nicht an Bord bin. Drei Monate lang war ich es, Tag und Nacht. Wieder zuhause ankommen, aber noch nicht im Alltag. Wie auch immer der werden wird... erstmal "neu beginnen". Meine Erlebnisse und Begegnungen habe ich noch nicht verarbeitet, hier einiges von dem, was für mich besonders war.
@@ -27,11 +36,13 @@ Stimmt mein Kurs, was liegt vor mir im Dunkeln? Wenige Leuchtfeuer sind zu sehen
 
 Wie großartig, frühmorgens in die Mündung des Flusses Dart einzulaufen, das Dartmouth Castle zu sehen und nach einer Biegung die kleine Stadt Dartmouth zu erblicken. Und einen freien Platz am Ponton des Yachtclubs zu bekommen, dann schnell festmachen und in die Koje? Nein, ich sehe jemandem mit Kaffee und will auch einen! Daraus wird ein Full English Breakfast mit zwei grossen Tassen Kaffee. So gestärkt dann in die Koje fallen und einige Stunden schlafen, bevor es weitergeht.
 
-{{< carousel images="night-*.jpeg" interval="2000" >}}
+{{< carousel images="night-*.jpeg" >}}
+
+{{< instagram DYR52UqxKls >}}
 
 ## Delphine
 
-{{< carousel images="dolphin-*.jpeg" interval="2000" >}}
+{{< carousel images="dolphin-*" >}}
 
 ## West Country
 
@@ -39,16 +50,16 @@ Wie großartig, frühmorgens in die Mündung des Flusses Dart einzulaufen, das D
 
 ## Scillies
 
-{{< carousel images="scillies-*.jpeg" interval="2000" >}}
+{{< carousel images="scillies-*.jpeg" >}}
 
 ## Zahlen
 
-| N    | ?                                   |
+| Zahl | Beschreibung                        |
 |------|-------------------------------------|
 | 5    | Personen waren mit mir unterwegs    |
 | 90   | Tage war ich an Bord                |
 | 1950 | Nautische Meilen (3610 km) gesegelt |
-| XX   | Tage bin ich gesegelt               |
-| XX   | Liter Diesel verbraucht             |
+| XX   | Tage gesegelt                       |
+| XX   | Liter Diesel verbrannt              |
 
-{{< figure src="featured.jpeg" caption="Segeln im Solent - im Sommer 2026 scheint fast immer die Sonne">}}
+{{< figure src="featured.jpeg" caption="Glückliches Segeln im Solent - im Sommer 2026 scheint fast immer die Sonne">}}
