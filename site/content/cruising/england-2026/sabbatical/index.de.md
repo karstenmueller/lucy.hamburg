@@ -12,6 +12,12 @@ captions:
   scillies-021.jpeg: "Hafen von Hugh Town auf St. Marys"
   scillies-03.jpeg: "Nacht vor Tresco"
   scillies-04.jpeg: "Lucy vor Mooring bei Bryher"
+  night-ameland-1.jpeg: "Sonnenuntergang vor Ameland"
+  night-ameland-2.jpeg: "Sonnenuntergang (mehr) vor Ameland"
+  night-ameland-3.jpeg: "Sonnenuntergang (noch mehr) vor Ameland"
+  night-borkum.jpeg: "Blendendes Licht und schnelle Kurswechsel - beängstigende Begegnung mit einem Fischer vor Borkum"
+  night-elbe-approach.jpeg: "Blick ins Cockpit vor Cuxhaven"
+  night-jade.jpeg: "Der Mond scheint in der Jademündung"
 ---
 
 Noch träume ich jeden Morgen vom Segeln und brauche beim Aufwachen eine Weile um zu realisieren das ich nicht an Bord bin. Drei Monate lang war ich es, Tag und Nacht. Wieder zuhause ankommen, aber noch nicht im Alltag. Wie auch immer der werden wird... erstmal "neu beginnen". Meine Erlebnisse und Begegnungen habe ich noch nicht verarbeitet, hier einiges von dem, was für mich besonders war.
@@ -62,4 +68,4 @@ Wie großartig, frühmorgens in die Mündung des Flusses Dart einzulaufen, das D
 | XX   | Tage gesegelt                       |
 | XX   | Liter Diesel verbrannt              |
 
-{{< figure src="featured.jpeg" caption="Glückliches Segeln im Solent - im Sommer 2026 scheint fast immer die Sonne">}}
+{{< figure src="featured.jpeg" caption="Glückliches Segeln im Solent - in der Hitzewelle 2026 scheint fast immer die Sonne">}}

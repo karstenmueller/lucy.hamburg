@@ -4,15 +4,22 @@ title: 'Sailing Sabbatical in England'
 tags:
 - cruising
 captions:
-  dolphin-1.jpeg: "Photographing dolphins is not easy..."
-  dolphin-2.jpeg: "A dolphin in Lyme Bay"
-  dolphin-3.jpeg: "A dolphin off the Scillies"
-  scillies-01.jpeg: "Peninnis Lighthouse on St. Marys"
-  scillies-02.jpeg: "Walking across the runway on St. Marys"
-  scillies-021.jpeg: "Hugh Town harbour on St. Marys"
+  dolphin-1.jpeg: "Photographing dolphins is no easy matter..."
+  dolphin-2.jpeg: "Dolphin in Lyme Bay"
+  dolphin-3.jpeg: "Dolphin off the Scillies"
+  scillies-01.jpeg: "Peninnis Lighthouse on St. Mary's"
+  scillies-02.jpeg: "On foot across the runway on St. Mary's"
+  scillies-021.jpeg: "Hugh Town harbour on St. Mary's"
   scillies-03.jpeg: "A night off Tresco"
   scillies-04.jpeg: "Lucy on a mooring off Bryher"
+  night-ameland-1.jpeg: "Sunset off Ameland"
+  night-ameland-2.jpeg: "More sunset off Ameland"
+  night-ameland-3.jpeg: "Yet more sunset off Ameland"
+  night-borkum.jpeg: "Dazzling lights and sudden changes of course – frightening fishing boat encounter off Borkum"
+  night-elbe-approach.jpeg: "A view into the cockpit off Cuxhaven"
+  night-jade.jpeg: "Moonlight over the Jade estuary"
 ---
+
 Every morning I still dream of sailing, and when I wake it takes a while to realise I am no longer aboard. For three months I was there, day and night. Home again, though everyday life has yet to catch up with me. Whatever shape it takes... first, a fresh start. I am still making sense of all I experienced and the people I met. Here are a few things that meant the most to me.
 {{< figure src="route.jpeg" caption="3 months of sailing — a wealth of experiences and 1950 nm covered">}}
 ## A summer of extremes
@@ -41,4 +48,4 @@ How glorious to enter the mouth of the River Dart in the early morning, see Dart
 | XX     | Days spent sailing              |
 | XX     | Litres of diesel burned         |
 
-{{< figure src="featured.jpeg" caption="Happy sailing in the Solent — the sun shines almost every day in the summer of 2026">}}
+{{< figure src="featured.jpeg" caption="Happy sailing in the Solent — the sun shone almost every day in the heatwave of 2026">}}
