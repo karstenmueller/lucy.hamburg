@@ -27,3 +27,5 @@ heroStyle: Background
     poster="featured.png"
     muted=true
 >}}
+
+{{< newsletter >}}
