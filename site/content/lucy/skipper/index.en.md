@@ -20,3 +20,5 @@ heroStyle: Background
 - **Tradition and History:** Sailing is an ancient tradition that connects people with the history and origins of seafaring.
 
 {{< instagram ChcOWU7JGT0 >}}
+
+{{< newsletter >}}

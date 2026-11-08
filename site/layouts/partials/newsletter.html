@@ -1,3 +1,39 @@
+{{- $lang := "en" -}}
+{{- with .Page -}}{{- $lang = .Language.Lang -}}{{- end -}}
+{{- $t := dict
+  "error" "Your subscription could not be saved. Please try again."
+  "success" "Your subscription has been successful."
+  "title" "Subscribe to Posts"
+  "text" "Subscribe to get notified on new Sailing Lucy posts ⛵️"
+  "button" "SUBSCRIBE"
+  "optin" "I agree to receive your newsletters and accept the data privacy statement."
+  "countryCode" "Please choose a country code"
+  "invalid" "The information provided is invalid. Please review the field format and try again."
+  "required" "This field cannot be left blank. "
+  "invalidDate" "Please enter a valid date"
+  "multiselect" "Please select at least 1 option"
+  "listSelected" "{quantity} list selected"
+  "listsSelected" "{quantity} lists selected"
+  "optionSelected" "{quantity} selected"
+-}}
+{{- if eq $lang "de" -}}
+{{- $t = dict
+  "error" "Deine Anmeldung konnte nicht gespeichert werden. Bitte versuche es erneut."
+  "success" "Fast geschafft! Bitte bestätige deine Anmeldung über den Link in der E-Mail, die wir dir gerade geschickt haben."
+  "title" "Neue Beiträge abonnieren"
+  "text" "Lass dich benachrichtigen, wenn es neue Beiträge von Sailing Lucy gibt ⛵️"
+  "button" "ANMELDEN"
+  "optin" "Ich möchte den Newsletter erhalten und akzeptiere die Datenschutzerklärung."
+  "countryCode" "Bitte wähle eine Ländervorwahl"
+  "invalid" "Die Angaben sind ungültig. Bitte überprüfe das Format und versuche es erneut."
+  "required" "Dieses Feld darf nicht leer sein. "
+  "invalidDate" "Bitte gib ein gültiges Datum ein"
+  "multiselect" "Bitte wähle mindestens eine Option"
+  "listSelected" "{quantity} Liste ausgewählt"
+  "listsSelected" "{quantity} Listen ausgewählt"
+  "optionSelected" "{quantity} ausgewählt"
+-}}
+{{- end -}}
 <!-- Begin Brevo Form -->
 
 
@@ -85,7 +121,7 @@
         <span class="sib-form-message-panel__inner-text">
 
 
-                Your subscription could not be saved. Please try again.
+                {{ $t.error }}
               
             
           </span>
@@ -101,7 +137,7 @@
         <span class="sib-form-message-panel__inner-text">
 
 
-                Your subscription has been successful.
+                {{ $t.success }}
              
             
           </span>
@@ -116,7 +152,7 @@
 
 
           <div class="sib-form-block" style="font-family:Helvetica, sans-serif; font-size:32px; font-weight:700; text-align:left; color:#3C4858; background-color:transparent; text-align:left">
-            <p>Subscribe to Posts</p>
+            <p>{{ $t.title }}</p>
           </div>
 
 
@@ -130,7 +166,7 @@
 
           <div class="sib-form-block" style="font-family:Helvetica, sans-serif; font-size:16px; text-align:left; color:#3C4858; background-color:transparent; text-align:left">
             <div class="sib-text-form-block">
-              <p>Subscribe to get notified on new Sailing Lucy posts ⛵️</p>
+              <p>{{ $t.text }}</p>
             </div>
           </div>
 
@@ -181,7 +217,7 @@
               <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
                 <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" />
               </svg>
-              SUBSCRIBE
+              {{ $t.button }}
             </button>
 
 
@@ -206,7 +242,7 @@
 
                     <span class="checkbox checkbox_tick_positive"
             style="margin-left:"
-            ></span><span style="font-family:Helvetica, sans-serif; font-size:14px; text-align:left; color:#3C4858; background-color:transparent;"><p>I agree to receive your newsletters and accept the data privacy statement.</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span>
+            ></span><span style="font-family:Helvetica, sans-serif; font-size:14px; text-align:left; color:#3C4858; background-color:transparent;"><p>{{ $t.optin }}</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span>
 
                   </label>
                 </div>
@@ -240,7 +276,7 @@
         <input type="text" name="email_address_check" value="" class="input--hidden">
 
 
-        <input type="hidden" name="locale" value="en">
+        <input type="hidden" name="locale" value="{{ $lang }}">
 
 
       </form>
@@ -251,41 +287,41 @@
 
 <!-- START - We recommend to place the below code in footer or bottom of your website html  -->
 <script>
-  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
-  window.LOCALE = 'en';
+  window.REQUIRED_CODE_ERROR_MESSAGE = {{ $t.countryCode }};
+  window.LOCALE = {{ $lang }};
 
 
 
 
-  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = {{ $t.invalid }};
 
 
 
 
 
-  window.REQUIRED_ERROR_MESSAGE = "This field cannot be left blank. ";
+  window.REQUIRED_ERROR_MESSAGE = {{ $t.required }};
 
-  window.GENERIC_INVALID_MESSAGE = "The information provided is invalid. Please review the field format and try again.";
-
-
-  window.INVALID_NUMBER = "The information provided is invalid. Please review the field format and try again.";
+  window.GENERIC_INVALID_MESSAGE = {{ $t.invalid }};
 
 
-
-
-  window.INVALID_DATE = "Please enter a valid date";
+  window.INVALID_NUMBER = {{ $t.invalid }};
 
 
 
-  window.REQUIRED_MULTISELECT_MESSAGE = 'Please select at least 1 option';
+
+  window.INVALID_DATE = {{ $t.invalidDate }};
+
+
+
+  window.REQUIRED_MULTISELECT_MESSAGE = {{ $t.multiselect }};
 
 
   window.translation = {
     common: {
-      selectedList: '{quantity} list selected',
-      selectedLists: '{quantity} lists selected',
-      selectedOption: '{quantity} selected',
-      selectedOptions: '{quantity} selected',
+      selectedList: {{ $t.listSelected }},
+      selectedLists: {{ $t.listsSelected }},
+      selectedOption: {{ $t.optionSelected }},
+      selectedOptions: {{ $t.optionSelected }},
     }
   };
 
@@ -298,7 +334,7 @@
 
 
 
-<script src="https://www.google.com/recaptcha/api.js?render=6LcaCeotAAAAAAfz6VAkllXOA2d67FlsXUw2tj2e&hl=en" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LcaCeotAAAAAAfz6VAkllXOA2d67FlsXUw2tj2e&hl={{ $lang }}" async defer></script>
 
 
 
